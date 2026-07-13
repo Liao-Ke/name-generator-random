@@ -1,0 +1,43 @@
+# 随机名字 API - 本地开发与部署
+# 用法: podman compose up -d
+# 停止: podman compose down
+# 数据卷持久化在 ./.data/pg (见 volumes)
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: namegen-pg
+    environment:
+      POSTGRES_USER: namegen
+      POSTGRES_PASSWORD: namegen
+      POSTGRES_DB: namegen
+      TZ: Asia/Shanghai
+    ports:
+      - "5433:5432"           # 宿主 5433 避免冲撞本机 PG
+    volumes:
+      - ./.data/pg:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U namegen -d namegen"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+    restart: unless-stopped
+
+  api:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    container_name: namegen-api
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      POSTGRES_DSN: "postgres://namegen:namegen@postgres:5432/namegen?sslmode=disable"
+      API_LISTEN_ADDR: "0.0.0.0:8080"
+      # 限流: 匿名 30 req/min
+      RATE_LIMIT_RPM: "30"
+      RATE_LIMIT_BURST: "30"
+      # 可选: 加密密钥 / 其他配置后补
+    ports:
+      - "8080:8080"
+    restart: unless-stopped

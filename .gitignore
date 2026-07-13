@@ -39,3 +39,4 @@ node_modules/
 .idea
 api/database/extracted/name_tokens.json
 api/database/source/imperial_exam.records.json
+.data/
