@@ -1,0 +1,1850 @@
+{
+  "query": {
+    "surname": "姚",
+    "must": [
+      "明"
+    ],
+    "mustPosition": "second",
+    "sourcePreference": "academic",
+    "limit": 200
+  },
+  "sourceId": "academic",
+  "sourceLabel": "五道口",
+  "candidateCount": 8627,
+  "results": [
+    {
+      "fullName": "姚明安",
+      "name": "明安",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "邵明安(科学院院士)"
+      ],
+      "pinyin": [
+        "míng",
+        "ān"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明安：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明超",
+      "name": "明超",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "蔡明超(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "chāo"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明超：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明初",
+      "name": "明初",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "周明初(国家社科基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "chū"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明初：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明川",
+      "name": "明川",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "郑明川(国家自然基金)",
+        "庞明川(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "chuān"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明川：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明建",
+      "name": "明建",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "周明建(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "jiàn"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明建：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明舰",
+      "name": "明舰",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王明舰(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "jiàn"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明舰：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明津",
+      "name": "明津",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "金明津(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "jīn"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明津：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明进",
+      "name": "明进",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王明进(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "jìn"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明进：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明军",
+      "name": "明军",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "肖明军(国家自然基金)",
+        "计明军(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "jūn"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明军：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明立",
+      "name": "明立",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张明立(国家自然基金)",
+        "陈明立(国家社科基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "lì"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明立：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明利",
+      "name": "明利",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王明利(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "lì"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明利：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明谦",
+      "name": "明谦",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "蒋明谦(科学院院士)"
+      ],
+      "pinyin": [
+        "míng",
+        "qiān"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明谦：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明秋",
+      "name": "明秋",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "宋明秋(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "qiū"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明秋：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明确",
+      "name": "明确",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "叶明确(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "què"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明确：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明瑞",
+      "name": "明瑞",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "郭明瑞(国家社科基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "ruì"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明瑞：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明山",
+      "name": "明山",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "苏明山(国家自然基金)",
+        "齐明山(国家社科基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "shān"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明山：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明顺",
+      "name": "明顺",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "宋明顺(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "shùn"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明顺：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明伟",
+      "name": "明伟",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "唐明伟(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "wěi"
+      ],
+      "tonePattern": "223",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明伟：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明武",
+      "name": "明武",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "樊明武(工程院院士)"
+      ],
+      "pinyin": [
+        "míng",
+        "wǔ"
+      ],
+      "tonePattern": "223",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明武：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明熙",
+      "name": "明熙",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "程明熙(国家自然基金)",
+        "朱明熙(国家社科基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "xī"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明熙：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明喜",
+      "name": "明喜",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王明喜(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "xǐ"
+      ],
+      "tonePattern": "223",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明喜：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明晓",
+      "name": "明晓",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "鲍明晓(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "xiǎo"
+      ],
+      "tonePattern": "223",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明晓：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明新",
+      "name": "明新",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王明新(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "xīn"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明新：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明鑫",
+      "name": "明鑫",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "甘明鑫(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "xīn"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明鑫：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明秀",
+      "name": "明秀",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "李明秀(国家社科基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "xiù"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明秀：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明轩",
+      "name": "明轩",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "俞明轩(国家自然基金)",
+        "刘明轩(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "xuān"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明轩：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明晔",
+      "name": "明晔",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "艾明晔(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "yè"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明晔：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明义",
+      "name": "明义",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "罗明义(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "yì"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明义：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明宇",
+      "name": "明宇",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "刘明宇(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "yǔ"
+      ],
+      "tonePattern": "223",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明宇：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明玉",
+      "name": "明玉",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张明玉(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "yù"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明玉：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明月",
+      "name": "明月",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "许明月(国家社科基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "yuè"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明月：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明钊",
+      "name": "明钊",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "种明钊(国家社科基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "zhāo"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明钊：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明镇",
+      "name": "明镇",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "周明镇(科学院院士)"
+      ],
+      "pinyin": [
+        "míng",
+        "zhèn"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明镇：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明志",
+      "name": "明志",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "李明志(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "zhì"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明志：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明致",
+      "name": "明致",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "陈明致(工程院院士)"
+      ],
+      "pinyin": [
+        "míng",
+        "zhì"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明致：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明智",
+      "name": "明智",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张明智(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "zhì"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明智：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明周",
+      "name": "明周",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "刘明周(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "zhōu"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明周：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明珠",
+      "name": "明珠",
+      "score": 87,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "吴明珠(工程院院士)",
+        "余明珠(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "zhū"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明珠：总分 87；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明述",
+      "name": "明述",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "唐明述(工程院院士)"
+      ],
+      "pinyin": [
+        "míng",
+        "shù"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明述：总分 86；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明庥",
+      "name": "明庥",
+      "score": 84,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 5,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王明庥(工程院院士)"
+      ],
+      "pinyin": [
+        "míng",
+        "xiū"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低",
+        "来源：五道口",
+        "包含低频字，已降低用字分"
+      ],
+      "explanation": "姚明庥：总分 84；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低"
+    },
+    {
+      "fullName": "姚明吉",
+      "name": "明吉",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张明吉(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "jí"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明吉」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明吉」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明吉：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明吉」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "姚明杰",
+      "name": "明杰",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张明杰(科学院院士)",
+        "芮明杰(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "jié"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明杰」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明杰」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明杰：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明杰」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "姚明洁",
+      "name": "明洁",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "周明洁(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "jié"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明洁」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明洁」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明洁：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明洁」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "姚明丽",
+      "name": "明丽",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "焦明丽(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "lí"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明丽」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明丽」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明丽：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明丽」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "姚明林",
+      "name": "明林",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张明林(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "lín"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明林」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明林」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明林：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明林」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "姚明琳",
+      "name": "明琳",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王明琳(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "lín"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明琳」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明琳」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明琳：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明琳」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "姚明仑",
+      "name": "明仑",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "任明仑(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "lún"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明仑」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明仑」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明仑：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明仑」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "姚明芹",
+      "name": "明芹",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "曹明芹(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "qín"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明芹」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明芹」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明芹：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明芹」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "姚明琴",
+      "name": "明琴",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "吴明琴(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "qín"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明琴」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明琴」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明琴：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明琴」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "姚明然",
+      "name": "明然",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "邓明然(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "rán"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明然」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明然」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明然：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明然」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "姚明文",
+      "name": "明文",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "夏明文(国家社科基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "wén"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明文」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明文」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明文：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明文」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "姚明侠",
+      "name": "明侠",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "魏明侠(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "xiá"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明侠」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明侠」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明侠：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明侠」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "姚明霞",
+      "name": "明霞",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "刘明霞(国家自然基金)",
+        "井明霞(国家自然基金)",
+        "高明霞(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "xiá"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明霞」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明霞」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明霞：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明霞」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "姚明贤",
+      "name": "明贤",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "李明贤(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "xián"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明贤」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明贤」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明贤：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明贤」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "姚明瑜",
+      "name": "明瑜",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "吴明瑜(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "yú"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明瑜」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明瑜」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明瑜：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明瑜」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "姚明元",
+      "name": "明元",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "赵明元(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "yuán"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明元」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明元」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明元：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明元」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "姚明哲",
+      "name": "明哲",
+      "score": 76,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "柳明哲(国家自然基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "zhé"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「姚明」声调相同，音律分降低；名字内部「明哲」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「姚明」声调相同，音律分降低；名字内部「明哲」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "姚明哲：总分 76；来源：五道口；音律：姓和名首字「姚明」声调相同，音律分降低；名字内部「明哲」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    }
+  ]
+}

@@ -1,0 +1,6478 @@
+{
+  "query": {
+    "surname": "姚",
+    "sourcePreference": "imperial_exam",
+    "limit": 200
+  },
+  "sourceId": "imperial_exam",
+  "sourceLabel": "登科录",
+  "candidateCount": 27377,
+  "results": [
+    {
+      "fullName": "姚班爵",
+      "name": "班爵",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "周班爵"
+      ],
+      "pinyin": [
+        "bān",
+        "jué"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚班爵：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚必崇",
+      "name": "必崇",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "阎必崇"
+      ],
+      "pinyin": [
+        "bì",
+        "chóng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚必崇：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚必寰",
+      "name": "必寰",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "赵必寰"
+      ],
+      "pinyin": [
+        "bì",
+        "huán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚必寰：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚必爵",
+      "name": "必爵",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "方必爵"
+      ],
+      "pinyin": [
+        "bì",
+        "jué"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚必爵：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚必魁",
+      "name": "必魁",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "赵必魁"
+      ],
+      "pinyin": [
+        "bì",
+        "kuí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚必魁：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚必秦",
+      "name": "必秦",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "张必秦"
+      ],
+      "pinyin": [
+        "bì",
+        "qín"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚必秦：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚必遂",
+      "name": "必遂",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "赵必遂"
+      ],
+      "pinyin": [
+        "bì",
+        "suí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚必遂：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚必途",
+      "name": "必途",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "赵必途"
+      ],
+      "pinyin": [
+        "bì",
+        "tú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚必途：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚必闻",
+      "name": "必闻",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "周必闻"
+      ],
+      "pinyin": [
+        "bì",
+        "wén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚必闻：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚必循",
+      "name": "必循",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "赵必循"
+      ],
+      "pinyin": [
+        "bì",
+        "xún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚必循：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚必择",
+      "name": "必择",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "赵必择"
+      ],
+      "pinyin": [
+        "bì",
+        "zé"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚必择：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚必琢",
+      "name": "必琢",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "赵必琢"
+      ],
+      "pinyin": [
+        "bì",
+        "zhuó"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚必琢：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚宾于",
+      "name": "宾于",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "胡宾于",
+        "孟宾于"
+      ],
+      "pinyin": [
+        "bīn",
+        "yú"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚宾于：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚不遂",
+      "name": "不遂",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "赵不遂"
+      ],
+      "pinyin": [
+        "bù",
+        "suí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚不遂：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚步蟾",
+      "name": "步蟾",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "田步蟾",
+        "高步蟾",
+        "马步蟾",
+        "徐步蟾"
+      ],
+      "pinyin": [
+        "bù",
+        "chán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚步蟾：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚步韩",
+      "name": "步韩",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "吴步韩"
+      ],
+      "pinyin": [
+        "bù",
+        "hán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚步韩：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚步奎",
+      "name": "步奎",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "牛步奎"
+      ],
+      "pinyin": [
+        "bù",
+        "kuí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚步奎：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚步鸾",
+      "name": "步鸾",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "裔步鸾"
+      ],
+      "pinyin": [
+        "bù",
+        "luán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚步鸾：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚灿奎",
+      "name": "灿奎",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "熊灿奎"
+      ],
+      "pinyin": [
+        "càn",
+        "kuí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚灿奎：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚聪谐",
+      "name": "聪谐",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "光聪谐"
+      ],
+      "pinyin": [
+        "cōng",
+        "xié"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚聪谐：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚帝臣",
+      "name": "帝臣",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "卢帝臣"
+      ],
+      "pinyin": [
+        "dì",
+        "chén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚帝臣：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚帝俞",
+      "name": "帝俞",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "郑帝俞"
+      ],
+      "pinyin": [
+        "dì",
+        "yú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚帝俞：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚冬魁",
+      "name": "冬魁",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "沈冬魁"
+      ],
+      "pinyin": [
+        "dōng",
+        "kuí"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚冬魁：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚端臣",
+      "name": "端臣",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "顾端臣",
+        "陈端臣",
+        "倪端臣",
+        "金端臣",
+        "范端臣"
+      ],
+      "pinyin": [
+        "duān",
+        "chén"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚端臣：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚端吾",
+      "name": "端吾",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "彭端吾"
+      ],
+      "pinyin": [
+        "duān",
+        "wú"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚端吾：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚端仪",
+      "name": "端仪",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "宋端仪",
+        "杨端仪"
+      ],
+      "pinyin": [
+        "duān",
+        "yí"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚端仪：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚非熊",
+      "name": "非熊",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "黄非熊",
+        "邹非熊",
+        "金非熊"
+      ],
+      "pinyin": [
+        "fēi",
+        "xióng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚非熊：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚岗竹",
+      "name": "岗竹",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "黄岗竹"
+      ],
+      "pinyin": [
+        "gāng",
+        "zhú"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚岗竹：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚庚寅",
+      "name": "庚寅",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "韩庚寅"
+      ],
+      "pinyin": [
+        "gēng",
+        "yín"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚庚寅：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚功臣",
+      "name": "功臣",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "曹功臣"
+      ],
+      "pinyin": [
+        "gōng",
+        "chén"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚功臣：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚归儒",
+      "name": "归儒",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "杨归儒"
+      ],
+      "pinyin": [
+        "guī",
+        "rú"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚归儒：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚桂臣",
+      "name": "桂臣",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "魏桂臣",
+        "徐桂臣"
+      ],
+      "pinyin": [
+        "guì",
+        "chén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚桂臣：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚鹤翱",
+      "name": "鹤翱",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "杜鹤翱"
+      ],
+      "pinyin": [
+        "hè",
+        "áo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚鹤翱：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚焕尧",
+      "name": "焕尧",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "李焕尧"
+      ],
+      "pinyin": [
+        "huàn",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚焕尧：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚际韶",
+      "name": "际韶",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "吕际韶",
+        "程际韶",
+        "萧际韶"
+      ],
+      "pinyin": [
+        "jì",
+        "sháo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚际韶：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚际虞",
+      "name": "际虞",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "姚际虞",
+        "曾际虞",
+        "安际虞",
+        "任际虞"
+      ],
+      "pinyin": [
+        "jì",
+        "yú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚际虞：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚季琼",
+      "name": "季琼",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "林季琼"
+      ],
+      "pinyin": [
+        "jì",
+        "qióng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚季琼：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚季韶",
+      "name": "季韶",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "叶季韶"
+      ],
+      "pinyin": [
+        "jì",
+        "sháo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚季韶：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚季寅",
+      "name": "季寅",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "吕季寅",
+        "刘季寅"
+      ],
+      "pinyin": [
+        "jì",
+        "yín"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚季寅：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继臣",
+      "name": "继臣",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "臧继臣"
+      ],
+      "pinyin": [
+        "jì",
+        "chén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继臣：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继桓",
+      "name": "继桓",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "文继桓"
+      ],
+      "pinyin": [
+        "jì",
+        "huán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继桓：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继陵",
+      "name": "继陵",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "严继陵"
+      ],
+      "pinyin": [
+        "jì",
+        "líng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继陵：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继伦",
+      "name": "继伦",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "刘继伦"
+      ],
+      "pinyin": [
+        "jì",
+        "lún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继伦：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继谟",
+      "name": "继谟",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "罗继谟",
+        "王继谟"
+      ],
+      "pinyin": [
+        "jì",
+        "mó"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继谟：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继谋",
+      "name": "继谋",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "孙继谋"
+      ],
+      "pinyin": [
+        "jì",
+        "móu"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继谋：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继培",
+      "name": "继培",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "汪继培"
+      ],
+      "pinyin": [
+        "jì",
+        "péi"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继培：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继儒",
+      "name": "继儒",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "徐继儒",
+        "左继儒",
+        "赵继儒"
+      ],
+      "pinyin": [
+        "jì",
+        "rú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继儒：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继庭",
+      "name": "继庭",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "王继庭"
+      ],
+      "pinyin": [
+        "jì",
+        "tíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继庭：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继吴",
+      "name": "继吴",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "刘继吴"
+      ],
+      "pinyin": [
+        "jì",
+        "wú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继吴：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继熊",
+      "name": "继熊",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "杨继熊"
+      ],
+      "pinyin": [
+        "jì",
+        "xióng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继熊：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继寅",
+      "name": "继寅",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "施继寅"
+      ],
+      "pinyin": [
+        "jì",
+        "yín"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继寅：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚绩凝",
+      "name": "绩凝",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "瞿绩凝"
+      ],
+      "pinyin": [
+        "jì",
+        "níng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚绩凝：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚暨谟",
+      "name": "暨谟",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "方暨谟"
+      ],
+      "pinyin": [
+        "jì",
+        "mó"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚暨谟：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚鉴临",
+      "name": "鉴临",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "曹鉴临"
+      ],
+      "pinyin": [
+        "jiàn",
+        "lín"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚鉴临：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚鉴伦",
+      "name": "鉴伦",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "曹鉴伦"
+      ],
+      "pinyin": [
+        "jiàn",
+        "lún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚鉴伦：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚鉴塘",
+      "name": "鉴塘",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "王鉴塘"
+      ],
+      "pinyin": [
+        "jiàn",
+        "táng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚鉴塘：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚荆材",
+      "name": "荆材",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "叶荆材"
+      ],
+      "pinyin": [
+        "jīng",
+        "cái"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚荆材：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚敬臣",
+      "name": "敬臣",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "留敬臣"
+      ],
+      "pinyin": [
+        "jìng",
+        "chén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚敬臣：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚敬儒",
+      "name": "敬儒",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "杨敬儒"
+      ],
+      "pinyin": [
+        "jìng",
+        "rú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚敬儒：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚敬循",
+      "name": "敬循",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "朱敬循"
+      ],
+      "pinyin": [
+        "jìng",
+        "xún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚敬循：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚敬舆",
+      "name": "敬舆",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "刘敬舆"
+      ],
+      "pinyin": [
+        "jìng",
+        "yú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚敬舆：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚敬直",
+      "name": "敬直",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "吕敬直"
+      ],
+      "pinyin": [
+        "jìng",
+        "zhí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚敬直：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚镜芙",
+      "name": "镜芙",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "金镜芙"
+      ],
+      "pinyin": [
+        "jìng",
+        "fú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚镜芙：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚禄朋",
+      "name": "禄朋",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "王禄朋"
+      ],
+      "pinyin": [
+        "lù",
+        "péng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚禄朋：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚迈雄",
+      "name": "迈雄",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "杨迈雄"
+      ],
+      "pinyin": [
+        "mài",
+        "xióng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚迈雄：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚孟磁",
+      "name": "孟磁",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "林孟磁"
+      ],
+      "pinyin": [
+        "mèng",
+        "cí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚孟磁：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚孟伦",
+      "name": "孟伦",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "何孟伦"
+      ],
+      "pinyin": [
+        "mèng",
+        "lún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚孟伦：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚孟男",
+      "name": "孟男",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "张孟男"
+      ],
+      "pinyin": [
+        "mèng",
+        "nán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚孟男：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚孟乔",
+      "name": "孟乔",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "林孟乔",
+        "顾孟乔"
+      ],
+      "pinyin": [
+        "mèng",
+        "qiáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚孟乔：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚孟群",
+      "name": "孟群",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "李孟群"
+      ],
+      "pinyin": [
+        "mèng",
+        "qún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚孟群：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚莫璇",
+      "name": "莫璇",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "纪璇(字莫璇)"
+      ],
+      "pinyin": [
+        "mò",
+        "xuán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚莫璇：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚睦庭",
+      "name": "睦庭",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "魏睦庭"
+      ],
+      "pinyin": [
+        "mù",
+        "tíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚睦庭：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚慕韩",
+      "name": "慕韩",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "谢慕韩",
+        "笪慕韩",
+        "沈慕韩"
+      ],
+      "pinyin": [
+        "mù",
+        "hán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚慕韩：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩珩",
+      "name": "佩珩",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "尹佩珩"
+      ],
+      "pinyin": [
+        "pèi",
+        "héng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩珩：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩莲",
+      "name": "佩莲",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "李佩莲",
+        "安佩莲",
+        "朱佩莲"
+      ],
+      "pinyin": [
+        "pèi",
+        "lián"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩莲：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩弦",
+      "name": "佩弦",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "徐佩弦"
+      ],
+      "pinyin": [
+        "pèi",
+        "xián"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩弦：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚器则",
+      "name": "器则",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "陈器则"
+      ],
+      "pinyin": [
+        "qì",
+        "zé"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚器则：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚迁梧",
+      "name": "迁梧",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "李迁梧"
+      ],
+      "pinyin": [
+        "qiān",
+        "wú"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚迁梧：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚钦昂",
+      "name": "钦昂",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "孙钦昂"
+      ],
+      "pinyin": [
+        "qīn",
+        "áng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚钦昂：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚钦奎",
+      "name": "钦奎",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "蓝钦奎"
+      ],
+      "pinyin": [
+        "qīn",
+        "kuí"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚钦奎：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚钦谟",
+      "name": "钦谟",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "严钦谟"
+      ],
+      "pinyin": [
+        "qīn",
+        "mó"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚钦谟：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚钦则",
+      "name": "钦则",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "朱钦则"
+      ],
+      "pinyin": [
+        "qīn",
+        "zé"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚钦则：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚卿才",
+      "name": "卿才",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "储卿才"
+      ],
+      "pinyin": [
+        "qīng",
+        "cái"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚卿才：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚卿材",
+      "name": "卿材",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "梁卿材",
+        "邵卿材"
+      ],
+      "pinyin": [
+        "qīng",
+        "cái"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚卿材：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚卿谟",
+      "name": "卿谟",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "水卿谟"
+      ],
+      "pinyin": [
+        "qīng",
+        "mó"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚卿谟：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚卿谋",
+      "name": "卿谋",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "谢卿谋"
+      ],
+      "pinyin": [
+        "qīng",
+        "móu"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚卿谋：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚慎从",
+      "name": "慎从",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "李慎从",
+        "方慎从"
+      ],
+      "pinyin": [
+        "shèn",
+        "cóng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚慎从：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚慎独",
+      "name": "慎独",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "郭慎独"
+      ],
+      "pinyin": [
+        "shèn",
+        "dú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚慎独：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚声谟",
+      "name": "声谟",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "廖声谟"
+      ],
+      "pinyin": [
+        "shēng",
+        "mó"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚声谟：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚声乔",
+      "name": "声乔",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "夏声乔"
+      ],
+      "pinyin": [
+        "shēng",
+        "qiáo"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚声乔：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚师旻",
+      "name": "师旻",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "赵师旻"
+      ],
+      "pinyin": [
+        "shī",
+        "mín"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚师旻：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚师琼",
+      "name": "师琼",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "黄师琼"
+      ],
+      "pinyin": [
+        "shī",
+        "qióng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚师琼：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚师棠",
+      "name": "师棠",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "赵师棠"
+      ],
+      "pinyin": [
+        "shī",
+        "táng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚师棠：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚师陶",
+      "name": "师陶",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "丘师陶",
+        "赵师陶"
+      ],
+      "pinyin": [
+        "shī",
+        "táo"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚师陶：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚师雄",
+      "name": "师雄",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "史师雄",
+        "游师雄"
+      ],
+      "pinyin": [
+        "shī",
+        "xióng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚师雄：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚师严",
+      "name": "师严",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "谢师严"
+      ],
+      "pinyin": [
+        "shī",
+        "yán"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚师严：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚师颜",
+      "name": "师颜",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "黄师颜",
+        "陈师颜",
+        "蒋师颜",
+        "方师颜",
+        "杨师颜"
+      ],
+      "pinyin": [
+        "shī",
+        "yán"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚师颜：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚师尧",
+      "name": "师尧",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "聂师尧",
+        "夏师尧",
+        "陈师尧"
+      ],
+      "pinyin": [
+        "shī",
+        "yáo"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚师尧：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚师择",
+      "name": "师择",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "赵师择"
+      ],
+      "pinyin": [
+        "shī",
+        "zé"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚师择：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士昂",
+      "name": "士昂",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "文士昂"
+      ],
+      "pinyin": [
+        "shì",
+        "áng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士昂：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士铎",
+      "name": "士铎",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "蔡士铎"
+      ],
+      "pinyin": [
+        "shì",
+        "duó"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士铎：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士珩",
+      "name": "士珩",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "聂士珩"
+      ],
+      "pinyin": [
+        "shì",
+        "héng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士珩：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士皇",
+      "name": "士皇",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "周士皇"
+      ],
+      "pinyin": [
+        "shì",
+        "huáng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士皇：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士煌",
+      "name": "士煌",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "雷士祯(字士煌)",
+        "许士煌"
+      ],
+      "pinyin": [
+        "shì",
+        "huáng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士煌：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士奎",
+      "name": "士奎",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "李士奎"
+      ],
+      "pinyin": [
+        "shì",
+        "kuí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士奎：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士魁",
+      "name": "士魁",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "高士魁",
+        "杨士魁"
+      ],
+      "pinyin": [
+        "shì",
+        "kuí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士魁：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士仑",
+      "name": "士仑",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "姜士仑"
+      ],
+      "pinyin": [
+        "shì",
+        "lún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士仑：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士祁",
+      "name": "士祁",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "何士祁"
+      ],
+      "pinyin": [
+        "shì",
+        "qí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士祁：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士骐",
+      "name": "士骐",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "王士骐"
+      ],
+      "pinyin": [
+        "shì",
+        "qí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士骐：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士侨",
+      "name": "士侨",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "胡士侨"
+      ],
+      "pinyin": [
+        "shì",
+        "qiáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士侨：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士铨",
+      "name": "士铨",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "张士铨",
+        "蒋士铨"
+      ],
+      "pinyin": [
+        "shì",
+        "quán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士铨：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士嵘",
+      "name": "士嵘",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "唐士嵘"
+      ],
+      "pinyin": [
+        "shì",
+        "róng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士嵘：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士镕",
+      "name": "士镕",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "蒋士镕"
+      ],
+      "pinyin": [
+        "shì",
+        "róng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士镕：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士廷",
+      "name": "士廷",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "谢士廷"
+      ],
+      "pinyin": [
+        "shì",
+        "tíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士廷：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士闻",
+      "name": "士闻",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "潘士闻"
+      ],
+      "pinyin": [
+        "shì",
+        "wén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士闻：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士雄",
+      "name": "士雄",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "齐士雄"
+      ],
+      "pinyin": [
+        "shì",
+        "xióng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士雄：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士严",
+      "name": "士严",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "李士严"
+      ],
+      "pinyin": [
+        "shì",
+        "yán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士严：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士寅",
+      "name": "士寅",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "费士寅"
+      ],
+      "pinyin": [
+        "shì",
+        "yín"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士寅：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士楹",
+      "name": "士楹",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "徐士楹"
+      ],
+      "pinyin": [
+        "shì",
+        "yíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士楹：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士芸",
+      "name": "士芸",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "李士芸"
+      ],
+      "pinyin": [
+        "shì",
+        "yún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士芸：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚士则",
+      "name": "士则",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "李士则",
+        "顾士则"
+      ],
+      "pinyin": [
+        "shì",
+        "zé"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚士则：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚仕魁",
+      "name": "仕魁",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "周仕魁",
+        "叶仕魁"
+      ],
+      "pinyin": [
+        "shì",
+        "kuí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚仕魁：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚仕谟",
+      "name": "仕谟",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "郑仕谟"
+      ],
+      "pinyin": [
+        "shì",
+        "mó"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚仕谟：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚式群",
+      "name": "式群",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "吴式群"
+      ],
+      "pinyin": [
+        "shì",
+        "qún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚式群：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚寿慈",
+      "name": "寿慈",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "朱寿慈",
+        "贺寿慈"
+      ],
+      "pinyin": [
+        "shòu",
+        "cí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚寿慈：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚寿培",
+      "name": "寿培",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "王寿培"
+      ],
+      "pinyin": [
+        "shòu",
+        "péi"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚寿培：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚寿朋",
+      "name": "寿朋",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "朱寿朋",
+        "何寿朋",
+        "杜寿朋",
+        "骆寿朋",
+        "张寿朋"
+      ],
+      "pinyin": [
+        "shòu",
+        "péng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚寿朋：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚寿彭",
+      "name": "寿彭",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "王寿彭",
+        "覃寿彭",
+        "殷寿彭",
+        "李寿彭"
+      ],
+      "pinyin": [
+        "shòu",
+        "péng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚寿彭：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚寿潜",
+      "name": "寿潜",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "汤寿潜"
+      ],
+      "pinyin": [
+        "shòu",
+        "qián"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚寿潜：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚寿熊",
+      "name": "寿熊",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "朱寿熊"
+      ],
+      "pinyin": [
+        "shòu",
+        "xióng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚寿熊：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚枢才",
+      "name": "枢才",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "黄枢才"
+      ],
+      "pinyin": [
+        "shū",
+        "cái"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚枢才：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚枢材",
+      "name": "枢材",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "陈枢材"
+      ],
+      "pinyin": [
+        "shū",
+        "cái"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚枢材：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚淑陵",
+      "name": "淑陵",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "王淑陵"
+      ],
+      "pinyin": [
+        "shū",
+        "líng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚淑陵：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚舒曈",
+      "name": "舒曈",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "舒瞳(字舒曈)"
+      ],
+      "pinyin": [
+        "shū",
+        "tóng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚舒曈：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚舜求",
+      "name": "舜求",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "许舜求"
+      ],
+      "pinyin": [
+        "shùn",
+        "qiú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚舜求：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚舜俞",
+      "name": "舜俞",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "张舜俞",
+        "江舜俞",
+        "陈舜俞",
+        "徐舜俞",
+        "傅舜俞"
+      ],
+      "pinyin": [
+        "shùn",
+        "yú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚舜俞：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚嗣爵",
+      "name": "嗣爵",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "吴嗣爵"
+      ],
+      "pinyin": [
+        "sì",
+        "jué"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚嗣爵：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚嗣莲",
+      "name": "嗣莲",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "赵嗣莲"
+      ],
+      "pinyin": [
+        "sì",
+        "lián"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚嗣莲：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚嗣棠",
+      "name": "嗣棠",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "李嗣棠"
+      ],
+      "pinyin": [
+        "sì",
+        "táng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚嗣棠：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚嗣庭",
+      "name": "嗣庭",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "查嗣庭"
+      ],
+      "pinyin": [
+        "sì",
+        "tíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚嗣庭：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚嗣尧",
+      "name": "嗣尧",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "邵嗣尧"
+      ],
+      "pinyin": [
+        "sì",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚嗣尧：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚嗣滢",
+      "name": "嗣滢",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "赵嗣滢"
+      ],
+      "pinyin": [
+        "sì",
+        "yíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚嗣滢：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚嗣沅",
+      "name": "嗣沅",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "杨嗣沅"
+      ],
+      "pinyin": [
+        "sì",
+        "yuán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚嗣沅：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚嵩尧",
+      "name": "嵩尧",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "林嵩尧"
+      ],
+      "pinyin": [
+        "sōng",
+        "yáo"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚嵩尧：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚素臣",
+      "name": "素臣",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "张素臣"
+      ],
+      "pinyin": [
+        "sù",
+        "chén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚素臣：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚体铨",
+      "name": "体铨",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "张体铨"
+      ],
+      "pinyin": [
+        "tī",
+        "quán"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚体铨：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚位廷",
+      "name": "位廷",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "刘位廷"
+      ],
+      "pinyin": [
+        "wèi",
+        "tíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚位廷：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚位咸",
+      "name": "位咸",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "胡位咸"
+      ],
+      "pinyin": [
+        "wèi",
+        "xián"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚位咸：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚温其",
+      "name": "温其",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "麻温其",
+        "董温其"
+      ],
+      "pinyin": [
+        "wēn",
+        "qí"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚温其：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚问崇",
+      "name": "问崇",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "张问崇"
+      ],
+      "pinyin": [
+        "wèn",
+        "chóng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚问崇：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚汶儒",
+      "name": "汶儒",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "李汶儒"
+      ],
+      "pinyin": [
+        "wèn",
+        "rú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚汶儒：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚晞令",
+      "name": "晞令",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "胡晞令"
+      ],
+      "pinyin": [
+        "xī",
+        "líng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚晞令：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚晞颜",
+      "name": "晞颜",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "曾晞颜",
+        "练晞颜",
+        "邓晞颜",
+        "沈晞颜",
+        "朱晞颜"
+      ],
+      "pinyin": [
+        "xī",
+        "yán"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚晞颜：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚宪臣",
+      "name": "宪臣",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "张宪臣",
+        "胡宪臣"
+      ],
+      "pinyin": [
+        "xiàn",
+        "chén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚宪臣：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚宪童",
+      "name": "宪童",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "朱宪童"
+      ],
+      "pinyin": [
+        "xiàn",
+        "tóng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚宪童：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚叙伦",
+      "name": "叙伦",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "蒋叙伦"
+      ],
+      "pinyin": [
+        "xù",
+        "lún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚叙伦：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚绪煌",
+      "name": "绪煌",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "孙绪煌"
+      ],
+      "pinyin": [
+        "xù",
+        "huáng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚绪煌：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚绪伦",
+      "name": "绪伦",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "张绪伦"
+      ],
+      "pinyin": [
+        "xù",
+        "lún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚绪伦：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚宣琅",
+      "name": "宣琅",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "俞宣琅"
+      ],
+      "pinyin": [
+        "xuān",
+        "láng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚宣琅：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚勋尧",
+      "name": "勋尧",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "胡勋尧"
+      ],
+      "pinyin": [
+        "xūn",
+        "yáo"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚勋尧：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚谊直",
+      "name": "谊直",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "何谊直"
+      ],
+      "pinyin": [
+        "yì",
+        "zhí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚谊直：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚印瑚",
+      "name": "印瑚",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "郭印瑚"
+      ],
+      "pinyin": [
+        "yìn",
+        "hú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚印瑚：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚胤培",
+      "name": "胤培",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "沈胤培"
+      ],
+      "pinyin": [
+        "yìn",
+        "péi"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚胤培：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚雍植",
+      "name": "雍植",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "蒋雍植"
+      ],
+      "pinyin": [
+        "yōng",
+        "zhí"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚雍植：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚用才",
+      "name": "用才",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "王用才",
+        "乐用才"
+      ],
+      "pinyin": [
+        "yòng",
+        "cái"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚用才：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚用存",
+      "name": "用存",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "胡用存"
+      ],
+      "pinyin": [
+        "yòng",
+        "cún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚用存：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚用谟",
+      "name": "用谟",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "王用谟"
+      ],
+      "pinyin": [
+        "yòng",
+        "mó"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚用谟：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚用闻",
+      "name": "用闻",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "吕用闻"
+      ],
+      "pinyin": [
+        "yòng",
+        "wén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚用闻：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚用仪",
+      "name": "用仪",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "方用仪",
+        "王用仪"
+      ],
+      "pinyin": [
+        "yòng",
+        "yí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚用仪：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚用予",
+      "name": "用予",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "王用予"
+      ],
+      "pinyin": [
+        "yòng",
+        "yú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚用予：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚悠咸",
+      "name": "悠咸",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "史悠咸"
+      ],
+      "pinyin": [
+        "yōu",
+        "xián"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚悠咸：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚毓铨",
+      "name": "毓铨",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "苏毓铨"
+      ],
+      "pinyin": [
+        "yù",
+        "quán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚毓铨：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚毓棠",
+      "name": "毓棠",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "周毓棠",
+        "刘毓棠"
+      ],
+      "pinyin": [
+        "yù",
+        "táng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚毓棠：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚毓咸",
+      "name": "毓咸",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "陈毓咸"
+      ],
+      "pinyin": [
+        "yù",
+        "xián"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚毓咸：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚毓寅",
+      "name": "毓寅",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "沈毓寅"
+      ],
+      "pinyin": [
+        "yù",
+        "yín"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚毓寅：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚毓鋆",
+      "name": "毓鋆",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "马毓鋆"
+      ],
+      "pinyin": [
+        "yù",
+        "yún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚毓鋆：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚豫朋",
+      "name": "豫朋",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "陈豫朋"
+      ],
+      "pinyin": [
+        "yù",
+        "péng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚豫朋：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚再瀛",
+      "name": "再瀛",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "李再瀛"
+      ],
+      "pinyin": [
+        "zài",
+        "yíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚再瀛：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚在铨",
+      "name": "在铨",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "刘在铨"
+      ],
+      "pinyin": [
+        "zài",
+        "quán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚在铨：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚在嵘",
+      "name": "在嵘",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "程在嵘"
+      ],
+      "pinyin": [
+        "zài",
+        "róng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚在嵘：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚在熔",
+      "name": "在熔",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "顾在熔"
+      ],
+      "pinyin": [
+        "zài",
+        "róng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚在熔：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚在镕",
+      "name": "在镕",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "苏在镕"
+      ],
+      "pinyin": [
+        "zài",
+        "róng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚在镕：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚在廷",
+      "name": "在廷",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "陈在廷"
+      ],
+      "pinyin": [
+        "zài",
+        "tíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚在廷：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚在庭",
+      "name": "在庭",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "栗在庭",
+        "伊在庭",
+        "张在庭"
+      ],
+      "pinyin": [
+        "zài",
+        "tíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚在庭：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚赞廷",
+      "name": "赞廷",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "朱赞廷"
+      ],
+      "pinyin": [
+        "zàn",
+        "tíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚赞廷：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚赞尧",
+      "name": "赞尧",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "虞赞尧"
+      ],
+      "pinyin": [
+        "zàn",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚赞尧：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚赞虞",
+      "name": "赞虞",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "卢赞虞"
+      ],
+      "pinyin": [
+        "zàn",
+        "yú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚赞虞：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚湛吾",
+      "name": "湛吾",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "孙湛吾"
+      ],
+      "pinyin": [
+        "zhàn",
+        "wú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚湛吾：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚张愚",
+      "name": "张愚",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "张愚"
+      ],
+      "pinyin": [
+        "zhāng",
+        "yú"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚张愚：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚甄陶",
+      "name": "甄陶",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "张甄陶"
+      ],
+      "pinyin": [
+        "zhēn",
+        "táo"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚甄陶：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚震铎",
+      "name": "震铎",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "杜震铎"
+      ],
+      "pinyin": [
+        "zhèn",
+        "duó"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚震铎：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚震铨",
+      "name": "震铨",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "施震铨"
+      ],
+      "pinyin": [
+        "zhèn",
+        "quán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚震铨：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚震霆",
+      "name": "震霆",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "刘震霆"
+      ],
+      "pinyin": [
+        "zhèn",
+        "tíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚震霆：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚震炎",
+      "name": "震炎",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "凌震炎",
+        "周震炎",
+        "陈震炎"
+      ],
+      "pinyin": [
+        "zhèn",
+        "yán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚震炎：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚震旸",
+      "name": "震旸",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "侯震旸"
+      ],
+      "pinyin": [
+        "zhèn",
+        "yáng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚震旸：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚征舆",
+      "name": "征舆",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "宋征舆"
+      ],
+      "pinyin": [
+        "zhēng",
+        "yú"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚征舆：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚芝才",
+      "name": "芝才",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "李芝才"
+      ],
+      "pinyin": [
+        "zhī",
+        "cái"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚芝才：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚枝侨",
+      "name": "枝侨",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "林枝侨"
+      ],
+      "pinyin": [
+        "zhī",
+        "qiáo"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚枝侨：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚治谟",
+      "name": "治谟",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "王治谟"
+      ],
+      "pinyin": [
+        "zhì",
+        "mó"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚治谟：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚治铨",
+      "name": "治铨",
+      "score": 95,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 12,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "登科录"
+      ],
+      "sourceNames": [
+        "胡治铨"
+      ],
+      "pinyin": [
+        "zhì",
+        "quán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：登科录",
+        "用字频率可接受"
+      ],
+      "explanation": "姚治铨：总分 95；来源：登科录；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    }
+  ]
+}

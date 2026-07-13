@@ -1,0 +1,6498 @@
+{
+  "query": {
+    "surname": "张",
+    "style": "soft",
+    "sourcePreference": "ancient_names",
+    "limit": 200
+  },
+  "sourceId": "ancient_names",
+  "sourceLabel": "古人云",
+  "candidateCount": 9518,
+  "results": [
+    {
+      "fullName": "张材卿",
+      "name": "材卿",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "陈楚(字材卿)"
+      ],
+      "pinyin": [
+        "cái",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张材卿：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张从温",
+      "name": "从温",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李从温"
+      ],
+      "pinyin": [
+        "cóng",
+        "wēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张从温：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张存标",
+      "name": "存标",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "宋存标"
+      ],
+      "pinyin": [
+        "cún",
+        "biāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张存标：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张芙卿",
+      "name": "芙卿",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "成蓉镜(字芙卿)"
+      ],
+      "pinyin": [
+        "fú",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张芙卿：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张奎章",
+      "name": "奎章",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "陆奎章"
+      ],
+      "pinyin": [
+        "kuí",
+        "zhāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张奎章：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张令绰",
+      "name": "令绰",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "曾孝宽(字令绰)"
+      ],
+      "pinyin": [
+        "líng",
+        "chāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张令绰：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张令章",
+      "name": "令章",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "王文殊(字令章)"
+      ],
+      "pinyin": [
+        "líng",
+        "zhāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张令章：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张令昭",
+      "name": "令昭",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "袁于令(字令昭)"
+      ],
+      "pinyin": [
+        "líng",
+        "zhāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张令昭：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张留仙",
+      "name": "留仙",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "蒲松龄(字留仙)"
+      ],
+      "pinyin": [
+        "liú",
+        "xiān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张留仙：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张绵初",
+      "name": "绵初",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "宋绵初"
+      ],
+      "pinyin": [
+        "mián",
+        "chū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张绵初：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张尼卿",
+      "name": "尼卿",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "薛温(字尼卿)"
+      ],
+      "pinyin": [
+        "ní",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张尼卿：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张凝芝",
+      "name": "凝芝",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "沈甲秀(字凝芝)"
+      ],
+      "pinyin": [
+        "níng",
+        "zhī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张凝芝：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张潜夫",
+      "name": "潜夫",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "方孔炤(字潜夫)",
+        "吴升(字潜夫)",
+        "李孔昭(字潜夫)",
+        "汪应蛟(字潜夫)",
+        "浦龙渊(字潜夫)"
+      ],
+      "pinyin": [
+        "qián",
+        "fū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张潜夫：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张廷琛",
+      "name": "廷琛",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "吴廷琛"
+      ],
+      "pinyin": [
+        "tíng",
+        "chēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张廷琛：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张廷玑",
+      "name": "廷玑",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "刘廷玑"
+      ],
+      "pinyin": [
+        "tíng",
+        "jī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张廷玑：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张廷节",
+      "name": "廷节",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "江柏(字廷节)",
+        "戴琥(字廷节)"
+      ],
+      "pinyin": [
+        "tíng",
+        "jiē"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张廷节：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张廷枢",
+      "name": "廷枢",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "杨廷枢"
+      ],
+      "pinyin": [
+        "tíng",
+        "shū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张廷枢：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张廷珍",
+      "name": "廷珍",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "蓝廷珍"
+      ],
+      "pinyin": [
+        "tíng",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张廷珍：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张廷桢",
+      "name": "廷桢",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "邓廷桢"
+      ],
+      "pinyin": [
+        "tíng",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张廷桢：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张庭坚",
+      "name": "庭坚",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "许庭坚",
+        "黄庭坚",
+        "彭庭坚",
+        "潘庭坚"
+      ],
+      "pinyin": [
+        "tíng",
+        "jiān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张庭坚：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张庭筠",
+      "name": "庭筠",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "王庭筠",
+        "温庭筠",
+        "潘庭筠"
+      ],
+      "pinyin": [
+        "tíng",
+        "jūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张庭筠：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张庭芝",
+      "name": "庭芝",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李庭芝"
+      ],
+      "pinyin": [
+        "tíng",
+        "zhī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张庭芝：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张韦卿",
+      "name": "韦卿",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "冯学易(字韦卿)"
+      ],
+      "pinyin": [
+        "wéi",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张韦卿：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张唯贞",
+      "name": "唯贞",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "姚一元(字唯贞)"
+      ],
+      "pinyin": [
+        "wéi",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张唯贞：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张惟宾",
+      "name": "惟宾",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "萧旸(字惟宾)"
+      ],
+      "pinyin": [
+        "wéi",
+        "bīn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张惟宾：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张惟贞",
+      "name": "惟贞",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李颐(字惟贞)"
+      ],
+      "pinyin": [
+        "wéi",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张惟贞：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张惟珍",
+      "name": "惟珍",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李谷(字惟珍)"
+      ],
+      "pinyin": [
+        "wéi",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张惟珍：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张惟周",
+      "name": "惟周",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "黄武(字惟周)"
+      ],
+      "pinyin": [
+        "wéi",
+        "zhōu"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张惟周：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张闻卿",
+      "name": "闻卿",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "林一鸣(字闻卿)"
+      ],
+      "pinyin": [
+        "wén",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张闻卿：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张谐卿",
+      "name": "谐卿",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "朱吾弼(字谐卿)"
+      ],
+      "pinyin": [
+        "xié",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张谐卿：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张尧夫",
+      "name": "尧夫",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "邵雍(字尧夫)",
+        "范纯仁(字尧夫)",
+        "陈荚(字尧夫)"
+      ],
+      "pinyin": [
+        "yáo",
+        "fū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张尧夫：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张尧卿",
+      "name": "尧卿",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李唐咨(字尧卿)",
+        "虞唐佐(字尧卿)",
+        "薛章宪(字尧卿)",
+        "周尧卿",
+        "钱尧卿"
+      ],
+      "pinyin": [
+        "yáo",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张尧卿：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张尧仙",
+      "name": "尧仙",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "吕佺孙(字尧仙)"
+      ],
+      "pinyin": [
+        "yáo",
+        "xiān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张尧仙：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张寅夫",
+      "name": "寅夫",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "吴克恭(字寅夫)"
+      ],
+      "pinyin": [
+        "yín",
+        "fū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张寅夫：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张愚卿",
+      "name": "愚卿",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "吕师贤(字愚卿)",
+        "陆愚卿"
+      ],
+      "pinyin": [
+        "yú",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张愚卿：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张虞卿",
+      "name": "虞卿",
+      "score": 94,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "王邦俊(字虞卿)",
+        "汪逢辰(字虞卿)",
+        "陈之奇(字虞卿)",
+        "杨虞卿"
+      ],
+      "pinyin": [
+        "yú",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张虞卿：总分 94；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张才翁",
+      "name": "才翁",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "王英孙(字才翁)"
+      ],
+      "pinyin": [
+        "cái",
+        "wēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张才翁：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张从谦",
+      "name": "从谦",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "马从谦"
+      ],
+      "pinyin": [
+        "cóng",
+        "qiān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张从谦：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张从先",
+      "name": "从先",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "沈野(字从先)",
+        "翟绳祖(字从先)",
+        "马从先"
+      ],
+      "pinyin": [
+        "cóng",
+        "xiān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张从先：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张从周",
+      "name": "从周",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "崔弘礼(字从周)",
+        "张镐(字从周)",
+        "凌文(字从周)",
+        "卫次公(字从周)",
+        "李从周"
+      ],
+      "pinyin": [
+        "cóng",
+        "zhōu"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张从周：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张汾功",
+      "name": "汾功",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "蒋汾功"
+      ],
+      "pinyin": [
+        "fén",
+        "gōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张汾功：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张孚交",
+      "name": "孚交",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "宋有元(字孚交)"
+      ],
+      "pinyin": [
+        "fú",
+        "jiāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张孚交：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张闳休",
+      "name": "闳休",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "阮阅(字闳休)",
+        "胡闳休"
+      ],
+      "pinyin": [
+        "hóng",
+        "xiū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张闳休：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张怀忠",
+      "name": "怀忠",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "汪待举(字怀忠)"
+      ],
+      "pinyin": [
+        "huái",
+        "zhōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张怀忠：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张怀周",
+      "name": "怀周",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "王怀(字怀周)"
+      ],
+      "pinyin": [
+        "huái",
+        "zhōu"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张怀周：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张寰知",
+      "name": "寰知",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李成名(字寰知)"
+      ],
+      "pinyin": [
+        "huán",
+        "zhī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张寰知：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张来初",
+      "name": "来初",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "江复(字来初)"
+      ],
+      "pinyin": [
+        "lái",
+        "chū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张来初：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张来宗",
+      "name": "来宗",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "范来宗"
+      ],
+      "pinyin": [
+        "lái",
+        "zōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张来宗：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张莱衣",
+      "name": "莱衣",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "周彩(字莱衣)"
+      ],
+      "pinyin": [
+        "lái",
+        "yī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张莱衣：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张兰修",
+      "name": "兰修",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "吴兰修"
+      ],
+      "pinyin": [
+        "lán",
+        "xiū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张兰修：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张兰征",
+      "name": "兰征",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "陈兰征"
+      ],
+      "pinyin": [
+        "lán",
+        "zhēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张兰征：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张兰枝",
+      "name": "兰枝",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "任兰枝"
+      ],
+      "pinyin": [
+        "lán",
+        "zhī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张兰枝：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张雷卿",
+      "name": "雷卿",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "蒋雷卿"
+      ],
+      "pinyin": [
+        "léi",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张雷卿：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张廉夫",
+      "name": "廉夫",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "杨维桢(字廉夫)"
+      ],
+      "pinyin": [
+        "lián",
+        "fū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张廉夫：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张廉卿",
+      "name": "廉卿",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "张裕钊(字廉卿)"
+      ],
+      "pinyin": [
+        "lián",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张廉卿：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张邻几",
+      "name": "邻几",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "江休复(字邻几)"
+      ],
+      "pinyin": [
+        "lín",
+        "jī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张邻几：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张临秋",
+      "name": "临秋",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "沈泓(字临秋)"
+      ],
+      "pinyin": [
+        "lín",
+        "qiū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张临秋：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张琳枝",
+      "name": "琳枝",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李森先(字琳枝)"
+      ],
+      "pinyin": [
+        "lín",
+        "zhī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张琳枝：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张麟书",
+      "name": "麟书",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "劳史(字麟书)",
+        "陆麟书"
+      ],
+      "pinyin": [
+        "lín",
+        "shū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张麟书：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张麟昭",
+      "name": "麟昭",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "蔡之定(字麟昭)"
+      ],
+      "pinyin": [
+        "lín",
+        "zhāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张麟昭：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张麟征",
+      "name": "麟征",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "吴麟征"
+      ],
+      "pinyin": [
+        "lín",
+        "zhēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张麟征：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张令孙",
+      "name": "令孙",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "檀韶(字令孙)"
+      ],
+      "pinyin": [
+        "líng",
+        "sūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张令孙：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张令威",
+      "name": "令威",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "姚宽(字令威)"
+      ],
+      "pinyin": [
+        "líng",
+        "wēi"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张令威：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张流芳",
+      "name": "流芳",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李流芳"
+      ],
+      "pinyin": [
+        "liú",
+        "fāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张流芳：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张流谦",
+      "name": "流谦",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李流谦"
+      ],
+      "pinyin": [
+        "liú",
+        "qiān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张流谦：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张留孙",
+      "name": "留孙",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "张留孙"
+      ],
+      "pinyin": [
+        "liú",
+        "sūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张留孙：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张眉卿",
+      "name": "眉卿",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "臧寿恭(字眉卿)"
+      ],
+      "pinyin": [
+        "méi",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张眉卿：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张弥昌",
+      "name": "弥昌",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "汤弥昌"
+      ],
+      "pinyin": [
+        "mí",
+        "chāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张弥昌：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张名琛",
+      "name": "名琛",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "叶名琛"
+      ],
+      "pinyin": [
+        "míng",
+        "chēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张名琛：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张鸣教",
+      "name": "鸣教",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "钱泮(字鸣教)"
+      ],
+      "pinyin": [
+        "míng",
+        "jiāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张鸣教：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张鸣殷",
+      "name": "鸣殷",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "乐頀(字鸣殷)"
+      ],
+      "pinyin": [
+        "míng",
+        "yān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张鸣殷：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张农师",
+      "name": "农师",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "陆佃(字农师)"
+      ],
+      "pinyin": [
+        "nóng",
+        "shī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张农师：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张培根",
+      "name": "培根",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "林其茂(字培根)"
+      ],
+      "pinyin": [
+        "péi",
+        "gēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张培根：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张齐卿",
+      "name": "齐卿",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "郑师孟(字齐卿)"
+      ],
+      "pinyin": [
+        "qí",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张齐卿：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张齐庄",
+      "name": "齐庄",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "孙放(字齐庄)",
+        "杨德周(字齐庄)"
+      ],
+      "pinyin": [
+        "qí",
+        "zhuāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张齐庄：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张其纶",
+      "name": "其纶",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "罗其纶"
+      ],
+      "pinyin": [
+        "qí",
+        "guān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张其纶：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张其倬",
+      "name": "其倬",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "高其倬"
+      ],
+      "pinyin": [
+        "qí",
+        "zhuō"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张其倬：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张潜滨",
+      "name": "潜滨",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "毛起(字潜滨)"
+      ],
+      "pinyin": [
+        "qián",
+        "bīn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张潜滨：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张乔荫",
+      "name": "乔荫",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "林乔荫"
+      ],
+      "pinyin": [
+        "qiáo",
+        "yīn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张乔荫：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张晴沙",
+      "name": "晴沙",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李爔(字晴沙)"
+      ],
+      "pinyin": [
+        "qíng",
+        "shā"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张晴沙：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张衢亨",
+      "name": "衢亨",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "戴衢亨"
+      ],
+      "pinyin": [
+        "qú",
+        "hēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张衢亨：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张容舒",
+      "name": "容舒",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "纪容舒"
+      ],
+      "pinyin": [
+        "róng",
+        "shū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张容舒：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张容庄",
+      "name": "容庄",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "史致俨(字容庄)"
+      ],
+      "pinyin": [
+        "róng",
+        "zhuāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张容庄：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张桃汤",
+      "name": "桃汤",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "王温(字桃汤)"
+      ],
+      "pinyin": [
+        "táo",
+        "tāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张桃汤：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张陶孙",
+      "name": "陶孙",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "郑陶孙"
+      ],
+      "pinyin": [
+        "táo",
+        "sūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张陶孙：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张廷机",
+      "name": "廷机",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李廷机"
+      ],
+      "pinyin": [
+        "tíng",
+        "jī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张廷机：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张廷威",
+      "name": "廷威",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "仇钺(字廷威)"
+      ],
+      "pinyin": [
+        "tíng",
+        "wēi"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张廷威：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张廷锡",
+      "name": "廷锡",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "蒋廷锡"
+      ],
+      "pinyin": [
+        "tíng",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张廷锡：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张廷章",
+      "name": "廷章",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "沐璘(字廷章)",
+        "冯廷章"
+      ],
+      "pinyin": [
+        "tíng",
+        "zhāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张廷章：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张廷璋",
+      "name": "廷璋",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "杨廷璋"
+      ],
+      "pinyin": [
+        "tíng",
+        "zhāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张廷璋：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张廷作",
+      "name": "廷作",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "沈绍宾(字廷作)"
+      ],
+      "pinyin": [
+        "tíng",
+        "zuō"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张廷作：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张庭椿",
+      "name": "庭椿",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "俞庭椿"
+      ],
+      "pinyin": [
+        "tíng",
+        "chūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张庭椿：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张惟几",
+      "name": "惟几",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "成务(字惟几)"
+      ],
+      "pinyin": [
+        "wéi",
+        "jī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张惟几：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张惟锡",
+      "name": "惟锡",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "吴百朋(字惟锡)"
+      ],
+      "pinyin": [
+        "wéi",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张惟锡：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张惟肖",
+      "name": "惟肖",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "傅惟肖"
+      ],
+      "pinyin": [
+        "wéi",
+        "xiāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张惟肖：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张惟约",
+      "name": "惟约",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "杨博(字惟约)"
+      ],
+      "pinyin": [
+        "wéi",
+        "yāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张惟约：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张惟忠",
+      "name": "惟忠",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "折惟忠"
+      ],
+      "pinyin": [
+        "wéi",
+        "zhōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张惟忠：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张维章",
+      "name": "维章",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "黄文焕(字维章)"
+      ],
+      "pinyin": [
+        "wéi",
+        "zhāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张维章：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张维贞",
+      "name": "维贞",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "杨守随(字维贞)"
+      ],
+      "pinyin": [
+        "wéi",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张维贞：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张维桢",
+      "name": "维桢",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "王维桢",
+        "李维桢",
+        "柯维桢",
+        "杨维桢"
+      ],
+      "pinyin": [
+        "wéi",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张维桢：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张维祯",
+      "name": "维祯",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "许维祯"
+      ],
+      "pinyin": [
+        "wéi",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张维祯：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张维周",
+      "name": "维周",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "卢之翰(字维周)"
+      ],
+      "pinyin": [
+        "wéi",
+        "zhōu"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张维周：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张闻斯",
+      "name": "闻斯",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "孙慎行(字闻斯)"
+      ],
+      "pinyin": [
+        "wén",
+        "sī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张闻斯：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张无功",
+      "name": "无功",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "王绩(字无功)",
+        "陈懋仁(字无功)",
+        "乔崇烈(字无功)"
+      ],
+      "pinyin": [
+        "mó",
+        "gōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张无功：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张习斋",
+      "name": "习斋",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "罗羽丰(字习斋)"
+      ],
+      "pinyin": [
+        "xí",
+        "zhāi"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张习斋：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张霞标",
+      "name": "霞标",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "管宗圣(字霞标)"
+      ],
+      "pinyin": [
+        "xiá",
+        "biāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张霞标：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张玄圭",
+      "name": "玄圭",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "叶锡(字玄圭)"
+      ],
+      "pinyin": [
+        "xuán",
+        "guī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张玄圭：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张玄卿",
+      "name": "玄卿",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "薛道衡(字玄卿)"
+      ],
+      "pinyin": [
+        "xuán",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张玄卿：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张玄真",
+      "name": "玄真",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "裴寂(字玄真)"
+      ],
+      "pinyin": [
+        "xuán",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张玄真：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张学蒙",
+      "name": "学蒙",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "林学蒙"
+      ],
+      "pinyin": [
+        "xué",
+        "mēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张学蒙：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张学渊",
+      "name": "学渊",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "颜宗(字学渊)"
+      ],
+      "pinyin": [
+        "xué",
+        "yuān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张学渊：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张学朱",
+      "name": "学朱",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "宋学朱"
+      ],
+      "pinyin": [
+        "xué",
+        "zhū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张学朱：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张岩夫",
+      "name": "岩夫",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "高汝砺(字岩夫)",
+        "钱惟济(字岩夫)"
+      ],
+      "pinyin": [
+        "yán",
+        "fū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张岩夫：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张尧章",
+      "name": "尧章",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "姜夔(字尧章)"
+      ],
+      "pinyin": [
+        "yáo",
+        "zhāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张尧章：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张尧咨",
+      "name": "尧咨",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "陈尧咨"
+      ],
+      "pinyin": [
+        "yáo",
+        "zī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张尧咨：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张遥昌",
+      "name": "遥昌",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "萧遥昌"
+      ],
+      "pinyin": [
+        "yáo",
+        "chāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张遥昌：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张仪卿",
+      "name": "仪卿",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "申明(字仪卿)",
+        "李光型(字仪卿)",
+        "严羽(字仪卿)"
+      ],
+      "pinyin": [
+        "yí",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张仪卿：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张仪周",
+      "name": "仪周",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "安岐(字仪周)"
+      ],
+      "pinyin": [
+        "yí",
+        "zhōu"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张仪周：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张沂孙",
+      "name": "沂孙",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "王沂孙",
+        "杨沂孙"
+      ],
+      "pinyin": [
+        "yí",
+        "sūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张沂孙：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张宜迁",
+      "name": "宜迁",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "杨时乔(字宜迁)"
+      ],
+      "pinyin": [
+        "yí",
+        "qiān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张宜迁：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张贻周",
+      "name": "贻周",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "窦牟(字贻周)"
+      ],
+      "pinyin": [
+        "yí",
+        "zhōu"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张贻周：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张于诗",
+      "name": "于诗",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "游于诗"
+      ],
+      "pinyin": [
+        "yú",
+        "shī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张于诗：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张俞昌",
+      "name": "俞昌",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "冯俞昌"
+      ],
+      "pinyin": [
+        "yú",
+        "chāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张俞昌：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张愚村",
+      "name": "愚村",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李元直(字愚村)"
+      ],
+      "pinyin": [
+        "yú",
+        "cūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张愚村：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张虞挥",
+      "name": "虞挥",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "邓梦琴(字虞挥)"
+      ],
+      "pinyin": [
+        "yú",
+        "huī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张虞挥：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张虞孙",
+      "name": "虞孙",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "钱肃乐(字虞孙)"
+      ],
+      "pinyin": [
+        "yú",
+        "sūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张虞孙：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张原师",
+      "name": "原师",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "熊望(字原师)"
+      ],
+      "pinyin": [
+        "yuán",
+        "shī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张原师：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张原湘",
+      "name": "原湘",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "孙原湘"
+      ],
+      "pinyin": [
+        "yuán",
+        "xiāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张原湘：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张原宗",
+      "name": "原宗",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "傅汇(字原宗)"
+      ],
+      "pinyin": [
+        "yuán",
+        "zōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张原宗：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张耘松",
+      "name": "耘松",
+      "score": 93,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "赵翼(字耘松)"
+      ],
+      "pinyin": [
+        "yún",
+        "sōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张耘松：总分 93；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张才叔",
+      "name": "才叔",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 6,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "王广渊(字才叔)",
+        "李守贤(字才叔)",
+        "管乐(字才叔)"
+      ],
+      "pinyin": [
+        "cái",
+        "shū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张才叔：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张逢昌",
+      "name": "逢昌",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "季逢昌"
+      ],
+      "pinyin": [
+        "féng",
+        "chāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张逢昌：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张廉衣",
+      "name": "廉衣",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 6,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李中简(字廉衣)"
+      ],
+      "pinyin": [
+        "lián",
+        "yī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张廉衣：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张凌虚",
+      "name": "凌虚",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "樊腾凤(字凌虚)"
+      ],
+      "pinyin": [
+        "líng",
+        "xū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张凌虚：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张民衷",
+      "name": "民衷",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "黎民衷"
+      ],
+      "pinyin": [
+        "mín",
+        "zhōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张民衷：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张齐聃",
+      "name": "齐聃",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "徐齐聃"
+      ],
+      "pinyin": [
+        "qí",
+        "dān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张齐聃：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张蓉裳",
+      "name": "蓉裳",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 6,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "余集(字蓉裳)",
+        "杨芳灿(字蓉裳)"
+      ],
+      "pinyin": [
+        "róng",
+        "shang"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张蓉裳：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张腾蛟",
+      "name": "腾蛟",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "何腾蛟",
+        "洪腾蛟",
+        "张腾蛟",
+        "钱腾蛟"
+      ],
+      "pinyin": [
+        "téng",
+        "jiāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张腾蛟：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张田叔",
+      "name": "田叔",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 6,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "屠本畯(字田叔)",
+        "蓝瑛(字田叔)"
+      ],
+      "pinyin": [
+        "tián",
+        "shū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张田叔：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张廷琚",
+      "name": "廷琚",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 6,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "贝琼(字廷琚)"
+      ],
+      "pinyin": [
+        "tíng",
+        "jū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张廷琚：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张维藩",
+      "name": "维藩",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "宋维藩",
+        "谢维藩"
+      ],
+      "pinyin": [
+        "wéi",
+        "fān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张维藩：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张维涓",
+      "name": "维涓",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "沈澜(字维涓)"
+      ],
+      "pinyin": [
+        "wéi",
+        "juān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张维涓：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张维崧",
+      "name": "维崧",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "陈维崧"
+      ],
+      "pinyin": [
+        "wéi",
+        "sōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张维崧：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张席珍",
+      "name": "席珍",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 6,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "陈汝玚(字席珍)"
+      ],
+      "pinyin": [
+        "xí",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张席珍：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张遐周",
+      "name": "遐周",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 6,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "董斯张(字遐周)"
+      ],
+      "pinyin": [
+        "xiá",
+        "zhōu"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张遐周：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张言恭",
+      "name": "言恭",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李言恭"
+      ],
+      "pinyin": [
+        "yán",
+        "gōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张言恭：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张言几",
+      "name": "言几",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李至(字言几)"
+      ],
+      "pinyin": [
+        "yán",
+        "jī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张言几：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张岩肖",
+      "name": "岩肖",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "陈岩肖"
+      ],
+      "pinyin": [
+        "yán",
+        "xiāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张岩肖：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张宜翁",
+      "name": "宜翁",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "刘谊(字宜翁)"
+      ],
+      "pinyin": [
+        "yí",
+        "wēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张宜翁：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张宜斋",
+      "name": "宜斋",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 4
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "劳大舆(字宜斋)"
+      ],
+      "pinyin": [
+        "yí",
+        "zhāi"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张宜斋：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张贻孙",
+      "name": "贻孙",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 6,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "阎谷年(字贻孙)",
+        "贺贻孙"
+      ],
+      "pinyin": [
+        "yí",
+        "sūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张贻孙：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张于蕃",
+      "name": "于蕃",
+      "score": 92,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 6,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "彭崧毓(字于蕃)"
+      ],
+      "pinyin": [
+        "yú",
+        "bō"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张于蕃：总分 92；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张博真",
+      "name": "博真",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "田大益(字博真)"
+      ],
+      "pinyin": [
+        "bó",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张博真：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张从之",
+      "name": "从之",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "王若虚(字从之)",
+        "郑士懿(字从之)"
+      ],
+      "pinyin": [
+        "cóng",
+        "zhī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张从之：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张存之",
+      "name": "存之",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "高攀龙(字存之)"
+      ],
+      "pinyin": [
+        "cún",
+        "zhī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张存之：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张存中",
+      "name": "存中",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "沈括(字存中)",
+        "韩存中"
+      ],
+      "pinyin": [
+        "cún",
+        "zhōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张存中：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张达夫",
+      "name": "达夫",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "朱沆(字达夫)",
+        "高适(字达夫)",
+        "杨于陵(字达夫)",
+        "邓得遇(字达夫)"
+      ],
+      "pinyin": [
+        "dá",
+        "fū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张达夫：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张得春",
+      "name": "得春",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李得春"
+      ],
+      "pinyin": [
+        "dé",
+        "chūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张得春：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张得轩",
+      "name": "得轩",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "赵克宽(字得轩)"
+      ],
+      "pinyin": [
+        "dé",
+        "xuān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张得轩：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张得一",
+      "name": "得一",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "侯震旸(字得一)",
+        "刘太清(字得一)",
+        "刘遂清(字得一)"
+      ],
+      "pinyin": [
+        "dé",
+        "yī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张得一：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张得之",
+      "name": "得之",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "王猎(字得之)",
+        "汪思(字得之)",
+        "黄鲁曾(字得之)",
+        "曾鲁(字得之)",
+        "蒲道源(字得之)",
+        "朱得之"
+      ],
+      "pinyin": [
+        "dé",
+        "zhī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张得之：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张得中",
+      "name": "得中",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李建中(字得中)"
+      ],
+      "pinyin": [
+        "dé",
+        "zhōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张得中：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德初",
+      "name": "德初",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "汪肇(字德初)"
+      ],
+      "pinyin": [
+        "dé",
+        "chū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德初：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德夫",
+      "name": "德夫",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "吴猎(字德夫)",
+        "徐必达(字德夫)",
+        "马天骥(字德夫)",
+        "单安仁(字德夫)",
+        "潘润(字德夫)"
+      ],
+      "pinyin": [
+        "dé",
+        "fū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德夫：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德辉",
+      "name": "德辉",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "尹凤(字德辉)",
+        "甘莹(字德辉)",
+        "胡珵(字德辉)",
+        "景星(字德辉)",
+        "邹维琏(字德辉)",
+        "李德辉"
+      ],
+      "pinyin": [
+        "dé",
+        "huī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德辉：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德机",
+      "name": "德机",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "范梈(字德机)"
+      ],
+      "pinyin": [
+        "dé",
+        "jī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德机：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德基",
+      "name": "德基",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "甘福(字德基)",
+        "李从温(字德基)",
+        "林有台(字德基)",
+        "韦载(字德基)"
+      ],
+      "pinyin": [
+        "dé",
+        "jī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德基：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德嘉",
+      "name": "德嘉",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "金德嘉"
+      ],
+      "pinyin": [
+        "dé",
+        "jiā"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德嘉：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德坚",
+      "name": "德坚",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "程弥寿(字德坚)"
+      ],
+      "pinyin": [
+        "dé",
+        "jiān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德坚：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德宽",
+      "name": "德宽",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "沈严(字德宽)",
+        "詹㮚(字德宽)"
+      ],
+      "pinyin": [
+        "dé",
+        "kuān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德宽：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德坤",
+      "name": "德坤",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "张归厚(字德坤)"
+      ],
+      "pinyin": [
+        "dé",
+        "kūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德坤：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德深",
+      "name": "德深",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "袁滋(字德深)"
+      ],
+      "pinyin": [
+        "dé",
+        "shēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德深：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德声",
+      "name": "德声",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "汪珊(字德声)",
+        "邓文铿(字德声)"
+      ],
+      "pinyin": [
+        "dé",
+        "shēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德声：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德施",
+      "name": "德施",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "萧统(字德施)"
+      ],
+      "pinyin": [
+        "dé",
+        "shī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德施：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德威",
+      "name": "德威",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "王(字德威)",
+        "沈德威"
+      ],
+      "pinyin": [
+        "dé",
+        "wēi"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德威：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德新",
+      "name": "德新",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "方新(字德新)",
+        "汤铭(字德新)",
+        "王德新"
+      ],
+      "pinyin": [
+        "dé",
+        "xīn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德新：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德馨",
+      "name": "德馨",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "张如兰(字德馨)",
+        "景芳(字德馨)"
+      ],
+      "pinyin": [
+        "dé",
+        "xīn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德馨：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德修",
+      "name": "德修",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "赵立(字德修)",
+        "刘光祖(字德修)",
+        "刘崇俊(字德修)"
+      ],
+      "pinyin": [
+        "dé",
+        "xiū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德修：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德章",
+      "name": "德章",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "洪岩虎(字德章)",
+        "袁宪(字德章)"
+      ],
+      "pinyin": [
+        "dé",
+        "zhāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德章：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德昭",
+      "name": "德昭",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "危德昭",
+        "李德昭"
+      ],
+      "pinyin": [
+        "dé",
+        "zhāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德昭：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德贞",
+      "name": "德贞",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "韩寿(字德贞)"
+      ],
+      "pinyin": [
+        "dé",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德贞：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德周",
+      "name": "德周",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "杨德周"
+      ],
+      "pinyin": [
+        "dé",
+        "zhōu"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德周：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德庄",
+      "name": "德庄",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "龚端(字德庄)"
+      ],
+      "pinyin": [
+        "dé",
+        "zhuāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德庄：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张德遵",
+      "name": "德遵",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "陈循(字德遵)"
+      ],
+      "pinyin": [
+        "dé",
+        "zūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张德遵：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张迪之",
+      "name": "迪之",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "车惠畴(字迪之)"
+      ],
+      "pinyin": [
+        "dí",
+        "zhī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张迪之：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张凫宗",
+      "name": "凫宗",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 5,
+        "rarity": 5
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "方登峄(字凫宗)"
+      ],
+      "pinyin": [
+        "fú",
+        "zōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "包含低频字，已降低用字分"
+      ],
+      "explanation": "张凫宗：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张孚青",
+      "name": "孚青",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李孚青"
+      ],
+      "pinyin": [
+        "fú",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张孚青：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张孚中",
+      "name": "孚中",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "沈信(字孚中)"
+      ],
+      "pinyin": [
+        "fú",
+        "zhōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张孚中：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张格非",
+      "name": "格非",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李格非"
+      ],
+      "pinyin": [
+        "gé",
+        "fēi"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张格非：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张国玑",
+      "name": "国玑",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "左国玑"
+      ],
+      "pinyin": [
+        "guó",
+        "jī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张国玑：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张国钧",
+      "name": "国钧",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "林国钧"
+      ],
+      "pinyin": [
+        "guó",
+        "jūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张国钧：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张国章",
+      "name": "国章",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "谢国章"
+      ],
+      "pinyin": [
+        "guó",
+        "zhāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张国章：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张国珍",
+      "name": "国珍",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "毛玘(字国珍)",
+        "蔡国珍"
+      ],
+      "pinyin": [
+        "guó",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张国珍：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张国桢",
+      "name": "国桢",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "朱国桢"
+      ],
+      "pinyin": [
+        "guó",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张国桢：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张国祯",
+      "name": "国祯",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "史国祯",
+        "余国祯",
+        "梅国祯"
+      ],
+      "pinyin": [
+        "guó",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张国祯：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张涵一",
+      "name": "涵一",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "陈梦元(字涵一)"
+      ],
+      "pinyin": [
+        "hán",
+        "yī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张涵一：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张和之",
+      "name": "和之",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李翃(字和之)"
+      ],
+      "pinyin": [
+        "hé",
+        "zhī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张和之：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张和中",
+      "name": "和中",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "莫君陈(字和中)"
+      ],
+      "pinyin": [
+        "hé",
+        "zhōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张和中：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张荷之",
+      "name": "荷之",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "戴衢亨(字荷之)"
+      ],
+      "pinyin": [
+        "hé",
+        "zhī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张荷之：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张弘基",
+      "name": "弘基",
+      "score": 91,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李广(字弘基)"
+      ],
+      "pinyin": [
+        "hóng",
+        "jī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "张弘基：总分 91；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    }
+  ]
+}

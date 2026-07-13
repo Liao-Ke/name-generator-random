@@ -1,0 +1,6672 @@
+{
+  "query": {
+    "surname": "张",
+    "sourcePreference": "wealth",
+    "limit": 200
+  },
+  "sourceId": "wealth",
+  "sourceLabel": "财富论",
+  "candidateCount": 57327,
+  "results": [
+    {
+      "fullName": "张铂绅",
+      "name": "铂绅",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:铂绅一号证券投资基金(私募）",
+        "基金:铂绅七号证券投资私募基金",
+        "基金:铂绅三十一号私募证券投资基金",
+        "基金:铂绅三十七号私募证券投资基金",
+        "基金:铂绅三十三号私募证券投资基金"
+      ],
+      "pinyin": [
+        "bó",
+        "shēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张铂绅：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张扶桑",
+      "name": "扶桑",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:纳静扶桑树1号私募证券投资基金",
+        "基金:迈维扶桑私募证券投资基金"
+      ],
+      "pinyin": [
+        "fú",
+        "sāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张扶桑：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张服装",
+      "name": "服装",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:南京金维格服装产业投资合伙企业（有限合伙）",
+        "基金:新疆草湖纺织服装产业发展基金合伙企业（有限合伙）",
+        "基金:阿克苏地区纺织服装产业发展基金有限公司"
+      ],
+      "pinyin": [
+        "fú",
+        "zhuāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张服装：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张虹夕",
+      "name": "虹夕",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:虹夕诺雅1号私募股权投资基金"
+      ],
+      "pinyin": [
+        "hóng",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张虹夕：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张回音",
+      "name": "回音",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:高特佳回音必亚东制药专项基金"
+      ],
+      "pinyin": [
+        "huí",
+        "yīn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张回音：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张奎因",
+      "name": "奎因",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:皓邦奎因CTA1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "kuí",
+        "yīn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张奎因：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张岚沧",
+      "name": "岚沧",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:青岛岚沧贰号投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "lán",
+        "cāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张岚沧：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张岚钢",
+      "name": "岚钢",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:日照市岚钢壹号股权投资基金管理合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "lán",
+        "gāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张岚钢：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张连接",
+      "name": "连接",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:中冶建信沈海高速公路鞍山北出口至千山景区快速旅游通道（鞍山北出口连接线段）PPP项目私募股权投资基金",
+        "基金:从容全增母连接私募证券投资基金",
+        "基金:从容医疗五期连接A私募证券投资基金",
+        "基金:金连接滚雪球12号私募证券投资基金"
+      ],
+      "pinyin": [
+        "lián",
+        "jiē"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张连接：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张莲葳",
+      "name": "莲葳",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:橡栎莲葳（广州）创业投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "lián",
+        "wēi"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张莲葳：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张临沧",
+      "name": "临沧",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:临沧晨翔一号股权投资合伙企业（有限合伙）",
+        "基金:弢瑞金元42号临沧市政私募投资基金"
+      ],
+      "pinyin": [
+        "lín",
+        "cāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张临沧：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张临峥",
+      "name": "临峥",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:嘉兴临峥股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "lín",
+        "zhēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张临峥：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张临孜",
+      "name": "临孜",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:嘉兴临孜股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "lín",
+        "zī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张临孜：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张聆汐",
+      "name": "聆汐",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:宁夏德昇聆汐CTA量化一号私募投资基金",
+        "基金:楹栖-聆汐CTA量化1号私募投资基金"
+      ],
+      "pinyin": [
+        "líng",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张聆汐：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张刘钢",
+      "name": "刘钢",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:康腾刘钢一号量化私募证券投资基金"
+      ],
+      "pinyin": [
+        "liú",
+        "gāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张刘钢：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张庐雍",
+      "name": "庐雍",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:九派庐雍优势产业并购驱动基金1号",
+        "基金:庐雍九轩精选成长18号私募证券投资基金",
+        "基金:庐雍优势成长7号一期私募证券投资基金",
+        "基金:庐雍优势成长7号七期私募证券投资基金",
+        "基金:庐雍优势成长7号二期私募证券投资基金"
+      ],
+      "pinyin": [
+        "lú",
+        "yōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张庐雍：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张蔓菁",
+      "name": "蔓菁",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:嘉兴蔓菁股权投资合伙企业（有限合伙）",
+        "基金:泉州蔓菁壹号股权投资合伙企业（有限合伙）",
+        "公司:上海蔓菁投资管理有限公司"
+      ],
+      "pinyin": [
+        "mán",
+        "jīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张蔓菁：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张媒体",
+      "name": "媒体",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:上海源本新媒体股权投资基金合伙企业（有限合伙）",
+        "基金:中投国资“一带一路”卫星媒体基金",
+        "基金:内蒙古中财文津新媒体投资中心（有限合伙）",
+        "基金:内蒙古中财金控新媒体投资中心（有限合伙）",
+        "基金:利得红马多媒体芯片专项私募投资2号基金"
+      ],
+      "pinyin": [
+        "méi",
+        "tī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张媒体：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张弥敦",
+      "name": "弥敦",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:钜派禾晖-昆山弥敦城专项投资三期私募基金",
+        "基金:钜派禾晖-昆山弥敦城专项投资二期基金",
+        "基金:钜派禾晖-昆山弥敦城专项投资基金"
+      ],
+      "pinyin": [
+        "mí",
+        "dūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张弥敦：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张弥加",
+      "name": "弥加",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:弥加1号私募基金",
+        "基金:弥加2号私募基金",
+        "基金:弥加3号私募基金",
+        "基金:弥加6号私募证券投资基金",
+        "基金:弥加鑫选1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "mí",
+        "jiā"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张弥加：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张弥迦",
+      "name": "弥迦",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:宁波梅山保税港区弥迦股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "mí",
+        "jiā"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张弥迦：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张旻骁",
+      "name": "旻骁",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:私募工场旻骁一号证券投资基金"
+      ],
+      "pinyin": [
+        "mín",
+        "xiāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张旻骁：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张尼夫",
+      "name": "尼夫",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:花见尼夫勒多策略私募证券投资基金"
+      ],
+      "pinyin": [
+        "ní",
+        "fū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张尼夫：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张凝渊",
+      "name": "凝渊",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:行和凝渊私募证券投资基金"
+      ],
+      "pinyin": [
+        "níng",
+        "yuān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张凝渊：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张盘庚",
+      "name": "盘庚",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:上海盘庚企业管理中心（有限合伙）",
+        "基金:盘庚价值1号私募证券投资基金",
+        "基金:盘庚价值2号私募证券投资基金",
+        "基金:金锝盘庚证券投资私募基金",
+        "公司:北京盘庚资本管理有限公司"
+      ],
+      "pinyin": [
+        "pán",
+        "gēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张盘庚：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张颀氢",
+      "name": "颀氢",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:嘉兴颀氢股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "qí",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张颀氢：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张骐笙",
+      "name": "骐笙",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:上海骐笙投资管理中心（有限合伙）"
+      ],
+      "pinyin": [
+        "qí",
+        "shēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张骐笙：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张陶淑",
+      "name": "陶淑",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:青花陶淑11号私募证券投资基金",
+        "基金:青花陶淑1号私募证券投资基金",
+        "基金:青花陶淑8号私募证券投资基金"
+      ],
+      "pinyin": [
+        "táo",
+        "shū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张陶淑：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张陶朱",
+      "name": "陶朱",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:大墉陶朱一号私募证券投资基金",
+        "基金:宽行陶朱成长一号私募证券投资基金",
+        "基金:揽旭陶朱一号私募证券投资基金",
+        "基金:揽旭陶朱二号私募证券投资基金",
+        "基金:洞见资本陶朱公1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "táo",
+        "zhū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张陶朱：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张藤宣",
+      "name": "藤宣",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:宁波藤宣创业投资合伙企业(有限合伙)"
+      ],
+      "pinyin": [
+        "téng",
+        "xuān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张藤宣：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张铜雀",
+      "name": "铜雀",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:铜雀隆化文化旅游小镇1号股权投资基金",
+        "公司:北京铜雀资产管理有限公司"
+      ],
+      "pinyin": [
+        "tóng",
+        "qiāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张铜雀：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张潼骁",
+      "name": "潼骁",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:上海潼骁慧福私募证券投资基金",
+        "基金:上海潼骁涌汇3号证券投资基金",
+        "基金:上海潼骁稳健2号私募投资基金",
+        "基金:中信期货潼骁全天候1号集合资产管理计划",
+        "基金:中信期货潼骁全天候6号集合资产管理计划"
+      ],
+      "pinyin": [
+        "tóng",
+        "xiāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张潼骁：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张唯瞻",
+      "name": "唯瞻",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:唯瞻十九号私募证券投资基金",
+        "基金:唯瞻进取一号私募证券投资基金",
+        "公司:武汉唯瞻私募基金管理合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "wéi",
+        "zhān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张唯瞻：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张惟骞",
+      "name": "惟骞",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:苏州工业园区惟骞投资企业（有限合伙）"
+      ],
+      "pinyin": [
+        "wéi",
+        "qiān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张惟骞：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张闻迦",
+      "name": "闻迦",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:景熙10号闻迦资产私募基金",
+        "基金:闻迦安心回报1号基金",
+        "基金:闻迦秋石壹号私募投资基金",
+        "基金:闻迦财富精选1号基金",
+        "基金:闻迦财富精选3号"
+      ],
+      "pinyin": [
+        "wén",
+        "jiā"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张闻迦：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张闻诸",
+      "name": "闻诸",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:杭州闻诸投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "wén",
+        "zhū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张闻诸：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张吴钩",
+      "name": "吴钩",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:映雪吴钩15号私募基金",
+        "基金:映雪吴钩16号私募基金",
+        "基金:映雪吴钩18号私募证券投资基金",
+        "基金:映雪吴钩1号基金",
+        "基金:映雪吴钩20号私募证券投资基金"
+      ],
+      "pinyin": [
+        "wú",
+        "gōu"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张吴钩：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张吴声",
+      "name": "吴声",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:吴声·春雨纯债1号私募证券投资基金",
+        "基金:吴声·春雨纯债2号私募证券投资基金",
+        "基金:吴声·春雨纯债3号私募证券投资基金",
+        "基金:吴声·春雨纯债5号私募证券投资基金",
+        "基金:吴声·春雨纯债8号私募证券投资基金"
+      ],
+      "pinyin": [
+        "wú",
+        "shēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张吴声：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张吴淞",
+      "name": "吴淞",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:博衍吴淞1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "wú",
+        "sōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张吴淞：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张雄师",
+      "name": "雄师",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:雄师-华安城市更新私募基金",
+        "基金:雄师3D科技应用专项私募股权基金",
+        "基金:雄师君盛股权投资基金管理（珠海市）合伙企业（有限合伙）",
+        "基金:雄师广东温泉养老旅游发展私募投资基金",
+        "公司:雄师私募基金管理（珠海）有限公司"
+      ],
+      "pinyin": [
+        "xióng",
+        "shī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张雄师：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张熊猫",
+      "name": "熊猫",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:东方小熊猫1号私募投资基金",
+        "基金:中信建投期货-小熊猫中子星1号资产管理计划",
+        "基金:大有期货-小熊猫一号资产管理计划",
+        "基金:小熊猫7号3期私募证券投资基金",
+        "基金:小熊猫7号私享2期私募证券投资基金"
+      ],
+      "pinyin": [
+        "xióng",
+        "māo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张熊猫：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张寻乌",
+      "name": "寻乌",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:国诚资产赣银寻乌9号私募投资基金"
+      ],
+      "pinyin": [
+        "xún",
+        "wū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张寻乌：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张炎烽",
+      "name": "炎烽",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:广东瑞枫炎烽股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "yán",
+        "fēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张炎烽：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张研究",
+      "name": "研究",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:中兵资产研究精选私募证券投资基金",
+        "基金:中融鼎研究1号私募证券投资基金",
+        "基金:中融鼎研究2号私募证券投资基金",
+        "基金:中融鼎研究3号私募证券投资基金",
+        "基金:中融鼎研究5号私募证券投资基金"
+      ],
+      "pinyin": [
+        "yán",
+        "jiū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张研究：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张垚犇",
+      "name": "垚犇",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:垚犇中性私募证券投资基金",
+        "基金:垚犇小米私募证券投资基金",
+        "基金:垚犇白洞私募证券投资基金",
+        "基金:垚犇致远1号私募证券投资基金",
+        "基金:垚犇致远中性1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "yáo",
+        "bēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张垚犇：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张营销",
+      "name": "营销",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:弋盛移动营销3号私募投资基金"
+      ],
+      "pinyin": [
+        "yíng",
+        "xiāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张营销：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张渝氢",
+      "name": "渝氢",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:重庆渝氢私募股权投资基金合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "yú",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张渝氢：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张虞张",
+      "name": "虞张",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:首京建投老苏虞张城镇化建设私募基金"
+      ],
+      "pinyin": [
+        "yú",
+        "zhāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张虞张：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张沅晞",
+      "name": "沅晞",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:上海沅晞投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "yuán",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张沅晞：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张缘珍",
+      "name": "缘珍",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:广汇缘珍拾1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "yuán",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张缘珍：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张沄舒",
+      "name": "沄舒",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:珠海沄舒二期股权投资基金合伙企业（有限合伙）",
+        "基金:珠海沄舒股权投资基金合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "yún",
+        "shū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张沄舒：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张昀烽",
+      "name": "昀烽",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:言起昀烽1号私募基金"
+      ],
+      "pinyin": [
+        "yún",
+        "fēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张昀烽：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张昀卿",
+      "name": "昀卿",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:智信景行昀卿成长一号私募投资基金"
+      ],
+      "pinyin": [
+        "yún",
+        "qīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张昀卿：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张鋆汐",
+      "name": "鋆汐",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:杭州鋆汐股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "yún",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张鋆汐：总分 97；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张拔节",
+      "name": "拔节",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:银杉拔节1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "bá",
+        "jiē"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张拔节：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张白沙",
+      "name": "白沙",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:嘉越文言白沙泉FOF1号私募证券投资基金",
+        "基金:壁虎白沙泉1号私募证券投资基金",
+        "基金:恒邦白沙一号私募证券投资基金"
+      ],
+      "pinyin": [
+        "bái",
+        "shā"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张白沙：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张白犀",
+      "name": "白犀",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:白犀私募-辛巴达之翼1号私募证券投资基金",
+        "基金:白犀资产-辛巴达之影2号私募证券投资基金",
+        "基金:白犀资产-辛巴达之影3号私募证券投资基金",
+        "基金:白犀资产-辛巴达之影5号私募证券投资基金",
+        "基金:白犀资产-辛巴达之影6号私募证券投资基金"
+      ],
+      "pinyin": [
+        "bái",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张白犀：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张白溪",
+      "name": "白溪",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:白溪怡和6号私募证券投资基金",
+        "基金:白溪怡和8号私募证券投资基金",
+        "基金:白溪怡和9号私募证券投资基金",
+        "基金:白溪成长一号私募证券投资基金",
+        "公司:上海白溪私募基金管理有限公司"
+      ],
+      "pinyin": [
+        "bái",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张白溪：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张铂森",
+      "name": "铂森",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:傲创铂森1号私募证券投资基金",
+        "基金:傲创铂森2号私募证券投资基金"
+      ],
+      "pinyin": [
+        "bó",
+        "sēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张铂森：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张渤昌",
+      "name": "渤昌",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:渤昌股权投资（咸宁）合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "bó",
+        "chāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张渤昌：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张渤涛",
+      "name": "渤涛",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:珲春渤涛基础设施产业投资管理中心（有限合伙）",
+        "公司:渤涛（北京）资本管理有限公司"
+      ],
+      "pinyin": [
+        "bó",
+        "tāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张渤涛：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张搏击",
+      "name": "搏击",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:喜仁量化搏击证券投资基金",
+        "基金:洵源搏击2号证券投资基金"
+      ],
+      "pinyin": [
+        "bó",
+        "jī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张搏击：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张才熹",
+      "name": "才熹",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:烟台业达才熹创业投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "cái",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张才熹：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张慈溪",
+      "name": "慈溪",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:慈溪亿群合洪股权投资合伙企业（有限合伙）",
+        "基金:慈溪博睿易贝乐股权投资合伙企业（有限合伙）",
+        "基金:慈溪博睿股权投资基金合伙企业(有限合伙)",
+        "基金:慈溪市青鸟滨海股权投资合伙企业（有限合伙）",
+        "基金:慈溪极地熔岩上林股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "cí",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张慈溪：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张得惜",
+      "name": "得惜",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:盛诺金梦得惜诺股权投资基金"
+      ],
+      "pinyin": [
+        "dé",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张得惜：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张迪加",
+      "name": "迪加",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:顺为有道迪加私募证券投资基金"
+      ],
+      "pinyin": [
+        "dí",
+        "jiā"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张迪加：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张蝶威",
+      "name": "蝶威",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:蝶威CTA1号私募证券投资基金",
+        "基金:蝶威东威1号私募证券投资基金",
+        "基金:蝶威中港绩优1号私募证券投资基金",
+        "基金:蝶威修业一号私募证券投资基金",
+        "基金:蝶威八亿时空醇享3号私募证券投资基金"
+      ],
+      "pinyin": [
+        "dié",
+        "wēi"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张蝶威：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张繁昌",
+      "name": "繁昌",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:繁昌国元种子创业投资基金有限公司",
+        "基金:繁昌徽银城镇化一号基金（有限合伙）"
+      ],
+      "pinyin": [
+        "fán",
+        "chāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张繁昌：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张孚韬",
+      "name": "孚韬",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:宁波梅山保税港区鼎晖孚韬股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "fú",
+        "tāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张孚韬：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张孚威",
+      "name": "孚威",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:孚威国宏1号基金",
+        "基金:孚威奕阳一号私募证券投资基金",
+        "基金:孚威成长1号私募证券投资基金",
+        "基金:孚威稳健1号私募证券投资基金",
+        "基金:深圳市孚威天玑投资企业（有限合伙）"
+      ],
+      "pinyin": [
+        "fú",
+        "wēi"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张孚威：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张孚赟",
+      "name": "孚赟",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:上海鼎晖孚赟投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "fú",
+        "yūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张孚赟：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张孚贞",
+      "name": "孚贞",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:青岛孚贞私募股权投资基金合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "fú",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张孚贞：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张孚舟",
+      "name": "孚舟",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:宁波梅山保税港区鼎晖孚舟股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "fú",
+        "zhōu"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张孚舟：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张阁叁",
+      "name": "阁叁",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:融启琅琊阁叁号私募证券投资基金"
+      ],
+      "pinyin": [
+        "gé",
+        "sān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张阁叁：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张含秋",
+      "name": "含秋",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:幂加和水含秋远私募证券投资基金"
+      ],
+      "pinyin": [
+        "hán",
+        "qiū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张含秋：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张含章",
+      "name": "含章",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:共青城泰合含章股权投资合伙企业（有限合伙）",
+        "基金:合肥弘博含章股权投资合伙企业（有限合伙）",
+        "基金:含章可贞1号私募证券投资基金",
+        "基金:含章可贞2号私募证券投资基金",
+        "基金:含章可贞私募证券投资基金"
+      ],
+      "pinyin": [
+        "hán",
+        "zhāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张含章：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张晗村",
+      "name": "晗村",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:天津晗村投资中心（有限合伙）"
+      ],
+      "pinyin": [
+        "hán",
+        "cūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张晗村：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张焓翀",
+      "name": "焓翀",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:上海焓翀企业管理中心（有限合伙）"
+      ],
+      "pinyin": [
+        "hán",
+        "chōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张焓翀：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张珩芯",
+      "name": "珩芯",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:广东珩芯创业投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "héng",
+        "xīn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张珩芯：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张虹珊",
+      "name": "虹珊",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:嘉兴虹珊承天投资合伙企业（有限合伙）",
+        "公司:武汉嘉道虹珊股权投资管理合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "hóng",
+        "shān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张虹珊：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张虹湾",
+      "name": "虹湾",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:湘潭潭城虹湾产业发展私募股权基金企业（有限合伙）",
+        "基金:绵阳市涪城区铭盛虹湾半导体产业投资发展合伙企业（有限合伙）",
+        "公司:深圳前海虹湾股权投资基金管理有限公司"
+      ],
+      "pinyin": [
+        "hóng",
+        "wān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张虹湾：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张虹煊",
+      "name": "虹煊",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:枣庄虹煊股权投资基金合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "hóng",
+        "xuān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张虹煊：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张骅威",
+      "name": "骅威",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:珠海横琴骅威哲兴互联网文化产业投资基金（有限合伙）"
+      ],
+      "pinyin": [
+        "huá",
+        "wēi"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张骅威：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张怀真",
+      "name": "怀真",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:共青城怀真创新三期投资合伙企业（有限合伙）",
+        "基金:宁波梅山保税港区怀真投资合伙企业（有限合伙）",
+        "基金:怀真众富一号基金",
+        "基金:怀真创新深圳新三板投资基金",
+        "基金:怀真招财一号私募基金"
+      ],
+      "pinyin": [
+        "huái",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张怀真：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张怀知",
+      "name": "怀知",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:怀知私募基金管理计划-壹号",
+        "基金:怀知私募基金管理计划-贰号",
+        "公司:北京怀知投资管理中心（有限合伙）"
+      ],
+      "pinyin": [
+        "huái",
+        "zhī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张怀知：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张怀衷",
+      "name": "怀衷",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:融相怀衷一号私募证券投资基金",
+        "基金:融相怀衷二号私募证券投资基金"
+      ],
+      "pinyin": [
+        "huái",
+        "zhōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张怀衷：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张淮滨",
+      "name": "淮滨",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:凤阳淮滨桉树硅基产业投资基金（有限合伙）"
+      ],
+      "pinyin": [
+        "huái",
+        "bīn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张淮滨：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张环洲",
+      "name": "环洲",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:贵安新区嘉浩环洲科技创业投资基金合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "huán",
+        "zhōu"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张环洲：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张洹涛",
+      "name": "洹涛",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "公司:上海洹涛投资管理有限公司"
+      ],
+      "pinyin": [
+        "huán",
+        "tāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张洹涛：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张奎昌",
+      "name": "奎昌",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:奎昌创新成长三号私募投资基金",
+        "基金:奎昌稳增一号私募投资基金",
+        "基金:奎昌稳增二号私募投资基金",
+        "公司:广东奎昌投资管理有限公司"
+      ],
+      "pinyin": [
+        "kuí",
+        "chāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张奎昌：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张来宾",
+      "name": "来宾",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:广西来宾中商银专精产业投资合伙企业（有限合伙）",
+        "基金:广西来宾金园投资基金有限公司",
+        "基金:来宾市鑫隆河南工业园区项目建设基金管理中心(有限合伙)",
+        "基金:来宾市高投发展投资基金合伙企业（有限合伙）",
+        "基金:来宾柳银城投投资基金管理中心（有限合伙）"
+      ],
+      "pinyin": [
+        "lái",
+        "bīn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张来宾：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张来栖",
+      "name": "来栖",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:来栖壹号私募投资基金",
+        "基金:杭州来栖股权投资有限公司-基金2号私募股权基金",
+        "公司:杭州来栖股权投资有限公司"
+      ],
+      "pinyin": [
+        "lái",
+        "qī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张来栖：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张莱蒙",
+      "name": "莱蒙",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:天津莱蒙天寿股权投资基金合伙企业（有限合伙）",
+        "基金:天津莱蒙天贵股权投资基金合伙企业（有限合伙）",
+        "基金:深圳莱蒙汇余股权投资基金合伙企业（有限合伙）",
+        "基金:深圳莱蒙汇利股权投资基金合伙企业（有限合伙）",
+        "基金:深圳莱蒙汇富股权投资基金合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "lái",
+        "mēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张莱蒙：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张莱奇",
+      "name": "莱奇",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:艮岳莱奇1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "lái",
+        "jī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张莱奇：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张莱汀",
+      "name": "莱汀",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:苏州莱汀创业投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "lái",
+        "tīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张莱汀：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张莱希",
+      "name": "莱希",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:川宝信予莱希管鲍厚积薄发私募证券投资基金",
+        "基金:川宝信予莱希管鲍宏观进取FOF私募证券投资基金"
+      ],
+      "pinyin": [
+        "lái",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张莱希：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张莱曦",
+      "name": "莱曦",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:上海莱曦投资管理中心（有限合伙）"
+      ],
+      "pinyin": [
+        "lái",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张莱曦：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张兰旌",
+      "name": "兰旌",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:红猫资管兰旌私募证券投资基金"
+      ],
+      "pinyin": [
+        "lán",
+        "jīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张兰旌：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张兰筠",
+      "name": "兰筠",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:兰筠湘泽一号私募证券投资基金",
+        "基金:兰筠精选一号私募证券投资基金",
+        "基金:兰筠锦隆一号私募证券投资基金"
+      ],
+      "pinyin": [
+        "lán",
+        "jūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张兰筠：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张兰章",
+      "name": "兰章",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:兰章基金万利一号私募证券投资基金",
+        "基金:兰章基金璀璨一号私募证券投资基金",
+        "基金:兰章基金璀璨六号私募证券投资基金",
+        "基金:兰章基金积跬九号私募证券投资基金",
+        "基金:兰章基金积跬十号私募证券投资基金"
+      ],
+      "pinyin": [
+        "lán",
+        "zhāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张兰章：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张岚昕",
+      "name": "岚昕",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:宁波梅山保税港区岚昕尧鸿投资管理合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "lán",
+        "xīn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张岚昕：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张蓝琛",
+      "name": "蓝琛",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:上海蓝琛企业管理中心（有限合伙）"
+      ],
+      "pinyin": [
+        "lán",
+        "chēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张蓝琛：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张蓝淞",
+      "name": "蓝淞",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:金通资本蓝淞精选私募证券投资基金"
+      ],
+      "pinyin": [
+        "lán",
+        "sōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张蓝淞：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张澜鲸",
+      "name": "澜鲸",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:友利澜鲸价值一号私募证券投资基金"
+      ],
+      "pinyin": [
+        "lán",
+        "jīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张澜鲸：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张澜溪",
+      "name": "澜溪",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:宁波澜溪创新股权投资合伙企业（有限合伙）",
+        "基金:宁波澜溪成长壹号股权投资合伙企业（有限合伙）",
+        "基金:洪毅法澜溪私募证券投资基金",
+        "公司:澜溪（宁波）私募基金管理有限公司"
+      ],
+      "pinyin": [
+        "lán",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张澜溪：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张雷根",
+      "name": "雷根",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:邦和雷根安泰一号私募证券投资基金",
+        "基金:雷根10号基金",
+        "基金:雷根12号私募基金",
+        "基金:雷根15号私募投资基金",
+        "基金:雷根18号私募基金"
+      ],
+      "pinyin": [
+        "léi",
+        "gēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张雷根：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张雷钧",
+      "name": "雷钧",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:亿人-雷钧瞭望者1号",
+        "基金:华润信托·雷钧瞭望者12号集合资金信托计划",
+        "基金:华润信托·雷钧瞭望者15号集合资金信托计划",
+        "基金:华润信托·雷钧瞭望者16号集合资金信托计划",
+        "基金:华润信托·雷钧瞭望者稳健15号三期集合资金信托计划"
+      ],
+      "pinyin": [
+        "léi",
+        "jūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张雷钧：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张雷欧",
+      "name": "雷欧",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:致邃投资-智慧矩阵雷欧提斯量化3号私募证券投资基金"
+      ],
+      "pinyin": [
+        "léi",
+        "ōu"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张雷欧：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张镭耕",
+      "name": "镭耕",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:广州镭耕创业投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "léi",
+        "gēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张镭耕：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张骊驹",
+      "name": "骊驹",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:亚鞅骊驹私募证券投资基金",
+        "基金:宁波知远骊驹1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "lí",
+        "jū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张骊驹：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张骊约",
+      "name": "骊约",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:上海磐石骊约投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "lí",
+        "yāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张骊约：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张连结",
+      "name": "连结",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:笃诚平湖连结一号私募证券投资基金",
+        "基金:笃诚平湖连结二号私募证券投资基金"
+      ],
+      "pinyin": [
+        "lián",
+        "jiē"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张连结：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张莲花",
+      "name": "莲花",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:中安汇富-莲花山中邮永安宏观对冲6号私募证券投资基金",
+        "基金:中安汇富-莲花山宏观5号私募投资基金",
+        "基金:中安汇富-莲花山宏观对冲3号私募投资基金",
+        "基金:中安汇富-莲花山宏观对冲3号私募投资基金1期",
+        "基金:中安汇富-莲花山宏观对冲3号私募证券投资基金2期"
+      ],
+      "pinyin": [
+        "lián",
+        "huā"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张莲花：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张临经",
+      "name": "临经",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:杭州临经浦银投资管理合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "lín",
+        "jīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张临经：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张临菁",
+      "name": "临菁",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:嘉兴临菁股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "lín",
+        "jīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张临菁：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张临空",
+      "name": "临空",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:中冶建信孝感市临空经济区地下综合管廊PPP项目3号私募股权投资基金",
+        "基金:中冶建信孝感市临空经济区地下综合管廊PPP项目4号私募股权投资基金",
+        "基金:中冶建信孝感市临空经济区城市地下综合管廊PPP项目1号私募投资基金",
+        "基金:中铁惠信-鄂州临空项目二期私募股权投资基金",
+        "基金:中铁惠信-鄂州临空项目私募股权投资基金"
+      ],
+      "pinyin": [
+        "lín",
+        "kōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张临空：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张临欧",
+      "name": "临欧",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:共青城临欧创业投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "lín",
+        "ōu"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张临欧：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张临昇",
+      "name": "临昇",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:扬州临昇创业投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "lín",
+        "shēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张临昇：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张临潇",
+      "name": "临潇",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:嘉兴临潇股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "lín",
+        "xiāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张临潇：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张临舟",
+      "name": "临舟",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:临舟扬帆一号私募投资基金"
+      ],
+      "pinyin": [
+        "lín",
+        "zhōu"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张临舟：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张麟烽",
+      "name": "麟烽",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "公司:深圳麟烽投资管理有限公司"
+      ],
+      "pinyin": [
+        "lín",
+        "fēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张麟烽：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张麟威",
+      "name": "麟威",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "公司:麟威创业投资(深圳)有限公司"
+      ],
+      "pinyin": [
+        "lín",
+        "wēi"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张麟威：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张麟洲",
+      "name": "麟洲",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:麟洲启航1号私募证券投资基金",
+        "基金:麟洲启航2号私募证券投资基金",
+        "基金:麟洲扬帆1号私募证券投资基金",
+        "公司:上海麟洲私募基金管理有限公司"
+      ],
+      "pinyin": [
+        "lín",
+        "zhōu"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张麟洲：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张瓴真",
+      "name": "瓴真",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "公司:瓴真私募基金管理（嘉兴）有限公司"
+      ],
+      "pinyin": [
+        "líng",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张瓴真：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张凌霄",
+      "name": "凌霄",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:南京招银电信新趋势凌霄成长股权投资基金合伙企业（有限合伙）",
+        "基金:玖誉象合凌霄贰号私募证券投资基金",
+        "基金:磐云期权量化对冲凌霄1期私募证券投资基金"
+      ],
+      "pinyin": [
+        "líng",
+        "xiāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张凌霄：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张凌渊",
+      "name": "凌渊",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:煌延凌渊1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "líng",
+        "yuān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张凌渊：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张流沙",
+      "name": "流沙",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:乾元流沙一号私募证券投资基金"
+      ],
+      "pinyin": [
+        "liú",
+        "shā"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张流沙：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张留芳",
+      "name": "留芳",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:博衍留芳1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "liú",
+        "fāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张留芳：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张留香",
+      "name": "留香",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:阿尔法喵资本-王佐留香私募证券投资基金"
+      ],
+      "pinyin": [
+        "liú",
+        "xiāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张留香：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张珑杉",
+      "name": "珑杉",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:珑杉创富成长1号私募证券投资基金",
+        "基金:珑杉泰华新能源私募证券投资基金",
+        "基金:珑杉经纬壹号私募证券投资基金",
+        "基金:珑杉风华碳中和私募证券投资基金"
+      ],
+      "pinyin": [
+        "lóng",
+        "shā"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张珑杉：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张珑曦",
+      "name": "珑曦",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:苏州珑曦盛股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "lóng",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张珑曦：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张泸丘",
+      "name": "泸丘",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:中投信联红河州泸丘股权投资私募基金"
+      ],
+      "pinyin": [
+        "lú",
+        "qiū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张泸丘：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张泸溪",
+      "name": "泸溪",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:诺安泸溪绿色旅游公路PPP私募投资基金"
+      ],
+      "pinyin": [
+        "lú",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张泸溪：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张峦枫",
+      "name": "峦枫",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:嘉兴硅谷天堂峦枫投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "luán",
+        "fēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张峦枫：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张伦斯",
+      "name": "伦斯",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:犇牛艾福伦斯私募证券投资基金"
+      ],
+      "pinyin": [
+        "lún",
+        "sī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张伦斯：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张罗森",
+      "name": "罗森",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:钜洲上海罗森宝投资发展基金"
+      ],
+      "pinyin": [
+        "luó",
+        "sēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张罗森：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张罗斯",
+      "name": "罗斯",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:罗斯2号私募基金",
+        "基金:罗斯开放1号私募投资基金",
+        "基金:罗斯洛克（天津）股权投资合伙企业（有限合伙）",
+        "公司:罗斯洛克（天津）股权投资基金管理有限公司"
+      ],
+      "pinyin": [
+        "luó",
+        "sī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张罗斯：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张罗伊",
+      "name": "罗伊",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:宁波梅山保税港区博睿罗伊股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "luó",
+        "yī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张罗伊：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张螺丝",
+      "name": "螺丝",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:仟上螺丝钉主动优选天惠私募证券投资基金1期",
+        "基金:仟上螺丝钉主动优选天惠私募证券投资基金2期",
+        "基金:仟上螺丝钉主动优选天惠私募证券投资基金母基金",
+        "基金:仟上螺丝钉主动优选天益私募证券投资基金1期",
+        "基金:仟上螺丝钉主动优选天益私募证券投资基金2期"
+      ],
+      "pinyin": [
+        "luó",
+        "sī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张螺丝：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张麻雀",
+      "name": "麻雀",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:亿小微麻雀机器人1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "má",
+        "qiāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张麻雀：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张煤焦",
+      "name": "煤焦",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:陕西金控财富资产管理有限公司合力煤焦私募投资基金"
+      ],
+      "pinyin": [
+        "méi",
+        "jiāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张煤焦：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张旻韬",
+      "name": "旻韬",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:嘉兴昀曜旻韬创业投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "mín",
+        "tāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张旻韬：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张名庄",
+      "name": "名庄",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:方略名庄1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "míng",
+        "zhuāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张名庄：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张茗溪",
+      "name": "茗溪",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:杭州盛元茗溪投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "míng",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张茗溪：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张楠溪",
+      "name": "楠溪",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:上海楠溪先锋1号证券投资基金",
+        "基金:上海楠溪先锋2号私募证券投资基金",
+        "基金:上海楠溪好运一期私募证券投资基金",
+        "基金:上海楠溪好运三期私募证券投资基金",
+        "基金:上海楠溪好运二期私募证券投资基金"
+      ],
+      "pinyin": [
+        "nán",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张楠溪：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张楠珍",
+      "name": "楠珍",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:墨锋楠珍私募证券投资基金"
+      ],
+      "pinyin": [
+        "nán",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张楠珍：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张农村",
+      "name": "农村",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:上海新农村新三板1号专项资产管理计划",
+        "基金:凯璞庭-南浔新安大新农村建设PPP投资基金",
+        "基金:吉林省万众创农村普惠金融发展引导基金合伙企业（有限合伙）",
+        "基金:山西省农村信用社稳定发展基金合伙企业（有限合伙）",
+        "基金:招银天山-招商银行-宁波海源新农村建设私募基金"
+      ],
+      "pinyin": [
+        "nóng",
+        "cūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张农村：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张农夫",
+      "name": "农夫",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:三个农夫精选一号私募证券投资基金",
+        "基金:三个农夫鑫鸣一号私募证券投资基金",
+        "基金:三个农夫鑫鸣二号私募证券投资基金",
+        "基金:凯思博阿尔法工场发现者1号农夫投资基金",
+        "基金:北京三个农夫普惠资产管理合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "nóng",
+        "fū"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张农夫：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张农装",
+      "name": "农装",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:苏州中垦农装股权投资管理合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "nóng",
+        "zhuāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张农装：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张磐菁",
+      "name": "磐菁",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:宁波梅山保税港区磐菁股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "pán",
+        "jīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张磐菁：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张磐熹",
+      "name": "磐熹",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:舟山磐熹之咏投资管理合伙企业（有限合伙）",
+        "基金:舟山磐熹之圆股权投资合伙企业（有限合伙）",
+        "基金:舟山磐熹之坤投资管理合伙企业（有限合伙）",
+        "基金:舟山磐熹之城投资管理合伙企业（有限合伙）",
+        "基金:舟山磐熹之昀投资管理合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "pán",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张磐熹：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张磐鹰",
+      "name": "磐鹰",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:磐鹰启明2号私募证券投资基金",
+        "基金:磐鹰奕程进取1号私募证券投资基金",
+        "基金:磐鹰富爵汇盈7号私募证券投资基金",
+        "基金:磐鹰富爵汇盈8号私募证券投资基金",
+        "基金:磐鹰恒赢1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "pán",
+        "yīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张磐鹰：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张澎昌",
+      "name": "澎昌",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:瑞颐澎昌优债1号FOF私募证券投资基金"
+      ],
+      "pinyin": [
+        "péng",
+        "chāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张澎昌：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张澎曦",
+      "name": "澎曦",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:南京澎曦股权投资中心（有限合伙）"
+      ],
+      "pinyin": [
+        "péng",
+        "xī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张澎曦：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张萍妮",
+      "name": "萍妮",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:福州市鼓楼区萍妮茹创业投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "píng",
+        "nī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张萍妮：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张菩提",
+      "name": "菩提",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:“菩提子资本-稳健复利”私募证券投资基金",
+        "基金:东航金融-菩提1号私募证券投资基金",
+        "基金:先石菩提树1号私募证券投资基金",
+        "基金:壁虎菩提觉醒私募证券投资基金",
+        "基金:天一菩提1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "pú",
+        "dī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张菩提：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张蒲笙",
+      "name": "蒲笙",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:上海蒲笙企业管理合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "pú",
+        "shēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张蒲笙：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张璞归",
+      "name": "璞归",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:璞归巨猿1号基金",
+        "基金:璞归智能1号私募证券投资基金",
+        "基金:璞归智能2号私募证券投资基金",
+        "公司:上海璞归投资管理有限公司",
+        "公司:浙江璞归资产管理有限公司"
+      ],
+      "pinyin": [
+        "pú",
+        "guī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张璞归：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张璞疆",
+      "name": "璞疆",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:苏州璞疆投资中心（有限合伙）"
+      ],
+      "pinyin": [
+        "pú",
+        "jiāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张璞疆：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张璞真",
+      "name": "璞真",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:嘉鸿璞真1号私募证券投资基金",
+        "基金:嘉鸿璞真2号私募证券投资基金",
+        "基金:大隐璞真2号私募投资基金",
+        "基金:大隐璞真私募投资基金",
+        "基金:广东和聚璞真股权投资中心（有限合伙）"
+      ],
+      "pinyin": [
+        "pú",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张璞真：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张朴亨",
+      "name": "朴亨",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:朴亨1号私募证券投资基金",
+        "基金:朴亨复利成长私募证券投资基金",
+        "基金:朴亨恒润私募证券投资基金",
+        "基金:朴亨稳健成长私募证券投资基金",
+        "基金:朴亨鸿鹄私募证券投资基金"
+      ],
+      "pinyin": [
+        "piáo",
+        "hēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张朴亨：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张朴真",
+      "name": "朴真",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:圆石朴真1号私募证券投资基金",
+        "基金:圆石朴真2号私募证券投资基金",
+        "基金:圆石朴真3号私募证券投资基金",
+        "基金:珠海朴真股权投资管理合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "piáo",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张朴真：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张朴祯",
+      "name": "朴祯",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:宁波朴祯投资管理合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "piáo",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张朴祯：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张朴拙",
+      "name": "朴拙",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:乾和朴拙1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "piáo",
+        "zhuō"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张朴拙：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张齐滔",
+      "name": "齐滔",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:嘉兴晶凯齐滔股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "qí",
+        "tāo"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张齐滔：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张齐湘",
+      "name": "齐湘",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:井冈山齐湘股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "qí",
+        "xiāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张齐湘：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张祈恩",
+      "name": "祈恩",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:宁波梅山保税港区祈恩投资中心（有限合伙）"
+      ],
+      "pinyin": [
+        "qí",
+        "ēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张祈恩：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张骐邦",
+      "name": "骐邦",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:永韵骐邦一号基金",
+        "基金:骐邦新程1号私募证券投资基金",
+        "基金:骐邦星能定向私募证券投资基金",
+        "基金:骐邦涌利稳健成长基金",
+        "基金:骐邦稳健回报混合A私募基金"
+      ],
+      "pinyin": [
+        "qí",
+        "bāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张骐邦：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张骐叁",
+      "name": "骐叁",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:添添牛恒骐叁号私募证券投资基金"
+      ],
+      "pinyin": [
+        "qí",
+        "sān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张骐叁：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张棋昇",
+      "name": "棋昇",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:瑞丰汇邦源晟棋昇私募证券投资基金"
+      ],
+      "pinyin": [
+        "qí",
+        "shēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张棋昇：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张旗昇",
+      "name": "旗昇",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:共青城旗昇投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "qí",
+        "shēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张旗昇：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张旗笙",
+      "name": "旗笙",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:深圳旗笙投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "qí",
+        "shēng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张旗笙：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张旗微",
+      "name": "旗微",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:前海瑞旗微影时代私募股权投资基金"
+      ],
+      "pinyin": [
+        "qí",
+        "wēi"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张旗微：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张乔丹",
+      "name": "乔丹",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:理想资本乔丹成长1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "qiáo",
+        "dān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张乔丹：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张乔森",
+      "name": "乔森",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:瑞倍乔森价值挖掘私募证券投资基金"
+      ],
+      "pinyin": [
+        "qiáo",
+        "sēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张乔森：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张乔松",
+      "name": "乔松",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:乔松价值成长证券投资基金",
+        "基金:乔松合翊私募证券投资基金",
+        "基金:乔松汇众私募证券投资基金",
+        "基金:乔松汇成季季盈私募证券投资基金",
+        "基金:远澜乔松私募证券投资基金"
+      ],
+      "pinyin": [
+        "qiáo",
+        "sōng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张乔松：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张侨香",
+      "name": "侨香",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:中能化深圳侨香私募股权投资基金"
+      ],
+      "pinyin": [
+        "qiáo",
+        "xiāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张侨香：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张秦巴",
+      "name": "秦巴",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:万源秦巴股权投资母基金管理中心（有限合伙）"
+      ],
+      "pinyin": [
+        "qín",
+        "bā"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张秦巴：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张秦兵",
+      "name": "秦兵",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:上海秦兵纵横2号私募证券投资基金",
+        "基金:天弘创新稳债秦兵1期专项资产管理计划",
+        "基金:念空秦兵中证500指数增强106号私募证券投资基金",
+        "基金:朱雀秦兵纵横1号证券投资基金",
+        "基金:朱雀秦兵长泰1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "qín",
+        "bīng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张秦兵：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张秦庄",
+      "name": "秦庄",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:思晔秦庄1号私募投资基金"
+      ],
+      "pinyin": [
+        "qín",
+        "zhuāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张秦庄：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张勤体",
+      "name": "勤体",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:勤体股权投资1号"
+      ],
+      "pinyin": [
+        "qín",
+        "tī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张勤体：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张擎川",
+      "name": "擎川",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:海宁擎川创业投资合伙企业（有限合伙）",
+        "基金:西安擎川创业投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "qíng",
+        "chuān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张擎川：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张琼台",
+      "name": "琼台",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:可麦琼台一号私募证券投资基金",
+        "基金:可麦琼台三号私募证券投资基金",
+        "基金:可麦琼台二号私募证券投资基金",
+        "基金:嘉恳琼台一号私募证券投资基金",
+        "基金:宽投琼台8号私募证券投资基金"
+      ],
+      "pinyin": [
+        "qióng",
+        "tāi"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张琼台：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张求真",
+      "name": "求真",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:北京方信求真投资管理中心（有限合伙）",
+        "基金:玄鹿求真1号私募证券投资基金",
+        "基金:玄鹿求真私募证券投资基金",
+        "基金:睡鲨一号求真私募证券投资子基金",
+        "基金:睡鲨三号求真私募证券投资基金"
+      ],
+      "pinyin": [
+        "qiú",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张求真：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张筌真",
+      "name": "筌真",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "公司:厦门昇葆筌真私募基金管理有限公司"
+      ],
+      "pinyin": [
+        "quán",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张筌真：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张遂昌",
+      "name": "遂昌",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:中邮永安如意遂昌一号私募证券投资基金",
+        "基金:遂昌县双招双引基金有限公司",
+        "基金:遂昌县基础设施投资基金有限公司",
+        "基金:遂昌县科技创新创业投资基金合伙企业（有限合伙）",
+        "基金:遂昌壹佰科一期股权投资合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "suí",
+        "chāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张遂昌：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张遂真",
+      "name": "遂真",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:北海遂真聚华投资管理合伙企业（有限合伙）",
+        "基金:嘉兴遂真经纶投资合伙企业（有限合伙）",
+        "公司:宁波镇海遂真投资管理有限公司"
+      ],
+      "pinyin": [
+        "suí",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张遂真：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张檀村",
+      "name": "檀村",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:昆山檀村投资中心（有限合伙）"
+      ],
+      "pinyin": [
+        "tán",
+        "cūn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张檀村：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张檀香",
+      "name": "檀香",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:双隆-檀香隆富1号私募证券投资基金",
+        "基金:均成檀香1号私募证券投资基金",
+        "基金:尚雅檀香一期私募证券投资基金",
+        "基金:无量檀香1号私募证券投资基金",
+        "基金:磐耀檀香一号私募证券投资基金"
+      ],
+      "pinyin": [
+        "tán",
+        "xiāng"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张檀香：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张檀真",
+      "name": "檀真",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:正心谷檀真年年丰利2号私募证券投资基金",
+        "基金:正心谷檀真添添鑫3-1号私募证券投资基金",
+        "基金:正心谷檀真添添鑫3号私募证券投资基金",
+        "基金:正心谷檀真添添鑫6-1号私募证券投资基金",
+        "基金:正心谷檀真添添鑫6号私募证券投资基金"
+      ],
+      "pinyin": [
+        "tán",
+        "zhēn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张檀真：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张藤威",
+      "name": "藤威",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:上海藤威投资管理中心（有限合伙）"
+      ],
+      "pinyin": [
+        "téng",
+        "wēi"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张藤威：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张甜瓜",
+      "name": "甜瓜",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:明盛甜瓜一号私募证券投资基金",
+        "基金:明盛甜瓜二号私募证券投资基金"
+      ],
+      "pinyin": [
+        "tián",
+        "guā"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张甜瓜：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张庭威",
+      "name": "庭威",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:前海卓喜庭威1号私募证券投资基金",
+        "基金:前海卓喜庭威2号私募证券投资基金",
+        "基金:前海卓喜庭威长量1号私募证券投资基金"
+      ],
+      "pinyin": [
+        "tíng",
+        "wēi"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张庭威：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张停车",
+      "name": "停车",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:中美绿色智慧停车张家口合伙企业（有限合伙）",
+        "基金:中铁资本-梧州停车场PPP项目（二期）私募股权投资基金",
+        "基金:中铁资本-梧州停车场及配套综合提升项目私募股权投资基金",
+        "基金:中铁资本-梧州停车场及配套综合提升项目（二期）私募股权投资基金",
+        "基金:陕西金控财富管理有限公司停车场1号投资基金"
+      ],
+      "pinyin": [
+        "tíng",
+        "chē"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张停车：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张铜川",
+      "name": "铜川",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:铜川市产业合作发展基金（有限合伙）",
+        "基金:铜川市航空航天产业发展基金有限公司",
+        "基金:铜川市财经发展基金（有限合伙）",
+        "基金:铜川清大汇鑫股权投资合伙企业（有限合伙）",
+        "基金:铜川高新科技成果转化创业投资管理合伙企业（有限合伙）"
+      ],
+      "pinyin": [
+        "tóng",
+        "chuān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张铜川：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张铜叁",
+      "name": "铜叁",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:重庆元素铜叁号私募证券投资基金"
+      ],
+      "pinyin": [
+        "tóng",
+        "sān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张铜叁：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张铜芯",
+      "name": "铜芯",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:贵溪市铜芯创业投资中心（有限合伙）"
+      ],
+      "pinyin": [
+        "tóng",
+        "xīn"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张铜芯：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张童菲",
+      "name": "童菲",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:私募工场童菲成长一号证券投资基金"
+      ],
+      "pinyin": [
+        "tóng",
+        "fēi"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张童菲：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张图斯",
+      "name": "图斯",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:图斯世元私募证券投资基金",
+        "基金:图斯东盛私募证券投资基金",
+        "基金:图斯中千一号结构化私募基金",
+        "基金:图斯久赢一号私募证券投资基金",
+        "基金:图斯九六六私募证券投资基金"
+      ],
+      "pinyin": [
+        "tú",
+        "sī"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张图斯：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "张途叁",
+      "name": "途叁",
+      "score": 96,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 14,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "财富论"
+      ],
+      "sourceNames": [
+        "基金:广东广祺辰途叁号股权投资合伙企业（有限合伙）",
+        "基金:昆仑石星途叁号私募证券投资基金"
+      ],
+      "pinyin": [
+        "tú",
+        "sān"
+      ],
+      "tonePattern": "121",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：财富论",
+        "用字频率可接受"
+      ],
+      "explanation": "张途叁：总分 96；来源：财富论；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    }
+  ]
+}

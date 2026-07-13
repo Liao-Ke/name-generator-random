@@ -1,0 +1,6012 @@
+{
+  "query": {
+    "surname": "姚",
+    "sourcePreference": "modern_people",
+    "limit": 200
+  },
+  "sourceId": "modern_people",
+  "sourceLabel": "他山石",
+  "candidateCount": 60240,
+  "results": [
+    {
+      "fullName": "姚瑷纯",
+      "name": "瑷纯",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "ài",
+        "chún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚瑷纯：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚瑷慈",
+      "name": "瑷慈",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "ài",
+        "cí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚瑷慈：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚瑷遥",
+      "name": "瑷遥",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "ài",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚瑷遥：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚桉榕",
+      "name": "桉榕",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "ān",
+        "róng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚桉榕：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚桉茹",
+      "name": "桉茹",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "ān",
+        "rú"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚桉茹：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚岸尘",
+      "name": "岸尘",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "àn",
+        "chén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚岸尘：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚倍娴",
+      "name": "倍娴",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bèi",
+        "xián"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚倍娴：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚蓓儿",
+      "name": "蓓儿",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bèi",
+        "ér"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚蓓儿：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚碧莲",
+      "name": "碧莲",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bì",
+        "lián"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚碧莲：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚碧柔",
+      "name": "碧柔",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bì",
+        "róu"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚碧柔：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚碧遥",
+      "name": "碧遥",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bì",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚碧遥：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚碧芸",
+      "name": "碧芸",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bì",
+        "yún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚碧芸：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚步繁",
+      "name": "步繁",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bù",
+        "fán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚步繁：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚步严",
+      "name": "步严",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bù",
+        "yán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚步严：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚步垚",
+      "name": "步垚",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bù",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚步垚：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚灿濠",
+      "name": "灿濠",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "càn",
+        "háo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚灿濠：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚灿雄",
+      "name": "灿雄",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "càn",
+        "xióng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚灿雄：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚璨庭",
+      "name": "璨庭",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "càn",
+        "tíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚璨庭：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚琛骅",
+      "name": "琛骅",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "chēn",
+        "huá"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚琛骅：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚初莲",
+      "name": "初莲",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "chū",
+        "lián"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚初莲：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚赐煌",
+      "name": "赐煌",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "cì",
+        "huáng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚赐煌：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚萃滢",
+      "name": "萃滢",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "cuì",
+        "yíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚萃滢：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚翠菊",
+      "name": "翠菊",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "cuì",
+        "jú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚翠菊：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚翠莲",
+      "name": "翠莲",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "cuì",
+        "lián"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚翠莲：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚翠蔓",
+      "name": "翠蔓",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "cuì",
+        "mán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚翠蔓：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚翠苹",
+      "name": "翠苹",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "cuì",
+        "píng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚翠苹：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚翠芸",
+      "name": "翠芸",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "cuì",
+        "yún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚翠芸：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚岱柔",
+      "name": "岱柔",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dài",
+        "róu"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚岱柔：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚岱儒",
+      "name": "岱儒",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dài",
+        "rú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚岱儒：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚岱沂",
+      "name": "岱沂",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dài",
+        "yí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚岱沂：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚登寰",
+      "name": "登寰",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dēng",
+        "huán"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚登寰：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚帝丞",
+      "name": "帝丞",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dì",
+        "chéng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚帝丞：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚帝尧",
+      "name": "帝尧",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dì",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚帝尧：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚冬寒",
+      "name": "冬寒",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dōng",
+        "hán"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚冬寒：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚冬芹",
+      "name": "冬芹",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dōng",
+        "qín"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚冬芹：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚栋儒",
+      "name": "栋儒",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dòng",
+        "rú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚栋儒：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚栋遥",
+      "name": "栋遥",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dòng",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚栋遥：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚非遥",
+      "name": "非遥",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "fēi",
+        "yáo"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚非遥：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚芬莲",
+      "name": "芬莲",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "fēn",
+        "lián"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚芬莲：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚夫燃",
+      "name": "夫燃",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "fū",
+        "rán"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚夫燃：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚付才",
+      "name": "付才",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "fù",
+        "cái"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚付才：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚馥榕",
+      "name": "馥榕",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "fù",
+        "róng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚馥榕：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚岗寅",
+      "name": "岗寅",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "gāng",
+        "yín"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚岗寅：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚根莲",
+      "name": "根莲",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "gēn",
+        "lián"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚根莲：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚耕遥",
+      "name": "耕遥",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "gēng",
+        "yáo"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚耕遥：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚顾闻",
+      "name": "顾闻",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "gù",
+        "wén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚顾闻：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚桂菊",
+      "name": "桂菊",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "guì",
+        "jú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚桂菊：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚桂芹",
+      "name": "桂芹",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "guì",
+        "qín"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚桂芹：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚菡遥",
+      "name": "菡遥",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "hàn",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚菡遥：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚菡妤",
+      "name": "菡妤",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "hàn",
+        "yú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚菡妤：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚贺莲",
+      "name": "贺莲",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "hè",
+        "lián"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚贺莲：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚贺恬",
+      "name": "贺恬",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "hè",
+        "tián"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚贺恬：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚赫男",
+      "name": "赫男",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "hè",
+        "nán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚赫男：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚后群",
+      "name": "后群",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "hòu",
+        "qún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚后群：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚欢苗",
+      "name": "欢苗",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huān",
+        "miáo"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚欢苗：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚欢桃",
+      "name": "欢桃",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huān",
+        "táo"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚欢桃：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚欢愉",
+      "name": "欢愉",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huān",
+        "yú"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚欢愉：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚焕菊",
+      "name": "焕菊",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huàn",
+        "jú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚焕菊：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚卉尧",
+      "name": "卉尧",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huì",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚卉尧：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚荟棋",
+      "name": "荟棋",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huì",
+        "qí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚荟棋：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚际刘",
+      "name": "际刘",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "liú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚际刘：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚季嵘",
+      "name": "季嵘",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "róng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚季嵘：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚季陶",
+      "name": "季陶",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "táo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚季陶：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继陈",
+      "name": "继陈",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "chén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继陈：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继莲",
+      "name": "继莲",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "lián"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继莲：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继梁",
+      "name": "继梁",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "liáng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继梁：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继苗",
+      "name": "继苗",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "miáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继苗：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继尧",
+      "name": "继尧",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继尧：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚继缘",
+      "name": "继缘",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "yuán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚继缘：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚绩铖",
+      "name": "绩铖",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "chéng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚绩铖：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚霁旸",
+      "name": "霁旸",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "yáng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚霁旸：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚霁垚",
+      "name": "霁垚",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚霁垚：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚霁芸",
+      "name": "霁芸",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "yún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚霁芸：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚霁昀",
+      "name": "霁昀",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "yún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚霁昀：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚珈铖",
+      "name": "珈铖",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jiā",
+        "chéng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚珈铖：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚珈儿",
+      "name": "珈儿",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jiā",
+        "ér"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚珈儿：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚珈而",
+      "name": "珈而",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jiā",
+        "ér"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚珈而：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚珈岚",
+      "name": "珈岚",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jiā",
+        "lán"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚珈岚：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚珈沂",
+      "name": "珈沂",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jiā",
+        "yí"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚珈沂：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚坚儒",
+      "name": "坚儒",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jiān",
+        "rú"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚坚儒：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚舰尧",
+      "name": "舰尧",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jiàn",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚舰尧：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚鉴伦",
+      "name": "鉴伦",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jiàn",
+        "lún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚鉴伦：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚键茹",
+      "name": "键茹",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jiàn",
+        "rú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚键茹：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚结移",
+      "name": "结移",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jiē",
+        "yí"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚结移：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚今令",
+      "name": "今令",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jīn",
+        "líng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚今令：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚今予",
+      "name": "今予",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jīn",
+        "yú"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚今予：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚劲珩",
+      "name": "劲珩",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jìn",
+        "héng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚劲珩：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚劲铧",
+      "name": "劲铧",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jìn",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚劲铧：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚劲骊",
+      "name": "劲骊",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jìn",
+        "lí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚劲骊：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚劲尧",
+      "name": "劲尧",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jìn",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚劲尧：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚泾垚",
+      "name": "泾垚",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jīng",
+        "yáo"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚泾垚：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚菁愉",
+      "name": "菁愉",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jīng",
+        "yú"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚菁愉：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚竞尧",
+      "name": "竞尧",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jìng",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚竞尧：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚竞鋆",
+      "name": "竞鋆",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jìng",
+        "yún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚竞鋆：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚竞择",
+      "name": "竞择",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jìng",
+        "zé"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚竞择：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚敬惟",
+      "name": "敬惟",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jìng",
+        "wéi"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚敬惟：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚敬严",
+      "name": "敬严",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jìng",
+        "yán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚敬严：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚靓璇",
+      "name": "靓璇",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jìng",
+        "xuán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚靓璇：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚镜而",
+      "name": "镜而",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jìng",
+        "ér"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚镜而：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚镜尧",
+      "name": "镜尧",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jìng",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚镜尧：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚隽瞳",
+      "name": "隽瞳",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "juàn",
+        "tóng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚隽瞳：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚峻丞",
+      "name": "峻丞",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "chéng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚峻丞：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚峻铖",
+      "name": "峻铖",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "chéng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚峻铖：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚峻慈",
+      "name": "峻慈",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "cí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚峻慈：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚峻骅",
+      "name": "峻骅",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚峻骅：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚峻澎",
+      "name": "峻澎",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "péng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚峻澎：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚峻燃",
+      "name": "峻燃",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "rán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚峻燃：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚峻霆",
+      "name": "峻霆",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "tíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚峻霆：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚浚濠",
+      "name": "浚濠",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "háo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚浚濠：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚浚庭",
+      "name": "浚庭",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "tíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚浚庭：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚浚惟",
+      "name": "浚惟",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "wéi"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚浚惟：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚浚沂",
+      "name": "浚沂",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "yí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚浚沂：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚珺铎",
+      "name": "珺铎",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "duó"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚珺铎：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚珺旸",
+      "name": "珺旸",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "yáng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚珺旸：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚珺垚",
+      "name": "珺垚",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚珺垚：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚竣丞",
+      "name": "竣丞",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "chéng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚竣丞：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚竣煌",
+      "name": "竣煌",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "huáng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚竣煌：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚竣摇",
+      "name": "竣摇",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚竣摇：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚竣予",
+      "name": "竣予",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jùn",
+        "yú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚竣予：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚楷梁",
+      "name": "楷梁",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jiē",
+        "liáng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚楷梁：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚柯侨",
+      "name": "柯侨",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "kē",
+        "qiáo"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚柯侨：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚珂儿",
+      "name": "珂儿",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "kē",
+        "ér"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚珂儿：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚珂闻",
+      "name": "珂闻",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "kē",
+        "wén"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚珂闻：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚栎晗",
+      "name": "栎晗",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "lì",
+        "hán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚栎晗：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚栎潼",
+      "name": "栎潼",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "lì",
+        "tóng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚栎潼：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚荔棠",
+      "name": "荔棠",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "lì",
+        "táng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚荔棠：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚砺寒",
+      "name": "砺寒",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "lì",
+        "hán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚砺寒：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚璐娴",
+      "name": "璐娴",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "lù",
+        "xián"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚璐娴：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚璐遥",
+      "name": "璐遥",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "lù",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚璐遥：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚律垚",
+      "name": "律垚",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "lǜ",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚律垚：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚珞萌",
+      "name": "珞萌",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "luò",
+        "méng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚珞萌：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚珞凝",
+      "name": "珞凝",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "luò",
+        "níng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚珞凝：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚珞棋",
+      "name": "珞棋",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "luò",
+        "qí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚珞棋：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚漫侨",
+      "name": "漫侨",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "màn",
+        "qiáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚漫侨：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚漫潼",
+      "name": "漫潼",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "màn",
+        "tóng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚漫潼：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚孟慈",
+      "name": "孟慈",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mèng",
+        "cí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚孟慈：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚孟群",
+      "name": "孟群",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mèng",
+        "qún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚孟群：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚孟茹",
+      "name": "孟茹",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mèng",
+        "rú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚孟茹：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚孟甜",
+      "name": "孟甜",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mèng",
+        "tián"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚孟甜：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚孟炎",
+      "name": "孟炎",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mèng",
+        "yán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚孟炎：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚孟仪",
+      "name": "孟仪",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mèng",
+        "yí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚孟仪：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚孟妤",
+      "name": "孟妤",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mèng",
+        "yú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚孟妤：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚沫儒",
+      "name": "沫儒",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mò",
+        "rú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚沫儒：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚莫寒",
+      "name": "莫寒",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mò",
+        "hán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚莫寒：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚默晗",
+      "name": "默晗",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mò",
+        "hán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚默晗：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚默儒",
+      "name": "默儒",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mò",
+        "rú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚默儒：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚默竹",
+      "name": "默竹",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mò",
+        "zhú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚默竹：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚牧岑",
+      "name": "牧岑",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mù",
+        "cén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚牧岑：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚牧笛",
+      "name": "牧笛",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mù",
+        "dí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚牧笛：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚牧遥",
+      "name": "牧遥",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mù",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚牧遥：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚睦昂",
+      "name": "睦昂",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mù",
+        "áng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚睦昂：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚睦函",
+      "name": "睦函",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mù",
+        "hán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚睦函：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚慕慈",
+      "name": "慕慈",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mù",
+        "cí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚慕慈：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚慕黎",
+      "name": "慕黎",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mù",
+        "lí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚慕黎：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚慕乔",
+      "name": "慕乔",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mù",
+        "qiáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚慕乔：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚慕廷",
+      "name": "慕廷",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mù",
+        "tíng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚慕廷：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚慕童",
+      "name": "慕童",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mù",
+        "tóng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚慕童：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚慕尧",
+      "name": "慕尧",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mù",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚慕尧：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚慕遥",
+      "name": "慕遥",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mù",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚慕遥：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚妮阁",
+      "name": "妮阁",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "nī",
+        "gé"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚妮阁：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚沛岑",
+      "name": "沛岑",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "cén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚沛岑：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚沛函",
+      "name": "沛函",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "hán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚沛函：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚沛嵘",
+      "name": "沛嵘",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "róng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚沛嵘：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚沛柔",
+      "name": "沛柔",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "róu"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚沛柔：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚沛玟",
+      "name": "沛玟",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "wén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚沛玟：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚沛愉",
+      "name": "沛愉",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "yú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚沛愉：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩岑",
+      "name": "佩岑",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "cén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩岑：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩慈",
+      "name": "佩慈",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "cí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩慈：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩婕",
+      "name": "佩婕",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "jié"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩婕：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩伦",
+      "name": "佩伦",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "lún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩伦：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩凝",
+      "name": "佩凝",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "níng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩凝：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩棋",
+      "name": "佩棋",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "qí"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩棋：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩芹",
+      "name": "佩芹",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "qín"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩芹：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩燃",
+      "name": "佩燃",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "rán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩燃：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩儒",
+      "name": "佩儒",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "rú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩儒：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩玟",
+      "name": "佩玟",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "wén"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩玟：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩弦",
+      "name": "佩弦",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "xián"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩弦：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩璇",
+      "name": "佩璇",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "xuán"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩璇：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩尧",
+      "name": "佩尧",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "yáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩尧：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩妤",
+      "name": "佩妤",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "yú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩妤：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩榆",
+      "name": "佩榆",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "yú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩榆：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚佩芸",
+      "name": "佩芸",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pèi",
+        "yún"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚佩芸：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚栖霆",
+      "name": "栖霆",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qī",
+        "tíng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚栖霆：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚栖梧",
+      "name": "栖梧",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qī",
+        "wú"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚栖梧：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚仟滢",
+      "name": "仟滢",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qiān",
+        "yíng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚仟滢：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚芊凝",
+      "name": "芊凝",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qiān",
+        "níng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚芊凝：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚芊潼",
+      "name": "芊潼",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qiān",
+        "tóng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚芊潼：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚芊曈",
+      "name": "芊曈",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qiān",
+        "tóng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚芊曈：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚芊妤",
+      "name": "芊妤",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qiān",
+        "yú"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚芊妤：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚芊渝",
+      "name": "芊渝",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qiān",
+        "yú"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚芊渝：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚芊予",
+      "name": "芊予",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qiān",
+        "yú"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚芊予：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚迁尧",
+      "name": "迁尧",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qiān",
+        "yáo"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚迁尧：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚倩儿",
+      "name": "倩儿",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qiàn",
+        "ér"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚倩儿：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚倩苗",
+      "name": "倩苗",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qiàn",
+        "miáo"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚倩苗：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚倩柔",
+      "name": "倩柔",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qiàn",
+        "róu"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚倩柔：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚倩潼",
+      "name": "倩潼",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qiàn",
+        "tóng"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚倩潼：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚倩妤",
+      "name": "倩妤",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qiàn",
+        "yú"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚倩妤：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚钦儿",
+      "name": "钦儿",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qīn",
+        "ér"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚钦儿：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚钦梁",
+      "name": "钦梁",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qīn",
+        "liáng"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚钦梁：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "姚钦尧",
+      "name": "钦尧",
+      "score": 102,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "qīn",
+        "yáo"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "姚钦尧：总分 102；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    }
+  ]
+}

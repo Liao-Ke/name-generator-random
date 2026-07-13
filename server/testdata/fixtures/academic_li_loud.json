@@ -1,0 +1,6436 @@
+{
+  "query": {
+    "surname": "李",
+    "style": "loud",
+    "sourcePreference": "academic",
+    "limit": 200
+  },
+  "sourceId": "academic",
+  "sourceLabel": "五道口",
+  "candidateCount": 8627,
+  "results": [
+    {
+      "fullName": "李翀寰",
+      "name": "翀寰",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "许翀寰(国家自然基金)"
+      ],
+      "pinyin": [
+        "chōng",
+        "huán"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李翀寰：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李崇举",
+      "name": "崇举",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王崇举(国家自然基金)"
+      ],
+      "pinyin": [
+        "chóng",
+        "jǔ"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李崇举：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李慈蔚",
+      "name": "慈蔚",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "董慈蔚(国家自然基金)"
+      ],
+      "pinyin": [
+        "cí",
+        "wèi"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李慈蔚：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李慈蕴",
+      "name": "慈蕴",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "朱慈蕴(国家自然基金)"
+      ],
+      "pinyin": [
+        "cí",
+        "yùn"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李慈蕴：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李翠莲",
+      "name": "翠莲",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张翠莲(国家自然基金)"
+      ],
+      "pinyin": [
+        "cuì",
+        "lián"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李翠莲：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李翠侠",
+      "name": "翠侠",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "蒋翠侠(国家自然基金)"
+      ],
+      "pinyin": [
+        "cuì",
+        "xiá"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李翠侠：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李存禄",
+      "name": "存禄",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张存禄(国家自然基金)"
+      ],
+      "pinyin": [
+        "cún",
+        "lù"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李存禄：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李芬儿",
+      "name": "芬儿",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "陈芬儿(工程院院士)"
+      ],
+      "pinyin": [
+        "fēn",
+        "ér"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李芬儿：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李耕陶",
+      "name": "耕陶",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "刘耕陶(工程院院士)"
+      ],
+      "pinyin": [
+        "gēng",
+        "táo"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李耕陶：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李桂芹",
+      "name": "桂芹",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "赵桂芹(国家自然基金)"
+      ],
+      "pinyin": [
+        "guì",
+        "qín"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李桂芹：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李贺铨",
+      "name": "贺铨",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "邬贺铨(工程院院士)"
+      ],
+      "pinyin": [
+        "hè",
+        "quán"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李贺铨：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李怀印",
+      "name": "怀印",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "杨怀印(国家自然基金)",
+        "杨怀印(国家社科基金)"
+      ],
+      "pinyin": [
+        "huái",
+        "yìn"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李怀印：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李怀豫",
+      "name": "怀豫",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王怀豫(国家自然基金)"
+      ],
+      "pinyin": [
+        "huái",
+        "yù"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李怀豫：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李怀祖",
+      "name": "怀祖",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "李怀祖(国家自然基金)"
+      ],
+      "pinyin": [
+        "huái",
+        "zǔ"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李怀祖：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李焕乔",
+      "name": "焕乔",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张焕乔(科学院院士)"
+      ],
+      "pinyin": [
+        "huàn",
+        "qiáo"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李焕乔：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李焕佐",
+      "name": "焕佐",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "罗焕佐(国家自然基金)"
+      ],
+      "pinyin": [
+        "huàn",
+        "zuǒ"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李焕佐：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李镜芙",
+      "name": "镜芙",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "潘镜芙(工程院院士)"
+      ],
+      "pinyin": [
+        "jìng",
+        "fú"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李镜芙：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李培肃",
+      "name": "培肃",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "夏培肃(科学院院士)"
+      ],
+      "pinyin": [
+        "péi",
+        "sù"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李培肃：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李培震",
+      "name": "培震",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张培震(科学院院士)"
+      ],
+      "pinyin": [
+        "péi",
+        "zhèn"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李培震：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李朋柱",
+      "name": "朋柱",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张朋柱(国家自然基金)"
+      ],
+      "pinyin": [
+        "péng",
+        "zhù"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李朋柱：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李仟庭",
+      "name": "仟庭",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "黄仟庭(国家自然基金)"
+      ],
+      "pinyin": [
+        "qiān",
+        "tíng"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李仟庭：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李儒泳",
+      "name": "儒泳",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "孙儒泳(科学院院士)"
+      ],
+      "pinyin": [
+        "rú",
+        "yǒng"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李儒泳：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李绍棠",
+      "name": "绍棠",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "吴绍棠(国家自然基金)"
+      ],
+      "pinyin": [
+        "shào",
+        "táng"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李绍棠：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李绍祖",
+      "name": "绍祖",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "梅绍祖(国家自然基金)"
+      ],
+      "pinyin": [
+        "shào",
+        "zǔ"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李绍祖：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李士铨",
+      "name": "士铨",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张士铨(国家自然基金)"
+      ],
+      "pinyin": [
+        "shì",
+        "quán"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李士铨：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李仕伦",
+      "name": "仕伦",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "钟仕伦(国家社科基金)"
+      ],
+      "pinyin": [
+        "shì",
+        "lún"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李仕伦：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李术魁",
+      "name": "术魁",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "谭术魁(国家自然基金)"
+      ],
+      "pinyin": [
+        "shù",
+        "kuí"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李术魁：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李嗣瀛",
+      "name": "嗣瀛",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张嗣瀛(科学院院士)",
+        "张嗣瀛(国家自然基金)"
+      ],
+      "pinyin": [
+        "sì",
+        "yíng"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李嗣瀛：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李素琼",
+      "name": "素琼",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "陈素琼(国家自然基金)"
+      ],
+      "pinyin": [
+        "sù",
+        "qióng"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李素琼：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李庭燧",
+      "name": "庭燧",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "葛庭燧(科学院院士)"
+      ],
+      "pinyin": [
+        "tíng",
+        "suì"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李庭燧：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李巍岭",
+      "name": "巍岭",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "叶巍岭(国家自然基金)"
+      ],
+      "pinyin": [
+        "wēi",
+        "lǐng"
+      ],
+      "tonePattern": "313",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李巍岭：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李卫则",
+      "name": "卫则",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王卫则(国家自然基金)"
+      ],
+      "pinyin": [
+        "wèi",
+        "zé"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李卫则：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李悟移",
+      "name": "悟移",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张悟移(国家自然基金)"
+      ],
+      "pinyin": [
+        "wù",
+        "yí"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李悟移：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李咸柱",
+      "name": "咸柱",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "夏咸柱(工程院院士)"
+      ],
+      "pinyin": [
+        "xián",
+        "zhù"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李咸柱：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李宪培",
+      "name": "宪培",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "洪宪培(国家自然基金)"
+      ],
+      "pinyin": [
+        "xiàn",
+        "péi"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李宪培：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李孝感",
+      "name": "孝感",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "江孝感(国家自然基金)"
+      ],
+      "pinyin": [
+        "xiào",
+        "gǎn"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李孝感：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李孝礼",
+      "name": "孝礼",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "吕孝礼(国家自然基金)"
+      ],
+      "pinyin": [
+        "xiào",
+        "lǐ"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李孝礼：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李孝彭",
+      "name": "孝彭",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "陆孝彭(工程院院士)"
+      ],
+      "pinyin": [
+        "xiào",
+        "péng"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李孝彭：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李孝炎",
+      "name": "孝炎",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "唐孝炎(工程院院士)"
+      ],
+      "pinyin": [
+        "xiào",
+        "yán"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李孝炎：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李由禧",
+      "name": "由禧",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "高由禧(科学院院士)"
+      ],
+      "pinyin": [
+        "yóu",
+        "xǐ"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李由禧：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李毓煌",
+      "name": "毓煌",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "郑毓煌(国家自然基金)"
+      ],
+      "pinyin": [
+        "yù",
+        "huáng"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李毓煌：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李湛匀",
+      "name": "湛匀",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "陈湛匀(国家自然基金)"
+      ],
+      "pinyin": [
+        "zhàn",
+        "yún"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李湛匀：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李钊侠",
+      "name": "钊侠",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "郭钊侠(国家自然基金)"
+      ],
+      "pinyin": [
+        "zhāo",
+        "xiá"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李钊侠：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李肇伦",
+      "name": "肇伦",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "方肇伦(科学院院士)"
+      ],
+      "pinyin": [
+        "zhào",
+        "lún"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李肇伦：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李征铠",
+      "name": "征铠",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "吴征铠(科学院院士)"
+      ],
+      "pinyin": [
+        "zhēng",
+        "kǎi"
+      ],
+      "tonePattern": "313",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李征铠：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李忠范",
+      "name": "忠范",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "刘忠范(科学院院士)"
+      ],
+      "pinyin": [
+        "zhōng",
+        "fàn"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李忠范：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李忠印",
+      "name": "忠印",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "郭忠印(国家自然基金)"
+      ],
+      "pinyin": [
+        "zhōng",
+        "yìn"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李忠印：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李钟灿",
+      "name": "钟灿",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "欧阳钟灿(科学院院士)"
+      ],
+      "pinyin": [
+        "zhōng",
+        "càn"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李钟灿：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李钟慈",
+      "name": "钟慈",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "石钟慈(科学院院士)"
+      ],
+      "pinyin": [
+        "zhōng",
+        "cí"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李钟慈：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李钟韩",
+      "name": "钟韩",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "钱钟韩(科学院院士)"
+      ],
+      "pinyin": [
+        "zhōng",
+        "hán"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李钟韩：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李仲怀",
+      "name": "仲怀",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "向仲怀(工程院院士)"
+      ],
+      "pinyin": [
+        "zhòng",
+        "huái"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李仲怀：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李仲礼",
+      "name": "仲礼",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "丁仲礼(科学院院士)"
+      ],
+      "pinyin": [
+        "zhòng",
+        "lǐ"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李仲礼：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李竹苑",
+      "name": "竹苑",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "梁竹苑(国家自然基金)"
+      ],
+      "pinyin": [
+        "zhú",
+        "yuàn"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李竹苑：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李壮麒",
+      "name": "壮麒",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "胡壮麒(工程院院士)"
+      ],
+      "pinyin": [
+        "zhuàng",
+        "qí"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李壮麒：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李孜婉",
+      "name": "孜婉",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "热孜婉(国家社科基金)"
+      ],
+      "pinyin": [
+        "zī",
+        "wǎn"
+      ],
+      "tonePattern": "313",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李孜婉：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李自铎",
+      "name": "自铎",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "孙自铎(国家社科基金)"
+      ],
+      "pinyin": [
+        "zì",
+        "duó"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李自铎：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李自尹",
+      "name": "自尹",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "沈自尹(科学院院士)"
+      ],
+      "pinyin": [
+        "zì",
+        "yǐn"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李自尹：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李自由",
+      "name": "自由",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "俞自由(国家自然基金)"
+      ],
+      "pinyin": [
+        "zì",
+        "yóu"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李自由：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李宗懋",
+      "name": "宗懋",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "陈宗懋(工程院院士)"
+      ],
+      "pinyin": [
+        "zōng",
+        "mào"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李宗懋：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李宗燧",
+      "name": "宗燧",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张宗燧(科学院院士)"
+      ],
+      "pinyin": [
+        "zōng",
+        "suì"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李宗燧：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李宗宪",
+      "name": "宗宪",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "冯宗宪(国家自然基金)"
+      ],
+      "pinyin": [
+        "zōng",
+        "xiàn"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李宗宪：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李宗晔",
+      "name": "宗晔",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "黄宗晔(国家自然基金)"
+      ],
+      "pinyin": [
+        "zōng",
+        "yè"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李宗晔：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李族统",
+      "name": "族统",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王族统(国家自然基金)"
+      ],
+      "pinyin": [
+        "zú",
+        "tǒng"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李族统：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李遵雄",
+      "name": "遵雄",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "刘遵雄(国家自然基金)"
+      ],
+      "pinyin": [
+        "zūn",
+        "xióng"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李遵雄：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李遵仪",
+      "name": "遵仪",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "杨遵仪(科学院院士)"
+      ],
+      "pinyin": [
+        "zūn",
+        "yí"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李遵仪：总分 98；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李爱慈",
+      "name": "爱慈",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "邱爱慈(工程院院士)"
+      ],
+      "pinyin": [
+        "ài",
+        "cí"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李爱慈：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李爱玲",
+      "name": "爱玲",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "谷爱玲(国家自然基金)"
+      ],
+      "pinyin": [
+        "ài",
+        "líng"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李爱玲：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李爱萍",
+      "name": "爱萍",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "姜爱萍(国家自然基金)",
+        "关爱萍(国家自然基金)"
+      ],
+      "pinyin": [
+        "ài",
+        "píng"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李爱萍：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李爱其",
+      "name": "爱其",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "邬爱其(国家自然基金)"
+      ],
+      "pinyin": [
+        "ài",
+        "qí"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李爱其：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李爱田",
+      "name": "爱田",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "尹爱田(国家自然基金)"
+      ],
+      "pinyin": [
+        "ài",
+        "tián"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李爱田：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李爱霞",
+      "name": "爱霞",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "何爱霞(国家社科基金)"
+      ],
+      "pinyin": [
+        "ài",
+        "xiá"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李爱霞：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李爱勇",
+      "name": "爱勇",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "朱爱勇(国家自然基金)"
+      ],
+      "pinyin": [
+        "ài",
+        "yǒng"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李爱勇：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李邦奎",
+      "name": "邦奎",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "樊邦奎(工程院院士)"
+      ],
+      "pinyin": [
+        "bāng",
+        "kuí"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李邦奎：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李邦佐",
+      "name": "邦佐",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王邦佐(国家社科基金)"
+      ],
+      "pinyin": [
+        "bāng",
+        "zuǒ"
+      ],
+      "tonePattern": "313",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李邦佐：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李帮助",
+      "name": "帮助",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "朱帮助(国家自然基金)"
+      ],
+      "pinyin": [
+        "bāng",
+        "zhù"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李帮助：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李斌剑",
+      "name": "斌剑",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "严斌剑(国家自然基金)"
+      ],
+      "pinyin": [
+        "bīn",
+        "jiàn"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李斌剑：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李斌贤",
+      "name": "斌贤",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "顾斌贤(国家自然基金)"
+      ],
+      "pinyin": [
+        "bīn",
+        "xián"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李斌贤：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李滨士",
+      "name": "滨士",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "徐滨士(工程院院士)",
+        "徐滨士(国家自然基金)"
+      ],
+      "pinyin": [
+        "bīn",
+        "shì"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李滨士：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李滨谊",
+      "name": "滨谊",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "刘滨谊(国家自然基金)"
+      ],
+      "pinyin": [
+        "bīn",
+        "yì"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李滨谊：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李冰洁",
+      "name": "冰洁",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王冰洁(国家自然基金)",
+        "韩冰洁(国家自然基金)"
+      ],
+      "pinyin": [
+        "bīng",
+        "jié"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李冰洁：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李兵友",
+      "name": "兵友",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "卢兵友(国家自然基金)"
+      ],
+      "pinyin": [
+        "bīng",
+        "yǒu"
+      ],
+      "tonePattern": "313",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李兵友：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李不凡",
+      "name": "不凡",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "黄不凡(国家自然基金)"
+      ],
+      "pinyin": [
+        "bù",
+        "fán"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李不凡：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李昌蕙",
+      "name": "昌蕙",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "朱昌蕙(国家社科基金)"
+      ],
+      "pinyin": [
+        "chāng",
+        "huì"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李昌蕙：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李昌捷",
+      "name": "昌捷",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "郭昌捷(国家自然基金)"
+      ],
+      "pinyin": [
+        "chāng",
+        "jié"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李昌捷：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李昌举",
+      "name": "昌举",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "杨昌举(国家自然基金)"
+      ],
+      "pinyin": [
+        "chāng",
+        "jǔ"
+      ],
+      "tonePattern": "313",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李昌举：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李昌孝",
+      "name": "昌孝",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "刘昌孝(工程院院士)"
+      ],
+      "pinyin": [
+        "chāng",
+        "xiào"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李昌孝：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李昌绪",
+      "name": "昌绪",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "师昌绪(科学院院士)",
+        "师昌绪(工程院院士)"
+      ],
+      "pinyin": [
+        "chāng",
+        "xù"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李昌绪：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李昌旋",
+      "name": "昌旋",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "俞昌旋(科学院院士)"
+      ],
+      "pinyin": [
+        "chāng",
+        "xuán"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李昌旋：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李常煦",
+      "name": "常煦",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "季常煦(国家自然基金)"
+      ],
+      "pinyin": [
+        "cháng",
+        "xù"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李常煦：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李畅果",
+      "name": "畅果",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "毛畅果(国家自然基金)"
+      ],
+      "pinyin": [
+        "chàng",
+        "guǒ"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李畅果：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李承纬",
+      "name": "承纬",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "孙承纬(工程院院士)"
+      ],
+      "pinyin": [
+        "chéng",
+        "wěi"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李承纬：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李崇惕",
+      "name": "崇惕",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "唐崇惕(科学院院士)"
+      ],
+      "pinyin": [
+        "chóng",
+        "tì"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李崇惕：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李传旺",
+      "name": "传旺",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "孙传旺(国家自然基金)"
+      ],
+      "pinyin": [
+        "chuán",
+        "wàng"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李传旺：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李传喜",
+      "name": "传喜",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "杨传喜(国家自然基金)"
+      ],
+      "pinyin": [
+        "chuán",
+        "xǐ"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李传喜：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李纯伯",
+      "name": "纯伯",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "冯纯伯(科学院院士)"
+      ],
+      "pinyin": [
+        "chún",
+        "bǎi"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李纯伯：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李丛漫",
+      "name": "丛漫",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王丛漫(国家自然基金)"
+      ],
+      "pinyin": [
+        "cóng",
+        "màn"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李丛漫：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李翠萍",
+      "name": "翠萍",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "赵翠萍(国家自然基金)",
+        "魏翠萍(国家自然基金)"
+      ],
+      "pinyin": [
+        "cuì",
+        "píng"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李翠萍：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李翠霞",
+      "name": "翠霞",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王翠霞(国家自然基金)",
+        "李翠霞(国家自然基金)"
+      ],
+      "pinyin": [
+        "cuì",
+        "xiá"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李翠霞：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李翠迎",
+      "name": "翠迎",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "杨翠迎(国家自然基金)"
+      ],
+      "pinyin": [
+        "cuì",
+        "yíng"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李翠迎：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李繁敏",
+      "name": "繁敏",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "孔繁敏(国家自然基金)"
+      ],
+      "pinyin": [
+        "fán",
+        "mǐn"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李繁敏：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李芳澜",
+      "name": "芳澜",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "戴芳澜(科学院院士)"
+      ],
+      "pinyin": [
+        "fāng",
+        "lán"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李芳澜：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李芳允",
+      "name": "芳允",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "陈芳允(科学院院士)"
+      ],
+      "pinyin": [
+        "fāng",
+        "yǔn"
+      ],
+      "tonePattern": "313",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李芳允：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李菲琼",
+      "name": "菲琼",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "陈菲琼(国家自然基金)"
+      ],
+      "pinyin": [
+        "fēi",
+        "qióng"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李菲琼：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李分棉",
+      "name": "分棉",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王分棉(国家自然基金)"
+      ],
+      "pinyin": [
+        "fēn",
+        "mián"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李分棉：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李凤彩",
+      "name": "凤彩",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "赵凤彩(国家社科基金)"
+      ],
+      "pinyin": [
+        "fèng",
+        "cǎi"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李凤彩：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李凤莲",
+      "name": "凤莲",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "杜凤莲(国家自然基金)"
+      ],
+      "pinyin": [
+        "fèng",
+        "lián"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李凤莲：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李凤起",
+      "name": "凤起",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "周凤起(国家自然基金)"
+      ],
+      "pinyin": [
+        "fèng",
+        "qǐ"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李凤起：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李凤芹",
+      "name": "凤芹",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "刘凤芹(国家自然基金)"
+      ],
+      "pinyin": [
+        "fèng",
+        "qín"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李凤芹：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李凤田",
+      "name": "凤田",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "杨凤田(工程院院士)"
+      ],
+      "pinyin": [
+        "fèng",
+        "tián"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李凤田：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李付岩",
+      "name": "付岩",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "罗付岩(国家自然基金)"
+      ],
+      "pinyin": [
+        "fù",
+        "yán"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李付岩：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李钢桥",
+      "name": "钢桥",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "杨钢桥(国家自然基金)"
+      ],
+      "pinyin": [
+        "gāng",
+        "qiáo"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李钢桥：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李皋韵",
+      "name": "皋韵",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "钱皋韵(工程院院士)"
+      ],
+      "pinyin": [
+        "gāo",
+        "yùn"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李皋韵：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李根玖",
+      "name": "根玖",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "徐根玖(国家自然基金)"
+      ],
+      "pinyin": [
+        "gēn",
+        "jiǔ"
+      ],
+      "tonePattern": "313",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李根玖：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李根年",
+      "name": "根年",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "唐根年(国家自然基金)"
+      ],
+      "pinyin": [
+        "gēn",
+        "nián"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李根年：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李根尧",
+      "name": "根尧",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "陆根尧(国家自然基金)"
+      ],
+      "pinyin": [
+        "gēn",
+        "yáo"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李根尧：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李功叙",
+      "name": "功叙",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "顾功叙(科学院院士)"
+      ],
+      "pinyin": [
+        "gōng",
+        "xù"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李功叙：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李贵浦",
+      "name": "贵浦",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "汪贵浦(国家自然基金)"
+      ],
+      "pinyin": [
+        "guì",
+        "pǔ"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李贵浦：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李贵如",
+      "name": "贵如",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "花贵如(国家自然基金)"
+      ],
+      "pinyin": [
+        "guì",
+        "rú"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李贵如：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李贵田",
+      "name": "贵田",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张贵田(工程院院士)",
+        "刘贵田(国家社科基金)"
+      ],
+      "pinyin": [
+        "guì",
+        "tián"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李贵田：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李贵霞",
+      "name": "贵霞",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "钱贵霞(国家自然基金)"
+      ],
+      "pinyin": [
+        "guì",
+        "xiá"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李贵霞：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李桂彩",
+      "name": "桂彩",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王桂彩(国家社科基金)"
+      ],
+      "pinyin": [
+        "guì",
+        "cǎi"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李桂彩：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李桂琴",
+      "name": "桂琴",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王桂琴(国家自然基金)"
+      ],
+      "pinyin": [
+        "guì",
+        "qín"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李桂琴：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李桂田",
+      "name": "桂田",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "黄桂田(国家自然基金)"
+      ],
+      "pinyin": [
+        "guì",
+        "tián"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李桂田：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李桂霞",
+      "name": "桂霞",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "郭桂霞(国家自然基金)",
+        "方桂霞(国家自然基金)"
+      ],
+      "pinyin": [
+        "guì",
+        "xiá"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李桂霞：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李灏霖",
+      "name": "灏霖",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "冯灏霖(国家自然基金)"
+      ],
+      "pinyin": [
+        "hào",
+        "lín"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李灏霖：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李贺武",
+      "name": "贺武",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王贺武(国家自然基金)"
+      ],
+      "pinyin": [
+        "hè",
+        "wǔ"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李贺武：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李鹤年",
+      "name": "鹤年",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "毛鹤年(科学院院士)"
+      ],
+      "pinyin": [
+        "hè",
+        "nián"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李鹤年：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李亨咸",
+      "name": "亨咸",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "陶亨咸(科学院院士)"
+      ],
+      "pinyin": [
+        "hēng",
+        "xián"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李亨咸：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李洪迅",
+      "name": "洪迅",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "蒋洪迅(国家自然基金)"
+      ],
+      "pinyin": [
+        "hóng",
+        "xùn"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李洪迅：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李花蕊",
+      "name": "花蕊",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "曹花蕊(国家自然基金)"
+      ],
+      "pinyin": [
+        "huā",
+        "ruǐ"
+      ],
+      "tonePattern": "313",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李花蕊：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李淮莉",
+      "name": "淮莉",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "陈淮莉(国家自然基金)"
+      ],
+      "pinyin": [
+        "huái",
+        "lì"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李淮莉：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李欢政",
+      "name": "欢政",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "杜欢政(国家自然基金)"
+      ],
+      "pinyin": [
+        "huān",
+        "zhèng"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李欢政：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李桓武",
+      "name": "桓武",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "彭桓武(科学院院士)"
+      ],
+      "pinyin": [
+        "huán",
+        "wǔ"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李桓武：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李浣尘",
+      "name": "浣尘",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王浣尘(国家自然基金)"
+      ],
+      "pinyin": [
+        "huàn",
+        "chén"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李浣尘：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李会茹",
+      "name": "会茹",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "赵会茹(国家自然基金)"
+      ],
+      "pinyin": [
+        "huì",
+        "rú"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李会茹：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李加蓉",
+      "name": "加蓉",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "罗加蓉(国家自然基金)"
+      ],
+      "pinyin": [
+        "jiā",
+        "róng"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李加蓉：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李坚白",
+      "name": "坚白",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "夏坚白(科学院院士)",
+        "杨坚白(国家社科基金)"
+      ],
+      "pinyin": [
+        "jiān",
+        "bái"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李坚白：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李剑虹",
+      "name": "剑虹",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "马剑虹(国家自然基金)"
+      ],
+      "pinyin": [
+        "jiàn",
+        "hóng"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李剑虹：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李剑虎",
+      "name": "剑虎",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张剑虎(国家自然基金)"
+      ],
+      "pinyin": [
+        "jiàn",
+        "hǔ"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李剑虎：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李剑茹",
+      "name": "剑茹",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "付剑茹(国家自然基金)"
+      ],
+      "pinyin": [
+        "jiàn",
+        "rú"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李剑茹：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李剑渝",
+      "name": "剑渝",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张剑渝(国家自然基金)"
+      ],
+      "pinyin": [
+        "jiàn",
+        "yú"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李剑渝：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李鉴衡",
+      "name": "鉴衡",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "谢鉴衡(工程院院士)"
+      ],
+      "pinyin": [
+        "jiàn",
+        "héng"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李鉴衡：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李教耐",
+      "name": "教耐",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "施教耐(科学院院士)"
+      ],
+      "pinyin": [
+        "jiāo",
+        "nài"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李教耐：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李皆连",
+      "name": "皆连",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "郑皆连(工程院院士)"
+      ],
+      "pinyin": [
+        "jiē",
+        "lián"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李皆连：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李晋才",
+      "name": "晋才",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "梁晋才(工程院院士)"
+      ],
+      "pinyin": [
+        "jìn",
+        "cái"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李晋才：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李晋良",
+      "name": "晋良",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "孙晋良(工程院院士)"
+      ],
+      "pinyin": [
+        "jìn",
+        "liáng"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李晋良：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李经甫",
+      "name": "经甫",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "胡经甫(科学院院士)"
+      ],
+      "pinyin": [
+        "jīng",
+        "fǔ"
+      ],
+      "tonePattern": "313",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李经甫：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李经伦",
+      "name": "经伦",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王经伦(国家社科基金)"
+      ],
+      "pinyin": [
+        "jīng",
+        "lún"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李经伦：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李经纬",
+      "name": "经纬",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "孙经纬(国家自然基金)",
+        "季经纬(国家自然基金)",
+        "李经纬(国家社科基金)"
+      ],
+      "pinyin": [
+        "jīng",
+        "wěi"
+      ],
+      "tonePattern": "313",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李经纬：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李菁蔚",
+      "name": "菁蔚",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "孙菁蔚(国家自然基金)"
+      ],
+      "pinyin": [
+        "jīng",
+        "wèi"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李菁蔚：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李晶茹",
+      "name": "晶茹",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "刘晶茹(国家自然基金)"
+      ],
+      "pinyin": [
+        "jīng",
+        "rú"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李晶茹：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李敬敏",
+      "name": "敬敏",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "邵敬敏(国家社科基金)"
+      ],
+      "pinyin": [
+        "jìng",
+        "mǐn"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李敬敏：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李敬勤",
+      "name": "敬勤",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "苏敬勤(国家自然基金)"
+      ],
+      "pinyin": [
+        "jìng",
+        "qín"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李敬勤：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李敬贤",
+      "name": "敬贤",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "陈敬贤(国家自然基金)"
+      ],
+      "pinyin": [
+        "jìng",
+        "xián"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李敬贤：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李敬学",
+      "name": "敬学",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "吴敬学(国家自然基金)"
+      ],
+      "pinyin": [
+        "jìng",
+        "xué"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李敬学：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李靖夷",
+      "name": "靖夷",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "谭靖夷(工程院院士)"
+      ],
+      "pinyin": [
+        "jìng",
+        "yí"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李靖夷：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李菊亮",
+      "name": "菊亮",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张菊亮(国家自然基金)"
+      ],
+      "pinyin": [
+        "jú",
+        "liàng"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李菊亮：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李巨勇",
+      "name": "巨勇",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张巨勇(国家自然基金)"
+      ],
+      "pinyin": [
+        "jù",
+        "yǒng"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李巨勇：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李娟茹",
+      "name": "娟茹",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王娟茹(国家自然基金)"
+      ],
+      "pinyin": [
+        "juān",
+        "rú"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李娟茹：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李隽萍",
+      "name": "隽萍",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "杨隽萍(国家自然基金)"
+      ],
+      "pinyin": [
+        "juàn",
+        "píng"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李隽萍：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李钧儒",
+      "name": "钧儒",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "黄钧儒(国家社科基金)"
+      ],
+      "pinyin": [
+        "jūn",
+        "rú"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李钧儒：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李骏翡",
+      "name": "骏翡",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "胡骏翡(国家自然基金)"
+      ],
+      "pinyin": [
+        "jùn",
+        "fěi"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李骏翡：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李骏吾",
+      "name": "骏吾",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "梁骏吾(工程院院士)"
+      ],
+      "pinyin": [
+        "jùn",
+        "wú"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李骏吾：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李克俭",
+      "name": "克俭",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "马克俭(工程院院士)",
+        "薛克俭(国家自然基金)",
+        "柴克俭(国家社科基金)"
+      ],
+      "pinyin": [
+        "kè",
+        "jiǎn"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李克俭：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李克勤",
+      "name": "克勤",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张克勤(科学院院士)",
+        "徐克勤(科学院院士)",
+        "潘克勤(国家自然基金)"
+      ],
+      "pinyin": [
+        "kè",
+        "qín"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李克勤：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李克群",
+      "name": "克群",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张克群(国家自然基金)"
+      ],
+      "pinyin": [
+        "kè",
+        "qún"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李克群：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李魁武",
+      "name": "魁武",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "李魁武(工程院院士)"
+      ],
+      "pinyin": [
+        "kuí",
+        "wǔ"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李魁武：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李魁早",
+      "name": "魁早",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "戴魁早(国家自然基金)"
+      ],
+      "pinyin": [
+        "kuí",
+        "zǎo"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李魁早：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李良辅",
+      "name": "良辅",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "周良辅(工程院院士)"
+      ],
+      "pinyin": [
+        "liáng",
+        "fǔ"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李良辅：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李亮年",
+      "name": "亮年",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "计亮年(科学院院士)"
+      ],
+      "pinyin": [
+        "liàng",
+        "nián"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李亮年：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李茂良",
+      "name": "茂良",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "李茂良(国家自然基金)"
+      ],
+      "pinyin": [
+        "mào",
+        "liáng"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李茂良：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李茂勇",
+      "name": "茂勇",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "程茂勇(国家自然基金)"
+      ],
+      "pinyin": [
+        "mào",
+        "yǒng"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李茂勇：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李茂竹",
+      "name": "茂竹",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "孙茂竹(国家自然基金)",
+        "金茂竹(国家自然基金)"
+      ],
+      "pinyin": [
+        "mào",
+        "zhú"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李茂竹：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李孟楠",
+      "name": "孟楠",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "朱孟楠(国家自然基金)"
+      ],
+      "pinyin": [
+        "mèng",
+        "nán"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李孟楠：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李梦岑",
+      "name": "梦岑",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "钱梦岑(国家自然基金)"
+      ],
+      "pinyin": [
+        "mèng",
+        "cén"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李梦岑：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李名述",
+      "name": "名述",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 5
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "黄名述(国家社科基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "shù"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李名述：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李名玮",
+      "name": "名玮",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "郝名玮(国家社科基金)"
+      ],
+      "pinyin": [
+        "míng",
+        "wěi"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李名玮：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李牧野",
+      "name": "牧野",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "曾牧野(国家社科基金)"
+      ],
+      "pinyin": [
+        "mù",
+        "yě"
+      ],
+      "tonePattern": "343",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李牧野：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李慕仁",
+      "name": "慕仁",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "刘慕仁(国家自然基金)"
+      ],
+      "pinyin": [
+        "mù",
+        "rén"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李慕仁：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李培亮",
+      "name": "培亮",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "顾培亮(国家自然基金)"
+      ],
+      "pinyin": [
+        "péi",
+        "liàng"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李培亮：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李培武",
+      "name": "培武",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "李培武(工程院院士)"
+      ],
+      "pinyin": [
+        "péi",
+        "wǔ"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李培武：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李培勇",
+      "name": "培勇",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "高培勇(国家自然基金)"
+      ],
+      "pinyin": [
+        "péi",
+        "yǒng"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李培勇：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李沛霖",
+      "name": "沛霖",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "张沛霖(科学院院士)",
+        "罗沛霖(科学院院士)",
+        "罗沛霖(工程院院士)",
+        "谢沛霖(国家自然基金)"
+      ],
+      "pinyin": [
+        "pèi",
+        "lín"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李沛霖：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李沛伦",
+      "name": "沛伦",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "郑沛伦(国家自然基金)"
+      ],
+      "pinyin": [
+        "pèi",
+        "lún"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李沛伦：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李佩洪",
+      "name": "佩洪",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "谢佩洪(国家自然基金)"
+      ],
+      "pinyin": [
+        "pèi",
+        "hóng"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李佩洪：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李佩玲",
+      "name": "佩玲",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "周佩玲(国家自然基金)"
+      ],
+      "pinyin": [
+        "pèi",
+        "líng"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李佩玲：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李佩瑜",
+      "name": "佩瑜",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "任佩瑜(国家自然基金)"
+      ],
+      "pinyin": [
+        "pèi",
+        "yú"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李佩瑜：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李倩茹",
+      "name": "倩茹",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "齐倩茹(国家自然基金)"
+      ],
+      "pinyin": [
+        "qiàn",
+        "rú"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李倩茹：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李倩雯",
+      "name": "倩雯",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "郭倩雯(国家自然基金)"
+      ],
+      "pinyin": [
+        "qiàn",
+        "wén"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李倩雯：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李钦岳",
+      "name": "钦岳",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "曲钦岳(科学院院士)"
+      ],
+      "pinyin": [
+        "qīn",
+        "yuè"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李钦岳：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李秋良",
+      "name": "秋良",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王秋良(科学院院士)"
+      ],
+      "pinyin": [
+        "qiū",
+        "liáng"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李秋良：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李秋男",
+      "name": "秋男",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "蒙秋男(国家自然基金)"
+      ],
+      "pinyin": [
+        "qiū",
+        "nán"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李秋男：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李秋莹",
+      "name": "秋莹",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "郑秋莹(国家自然基金)"
+      ],
+      "pinyin": [
+        "qiū",
+        "yíng"
+      ],
+      "tonePattern": "312",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李秋莹：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李群勇",
+      "name": "群勇",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "王群勇(国家自然基金)"
+      ],
+      "pinyin": [
+        "qún",
+        "yǒng"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李群勇：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李人境",
+      "name": "人境",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "刘人境(国家自然基金)"
+      ],
+      "pinyin": [
+        "rén",
+        "jìng"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李人境：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李仁恺",
+      "name": "仁恺",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "赵仁恺(科学院院士)",
+        "赵仁恺(工程院院士)"
+      ],
+      "pinyin": [
+        "rén",
+        "kǎi"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李仁恺：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李仁禧",
+      "name": "仁禧",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "卓仁禧(科学院院士)"
+      ],
+      "pinyin": [
+        "rén",
+        "xǐ"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李仁禧：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李如鹤",
+      "name": "如鹤",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "谢如鹤(国家自然基金)"
+      ],
+      "pinyin": [
+        "rú",
+        "hè"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李如鹤：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李茹敏",
+      "name": "茹敏",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "骆茹敏(国家自然基金)"
+      ],
+      "pinyin": [
+        "rú",
+        "mǐn"
+      ],
+      "tonePattern": "323",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李茹敏：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李若愚",
+      "name": "若愚",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 20,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 4
+      },
+      "sources": [
+        "五道口"
+      ],
+      "sourceNames": [
+        "鲁若愚(国家自然基金)",
+        "钟若愚(国家社科基金)"
+      ],
+      "pinyin": [
+        "ruò",
+        "yú"
+      ],
+      "tonePattern": "342",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：五道口",
+        "用字频率可接受"
+      ],
+      "explanation": "李若愚：总分 97；来源：五道口；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    }
+  ]
+}

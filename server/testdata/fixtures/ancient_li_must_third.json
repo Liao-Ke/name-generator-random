@@ -1,0 +1,1131 @@
+{
+  "query": {
+    "surname": "李",
+    "must": [
+      "玉"
+    ],
+    "mustPosition": "third",
+    "sourcePreference": "ancient_names",
+    "limit": 200
+  },
+  "sourceId": "ancient_names",
+  "sourceLabel": "古人云",
+  "candidateCount": 9518,
+  "results": [
+    {
+      "fullName": "李辰玉",
+      "name": "辰玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "王衡(字辰玉)"
+      ],
+      "pinyin": [
+        "chén",
+        "yù"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李辰玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李纯玉",
+      "name": "纯玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "黄瑗(字纯玉)",
+        "韩纯玉"
+      ],
+      "pinyin": [
+        "chún",
+        "yù"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李纯玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李丰玉",
+      "name": "丰玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "汪仲(字丰玉)"
+      ],
+      "pinyin": [
+        "fēng",
+        "yù"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李丰玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李公玉",
+      "name": "公玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "林公玉",
+        "郑公玉"
+      ],
+      "pinyin": [
+        "gōng",
+        "yù"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李公玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李怀玉",
+      "name": "怀玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "杜子瓌(字怀玉)"
+      ],
+      "pinyin": [
+        "huái",
+        "yù"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李怀玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李君玉",
+      "name": "君玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "方逢振(字君玉)",
+        "朱天球(字君玉)",
+        "吴士琇(字君玉)",
+        "沈珵(字君玉)",
+        "刘元瑜(字君玉)"
+      ],
+      "pinyin": [
+        "jūn",
+        "yù"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李君玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李良玉",
+      "name": "良玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "苏镒(字良玉)",
+        "左良玉"
+      ],
+      "pinyin": [
+        "liáng",
+        "yù"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李良玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李鸣玉",
+      "name": "鸣玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "黄珂(字鸣玉)",
+        "胡鸣玉",
+        "蒋鸣玉"
+      ],
+      "pinyin": [
+        "míng",
+        "yù"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李鸣玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李群玉",
+      "name": "群玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "廖莹中(字群玉)",
+        "李群玉"
+      ],
+      "pinyin": [
+        "qún",
+        "yù"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李群玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李思玉",
+      "name": "思玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "宋思玉"
+      ],
+      "pinyin": [
+        "sī",
+        "yù"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李思玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李廷玉",
+      "name": "廷玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "白珽(字廷玉)",
+        "侯琎(字廷玉)",
+        "袁珙(字廷玉)",
+        "张廷玉",
+        "苏廷玉"
+      ],
+      "pinyin": [
+        "tíng",
+        "yù"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李廷玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李惟玉",
+      "name": "惟玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "邓仑(字惟玉)"
+      ],
+      "pinyin": [
+        "wéi",
+        "yù"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李惟玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李心玉",
+      "name": "心玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "沈冰壶(字心玉)"
+      ],
+      "pinyin": [
+        "xīn",
+        "yù"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李心玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李庸玉",
+      "name": "庸玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "黄汝成(字庸玉)"
+      ],
+      "pinyin": [
+        "yōng",
+        "yù"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李庸玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李章玉",
+      "name": "章玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "钱士璋(字章玉)"
+      ],
+      "pinyin": [
+        "zhāng",
+        "yù"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李章玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李之玉",
+      "name": "之玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "毛之玉"
+      ],
+      "pinyin": [
+        "zhī",
+        "yù"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李之玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李中玉",
+      "name": "中玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李瑴(字中玉)"
+      ],
+      "pinyin": [
+        "zhōng",
+        "yù"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李中玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李钟玉",
+      "name": "钟玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "蒋生芝(字钟玉)"
+      ],
+      "pinyin": [
+        "zhōng",
+        "yù"
+      ],
+      "tonePattern": "314",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李钟玉：总分 86；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李辞玉",
+      "name": "辞玉",
+      "score": 84,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 25,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 6,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "黄居宝(字辞玉)"
+      ],
+      "pinyin": [
+        "cí",
+        "yù"
+      ],
+      "tonePattern": "324",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李辞玉：总分 84；来源：古人云；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "李伯玉",
+      "name": "伯玉",
+      "score": 65,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 4,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "泛瑗(字伯玉)",
+        "汪道昆(字伯玉)",
+        "房知温(字伯玉)",
+        "范仲温(字伯玉)",
+        "金润(字伯玉)",
+        "李伯玉"
+      ],
+      "pinyin": [
+        "bǎi",
+        "yù"
+      ],
+      "tonePattern": "334",
+      "semantic": "",
+      "phonetic": "姓和名首字「李伯」声调相同，音律分降低；声调组合 334 音律评分偏低",
+      "reasons": [
+        "姓和名首字「李伯」声调相同，音律分降低；声调组合 334 音律评分偏低",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李伯玉：总分 65；来源：古人云；音律：姓和名首字「李伯」声调相同，音律分降低；声调组合 334 音律评分偏低"
+    },
+    {
+      "fullName": "李孟玉",
+      "name": "孟玉",
+      "score": 65,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 4,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "周璆(字孟玉)",
+        "徐璆(字孟玉)",
+        "褚镛(字孟玉)"
+      ],
+      "pinyin": [
+        "mèng",
+        "yù"
+      ],
+      "tonePattern": "344",
+      "semantic": "",
+      "phonetic": "名字内部「孟玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+      "reasons": [
+        "名字内部「孟玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李孟玉：总分 65；来源：古人云；音律：名字内部「孟玉」声调相同，音律分降低；声调组合 344 音律评分偏低"
+    },
+    {
+      "fullName": "李润玉",
+      "name": "润玉",
+      "score": 65,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 4,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "陆玠(字润玉)",
+        "黄润玉"
+      ],
+      "pinyin": [
+        "rùn",
+        "yù"
+      ],
+      "tonePattern": "344",
+      "semantic": "",
+      "phonetic": "名字内部「润玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+      "reasons": [
+        "名字内部「润玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李润玉：总分 65；来源：古人云；音律：名字内部「润玉」声调相同，音律分降低；声调组合 344 音律评分偏低"
+    },
+    {
+      "fullName": "李士玉",
+      "name": "士玉",
+      "score": 65,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 4,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "吴士玉"
+      ],
+      "pinyin": [
+        "shì",
+        "yù"
+      ],
+      "tonePattern": "344",
+      "semantic": "",
+      "phonetic": "名字内部「士玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+      "reasons": [
+        "名字内部「士玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李士玉：总分 65；来源：古人云；音律：名字内部「士玉」声调相同，音律分降低；声调组合 344 音律评分偏低"
+    },
+    {
+      "fullName": "李世玉",
+      "name": "世玉",
+      "score": 65,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 4,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李元瑫(字世玉)"
+      ],
+      "pinyin": [
+        "shì",
+        "yù"
+      ],
+      "tonePattern": "344",
+      "semantic": "",
+      "phonetic": "名字内部「世玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+      "reasons": [
+        "名字内部「世玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李世玉：总分 65；来源：古人云；音律：名字内部「世玉」声调相同，音律分降低；声调组合 344 音律评分偏低"
+    },
+    {
+      "fullName": "李式玉",
+      "name": "式玉",
+      "score": 65,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 4,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "毛式玉"
+      ],
+      "pinyin": [
+        "shì",
+        "yù"
+      ],
+      "tonePattern": "344",
+      "semantic": "",
+      "phonetic": "名字内部「式玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+      "reasons": [
+        "名字内部「式玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李式玉：总分 65；来源：古人云；音律：名字内部「式玉」声调相同，音律分降低；声调组合 344 音律评分偏低"
+    },
+    {
+      "fullName": "李寿玉",
+      "name": "寿玉",
+      "score": 65,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 4,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "楼璹(字寿玉)"
+      ],
+      "pinyin": [
+        "shòu",
+        "yù"
+      ],
+      "tonePattern": "344",
+      "semantic": "",
+      "phonetic": "名字内部「寿玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+      "reasons": [
+        "名字内部「寿玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李寿玉：总分 65；来源：古人云；音律：名字内部「寿玉」声调相同，音律分降低；声调组合 344 音律评分偏低"
+    },
+    {
+      "fullName": "李信玉",
+      "name": "信玉",
+      "score": 65,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 4,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "林圭(字信玉)"
+      ],
+      "pinyin": [
+        "xìn",
+        "yù"
+      ],
+      "tonePattern": "344",
+      "semantic": "",
+      "phonetic": "名字内部「信玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+      "reasons": [
+        "名字内部「信玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李信玉：总分 65；来源：古人云；音律：名字内部「信玉」声调相同，音律分降低；声调组合 344 音律评分偏低"
+    },
+    {
+      "fullName": "李用玉",
+      "name": "用玉",
+      "score": 65,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 4,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "易为鼎(字用玉)"
+      ],
+      "pinyin": [
+        "yòng",
+        "yù"
+      ],
+      "tonePattern": "344",
+      "semantic": "",
+      "phonetic": "名字内部「用玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+      "reasons": [
+        "名字内部「用玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李用玉：总分 65；来源：古人云；音律：名字内部「用玉」声调相同，音律分降低；声调组合 344 音律评分偏低"
+    },
+    {
+      "fullName": "李兆玉",
+      "name": "兆玉",
+      "score": 65,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 4,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "郎兆玉"
+      ],
+      "pinyin": [
+        "zhào",
+        "yù"
+      ],
+      "tonePattern": "344",
+      "semantic": "",
+      "phonetic": "名字内部「兆玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+      "reasons": [
+        "名字内部「兆玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李兆玉：总分 65；来源：古人云；音律：名字内部「兆玉」声调相同，音律分降低；声调组合 344 音律评分偏低"
+    },
+    {
+      "fullName": "李仲玉",
+      "name": "仲玉",
+      "score": 65,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 4,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "黄振龙(字仲玉)",
+        "卫景瑗(字仲玉)",
+        "郦琥(字仲玉)"
+      ],
+      "pinyin": [
+        "zhòng",
+        "yù"
+      ],
+      "tonePattern": "344",
+      "semantic": "",
+      "phonetic": "名字内部「仲玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+      "reasons": [
+        "名字内部「仲玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李仲玉：总分 65；来源：古人云；音律：名字内部「仲玉」声调相同，音律分降低；声调组合 344 音律评分偏低"
+    },
+    {
+      "fullName": "李子玉",
+      "name": "子玉",
+      "score": 65,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 4,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "狄琮(字子玉)",
+        "崔瑗(字子玉)",
+        "谢阶树(字子玉)",
+        "吴子玉"
+      ],
+      "pinyin": [
+        "zǐ",
+        "yù"
+      ],
+      "tonePattern": "334",
+      "semantic": "",
+      "phonetic": "姓和名首字「李子」声调相同，音律分降低；声调组合 334 音律评分偏低",
+      "reasons": [
+        "姓和名首字「李子」声调相同，音律分降低；声调组合 334 音律评分偏低",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李子玉：总分 65；来源：古人云；音律：姓和名首字「李子」声调相同，音律分降低；声调组合 334 音律评分偏低"
+    },
+    {
+      "fullName": "李次玉",
+      "name": "次玉",
+      "score": 64,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 4,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "李可玖(字次玉)"
+      ],
+      "pinyin": [
+        "cì",
+        "yù"
+      ],
+      "tonePattern": "344",
+      "semantic": "",
+      "phonetic": "名字内部「次玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+      "reasons": [
+        "名字内部「次玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李次玉：总分 64；来源：古人云；音律：名字内部「次玉」声调相同，音律分降低；声调组合 344 音律评分偏低"
+    },
+    {
+      "fullName": "李介玉",
+      "name": "介玉",
+      "score": 64,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 4,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "王玠(字介玉)"
+      ],
+      "pinyin": [
+        "jiè",
+        "yù"
+      ],
+      "tonePattern": "344",
+      "semantic": "",
+      "phonetic": "名字内部「介玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+      "reasons": [
+        "名字内部「介玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李介玉：总分 64；来源：古人云；音律：名字内部「介玉」声调相同，音律分降低；声调组合 344 音律评分偏低"
+    },
+    {
+      "fullName": "李蒨玉",
+      "name": "蒨玉",
+      "score": 63,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 4,
+        "source": 11,
+        "explainability": 5,
+        "charQuality": 6,
+        "rarity": 2
+      },
+      "sources": [
+        "古人云"
+      ],
+      "sourceNames": [
+        "王球(字蒨玉)"
+      ],
+      "pinyin": [
+        "qiàn",
+        "yù"
+      ],
+      "tonePattern": "344",
+      "semantic": "",
+      "phonetic": "名字内部「蒨玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+      "reasons": [
+        "名字内部「蒨玉」声调相同，音律分降低；声调组合 344 音律评分偏低",
+        "来源：古人云",
+        "用字频率可接受"
+      ],
+      "explanation": "李蒨玉：总分 63；来源：古人云；音律：名字内部「蒨玉」声调相同，音律分降低；声调组合 344 音律评分偏低"
+    }
+  ]
+}

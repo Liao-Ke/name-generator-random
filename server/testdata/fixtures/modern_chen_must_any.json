@@ -1,0 +1,6015 @@
+{
+  "query": {
+    "surname": "陈",
+    "must": [
+      "华"
+    ],
+    "sourcePreference": "modern_people",
+    "limit": 200
+  },
+  "sourceId": "modern_people",
+  "sourceLabel": "他山石",
+  "candidateCount": 60240,
+  "results": [
+    {
+      "fullName": "陈爱华",
+      "name": "爱华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "ài",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈爱华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈安华",
+      "name": "安华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "ān",
+        "huá"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈安华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈冰华",
+      "name": "冰华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bīng",
+        "huá"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈冰华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈兵华",
+      "name": "兵华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bīng",
+        "huá"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈兵华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈丹华",
+      "name": "丹华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dān",
+        "huá"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈丹华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈道华",
+      "name": "道华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dào",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈道华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈灯华",
+      "name": "灯华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dēng",
+        "huá"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈灯华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈弟华",
+      "name": "弟华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈弟华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈定华",
+      "name": "定华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dìng",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈定华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈东华",
+      "name": "东华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dōng",
+        "huá"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈东华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈冬华",
+      "name": "冬华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dōng",
+        "huá"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈冬华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈栋华",
+      "name": "栋华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dòng",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈栋华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈端华",
+      "name": "端华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "duān",
+        "huá"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈端华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈际华",
+      "name": "际华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈际华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈季华",
+      "name": "季华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈季华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈继华",
+      "name": "继华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈继华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈霁华",
+      "name": "霁华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈霁华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈坚华",
+      "name": "坚华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jiān",
+        "huá"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈坚华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈健华",
+      "name": "健华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jiàn",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈健华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈结华",
+      "name": "结华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jiē",
+        "huá"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈结华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈钜华",
+      "name": "钜华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jù",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈钜华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈力华",
+      "name": "力华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "lì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈力华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈立华",
+      "name": "立华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "lì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈立华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈利华",
+      "name": "利华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "lì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈利华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈莉华",
+      "name": "莉华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "lì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈莉华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈列华",
+      "name": "列华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "liè",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈列华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈路华",
+      "name": "路华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "lù",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈路华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈曼华",
+      "name": "曼华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "màn",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈曼华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈茂华",
+      "name": "茂华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mào",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈茂华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈木华",
+      "name": "木华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mù",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈木华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈慕华",
+      "name": "慕华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mù",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈慕华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈妮华",
+      "name": "妮华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "nī",
+        "huá"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈妮华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈期华",
+      "name": "期华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jī",
+        "huá"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈期华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈太华",
+      "name": "太华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "tài",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈太华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈天华",
+      "name": "天华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "tiān",
+        "huá"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈天华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈万华",
+      "name": "万华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mò",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈万华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈卫华",
+      "name": "卫华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "wèi",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈卫华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈蔚华",
+      "name": "蔚华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "wèi",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈蔚华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈彦华",
+      "name": "彦华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yàn",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈彦华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈晏华",
+      "name": "晏华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yàn",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈晏华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈艳华",
+      "name": "艳华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yàn",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈艳华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈焱华",
+      "name": "焱华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yàn",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈焱华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈耀华",
+      "name": "耀华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yào",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈耀华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈业华",
+      "name": "业华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yè",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈业华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈晔华",
+      "name": "晔华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yè",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈晔华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈烨华",
+      "name": "烨华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yè",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈烨华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈一华",
+      "name": "一华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yī",
+        "huá"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈一华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈义华",
+      "name": "义华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈义华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈艺华",
+      "name": "艺华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈艺华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈轶华",
+      "name": "轶华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈轶华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈益华",
+      "name": "益华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈益华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈翌华",
+      "name": "翌华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈翌华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈溢华",
+      "name": "溢华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈溢华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈毅华",
+      "name": "毅华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈毅华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈翼华",
+      "name": "翼华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈翼华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈玉华",
+      "name": "玉华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yù",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈玉华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈育华",
+      "name": "育华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yù",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈育华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈钰华",
+      "name": "钰华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yù",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈钰华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈煜华",
+      "name": "煜华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yù",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈煜华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈誉华",
+      "name": "誉华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yù",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈誉华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈苑华",
+      "name": "苑华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yuàn",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈苑华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈月华",
+      "name": "月华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yuè",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈月华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈玥华",
+      "name": "玥华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yuè",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈玥华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈跃华",
+      "name": "跃华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yuè",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈跃华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈粤华",
+      "name": "粤华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yuè",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈粤华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈越华",
+      "name": "越华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yuè",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈越华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈自华",
+      "name": "自华",
+      "score": 99,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "zì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈自华：总分 99；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈棣华",
+      "name": "棣华",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dì",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈棣华：总分 98；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈录华",
+      "name": "录华",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "lù",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈录华：总分 98；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈丕华",
+      "name": "丕华",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "pī",
+        "huá"
+      ],
+      "tonePattern": "212",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈丕华：总分 98；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈喻华",
+      "name": "喻华",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yù",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈喻华：总分 98；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈祚华",
+      "name": "祚华",
+      "score": 98,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "zuò",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈祚华：总分 98；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈冒华",
+      "name": "冒华",
+      "score": 97,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 30,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 6,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "mào",
+        "huá"
+      ],
+      "tonePattern": "242",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈冒华：总分 97；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈佰华",
+      "name": "佰华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bǎi",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈佰华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈宝华",
+      "name": "宝华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bǎo",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈宝华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈保华",
+      "name": "保华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bǎo",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈保华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈伯华",
+      "name": "伯华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bǎi",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈伯华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈纪华",
+      "name": "纪华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "jǐ",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈纪华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈磊华",
+      "name": "磊华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "lěi",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈磊华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈礼华",
+      "name": "礼华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "lǐ",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈礼华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈柳华",
+      "name": "柳华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "liǔ",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈柳华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈鲁华",
+      "name": "鲁华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "lǔ",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈鲁华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈美华",
+      "name": "美华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "měi",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈美华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈乃华",
+      "name": "乃华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "nǎi",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈乃华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈铁华",
+      "name": "铁华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "tiě",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈铁华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈伟华",
+      "name": "伟华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "wěi",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈伟华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈炜华",
+      "name": "炜华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "wěi",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈炜华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈玮华",
+      "name": "玮华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "wěi",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈玮华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈友华",
+      "name": "友华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yǒu",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈友华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈宇华",
+      "name": "宇华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "yǔ",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈宇华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈子华",
+      "name": "子华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "zǐ",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈子华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈梓华",
+      "name": "梓华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "zǐ",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈梓华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈紫华",
+      "name": "紫华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "zǐ",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈紫华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈祖华",
+      "name": "祖华",
+      "score": 89,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "zǔ",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈祖华：总分 89；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈葆华",
+      "name": "葆华",
+      "score": 88,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 20,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bǎo",
+        "huá"
+      ],
+      "tonePattern": "232",
+      "semantic": "",
+      "phonetic": "读音顺畅，未发现同音、叠声或叠韵问题",
+      "reasons": [
+        "读音顺畅，未发现同音、叠声或叠韵问题",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈葆华：总分 88；来源：他山石；音律：读音顺畅，未发现同音、叠声或叠韵问题"
+    },
+    {
+      "fullName": "陈华安",
+      "name": "华安",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "ān"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华安：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华奥",
+      "name": "华奥",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "ào"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华奥：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华宝",
+      "name": "华宝",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "bǎo"
+      ],
+      "tonePattern": "223",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华宝：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华宾",
+      "name": "华宾",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "bīn"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华宾：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华彬",
+      "name": "华彬",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "bīn"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华彬：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华斌",
+      "name": "华斌",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "bīn"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华斌：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华兵",
+      "name": "华兵",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "bīng"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华兵：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华波",
+      "name": "华波",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "bō"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华波：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华琛",
+      "name": "华琛",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "chēn"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华琛：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华川",
+      "name": "华川",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "chuān"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华川：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华春",
+      "name": "华春",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "chūn"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华春：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华东",
+      "name": "华东",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "dōng"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华东：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华栋",
+      "name": "华栋",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "dòng"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华栋：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华盾",
+      "name": "华盾",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "dùn"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华盾：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华恩",
+      "name": "华恩",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "ēn"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华恩：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华建",
+      "name": "华建",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "jiàn"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华建：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华剑",
+      "name": "华剑",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "jiàn"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华剑：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华健",
+      "name": "华健",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "jiàn"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华健：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华姣",
+      "name": "华姣",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "jiāo"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华姣：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华金",
+      "name": "华金",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "jīn"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华金：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华瑾",
+      "name": "华瑾",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "jǐn"
+      ],
+      "tonePattern": "223",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华瑾：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华进",
+      "name": "华进",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "jìn"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华进：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华娟",
+      "name": "华娟",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "juān"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华娟：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华军",
+      "name": "华军",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "jūn"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华军：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华君",
+      "name": "华君",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "jūn"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华君：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华俊",
+      "name": "华俊",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "jùn"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华俊：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华骏",
+      "name": "华骏",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "jùn"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华骏：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华楷",
+      "name": "华楷",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "jiē"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华楷：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华磊",
+      "name": "华磊",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "lěi"
+      ],
+      "tonePattern": "223",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华磊：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华立",
+      "name": "华立",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "lì"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华立：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华利",
+      "name": "华利",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "lì"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华利：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华璐",
+      "name": "华璐",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "lù"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华璐：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华美",
+      "name": "华美",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "měi"
+      ],
+      "tonePattern": "223",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华美：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华敏",
+      "name": "华敏",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "mǐn"
+      ],
+      "tonePattern": "223",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华敏：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华妮",
+      "name": "华妮",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "nī"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华妮：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华奇",
+      "name": "华奇",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "jī"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华奇：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华钦",
+      "name": "华钦",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "qīn"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华钦：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华秋",
+      "name": "华秋",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "qiū"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华秋：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华蕊",
+      "name": "华蕊",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "ruǐ"
+      ],
+      "tonePattern": "223",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华蕊：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华锐",
+      "name": "华锐",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "ruì"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华锐：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华瑞",
+      "name": "华瑞",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "ruì"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华瑞：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华润",
+      "name": "华润",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "rùn"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华润：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华泰",
+      "name": "华泰",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "tài"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华泰：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华涛",
+      "name": "华涛",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "tāo"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华涛：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华滔",
+      "name": "华滔",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "tāo"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华滔：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华天",
+      "name": "华天",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "tiān"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华天：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华添",
+      "name": "华添",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "tiān"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华添：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华巍",
+      "name": "华巍",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "wēi"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华巍：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华伟",
+      "name": "华伟",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "wěi"
+      ],
+      "tonePattern": "223",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华伟：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华艳",
+      "name": "华艳",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "yàn"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华艳：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华义",
+      "name": "华义",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "yì"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华义：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华熠",
+      "name": "华熠",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "yì"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华熠：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华友",
+      "name": "华友",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "yǒu"
+      ],
+      "tonePattern": "223",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华友：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华宇",
+      "name": "华宇",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "yǔ"
+      ],
+      "tonePattern": "223",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华宇：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华羽",
+      "name": "华羽",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "yǔ"
+      ],
+      "tonePattern": "223",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华羽：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华玉",
+      "name": "华玉",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "yù"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华玉：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华育",
+      "name": "华育",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "yù"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华育：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华钰",
+      "name": "华钰",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "yù"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华钰：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华煜",
+      "name": "华煜",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "yù"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华煜：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华悦",
+      "name": "华悦",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "yuè"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华悦：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华跃",
+      "name": "华跃",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "yuè"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华跃：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华韵",
+      "name": "华韵",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "yùn"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华韵：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华钊",
+      "name": "华钊",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "zhāo"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华钊：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华珍",
+      "name": "华珍",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "zhēn"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华珍：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华震",
+      "name": "华震",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "zhèn"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华震：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华征",
+      "name": "华征",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "zhēng"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华征：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华正",
+      "name": "华正",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "zhēng"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华正：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华政",
+      "name": "华政",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "zhèng"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华政：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华志",
+      "name": "华志",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "zhì"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华志：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华治",
+      "name": "华治",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "zhì"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华治：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华智",
+      "name": "华智",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "zhì"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华智：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华中",
+      "name": "华中",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "zhōng"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华中：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华舟",
+      "name": "华舟",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "zhōu"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华舟：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华尊",
+      "name": "华尊",
+      "score": 86,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "zūn"
+      ],
+      "tonePattern": "221",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华尊：总分 86；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华媚",
+      "name": "华媚",
+      "score": 85,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "mèi"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华媚：总分 85；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华慰",
+      "name": "华慰",
+      "score": 85,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "wèi"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华慰：总分 85；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈华曌",
+      "name": "华曌",
+      "score": 85,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 17,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 7,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "zhào"
+      ],
+      "tonePattern": "224",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华曌：总分 85；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低"
+    },
+    {
+      "fullName": "陈博华",
+      "name": "博华",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "bó",
+        "huá"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈博」声调相同，音律分降低；名字内部「博华」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈博」声调相同，音律分降低；名字内部「博华」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈博华：总分 75；来源：他山石；音律：姓和名首字「陈博」声调相同，音律分降低；名字内部「博华」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈德华",
+      "name": "德华",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dé",
+        "huá"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈德」声调相同，音律分降低；名字内部「德华」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈德」声调相同，音律分降低；名字内部「德华」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈德华：总分 75；来源：他山石；音律：姓和名首字「陈德」声调相同，音律分降低；名字内部「德华」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈迪华",
+      "name": "迪华",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "dí",
+        "huá"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈迪」声调相同，音律分降低；名字内部「迪华」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈迪」声调相同，音律分降低；名字内部「迪华」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈迪华：总分 75；来源：他山石；音律：姓和名首字「陈迪」声调相同，音律分降低；名字内部「迪华」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华才",
+      "name": "华才",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "cái"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华才」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华才」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华才：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华才」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华成",
+      "name": "华成",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "chéng"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华成」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华成」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华成：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华成」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华承",
+      "name": "华承",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "chéng"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华承」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华承」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华承：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华承」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华诚",
+      "name": "华诚",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "chéng"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华诚」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华诚」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华诚：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华诚」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华儿",
+      "name": "华儿",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "ér"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华儿」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华儿」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华儿：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华儿」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华杰",
+      "name": "华杰",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "jié"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华杰」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华杰」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华杰：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华杰」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华菊",
+      "name": "华菊",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "jú"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华菊」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华菊」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华菊：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华菊」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华雷",
+      "name": "华雷",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "léi"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华雷」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华雷」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华雷：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华雷」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华丽",
+      "name": "华丽",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "lí"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华丽」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华丽」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华丽：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华丽」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华莲",
+      "name": "华莲",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "lián"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华莲」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华莲」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华莲：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华莲」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华林",
+      "name": "华林",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "lín"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华林」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华林」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华林：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华林」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华琳",
+      "name": "华琳",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "lín"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华琳」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华琳」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华琳：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华琳」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华梅",
+      "name": "华梅",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "méi"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华梅」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华梅」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华梅：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华梅」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华民",
+      "name": "华民",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "mín"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华民」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华民」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华民：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华民」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华楠",
+      "name": "华楠",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "nán"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华楠」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华楠」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华楠：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华楠」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华年",
+      "name": "华年",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "nián"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华年」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华年」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华年：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华年」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华璞",
+      "name": "华璞",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "pú"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华璞」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华璞」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华璞：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华璞」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华棋",
+      "name": "华棋",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "qí"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华棋」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华棋」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华棋：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华棋」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华琦",
+      "name": "华琦",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "qí"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华琦」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华琦」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华琦：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华琦」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华琪",
+      "name": "华琪",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "qí"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华琪」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华琪」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华琪：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华琪」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华桥",
+      "name": "华桥",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "qiáo"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华桥」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华桥」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华桥：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华桥」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华琴",
+      "name": "华琴",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "qín"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华琴」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华琴」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华琴：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华琴」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华权",
+      "name": "华权",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "quán"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华权」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华权」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华权：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华权」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华维",
+      "name": "华维",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "wéi"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华维」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华维」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华维：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华维」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    },
+    {
+      "fullName": "陈华文",
+      "name": "华文",
+      "score": 75,
+      "breakdown": {
+        "semantic": 35,
+        "phonetic": 6,
+        "source": 19,
+        "explainability": 5,
+        "charQuality": 8,
+        "rarity": 2
+      },
+      "sources": [
+        "他山石"
+      ],
+      "sourceNames": [],
+      "pinyin": [
+        "huá",
+        "wén"
+      ],
+      "tonePattern": "222",
+      "semantic": "",
+      "phonetic": "姓和名首字「陈华」声调相同，音律分降低；名字内部「华文」声调相同，音律分降低；声调组合 222 音律评分偏低",
+      "reasons": [
+        "姓和名首字「陈华」声调相同，音律分降低；名字内部「华文」声调相同，音律分降低；声调组合 222 音律评分偏低",
+        "来源：他山石",
+        "用字频率可接受"
+      ],
+      "explanation": "陈华文：总分 75；来源：他山石；音律：姓和名首字「陈华」声调相同，音律分降低；名字内部「华文」声调相同，音律分降低；声调组合 222 音律评分偏低"
+    }
+  ]
+}
