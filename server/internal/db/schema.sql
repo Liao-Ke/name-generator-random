@@ -41,6 +41,8 @@ CREATE INDEX IF NOT EXISTS idx_candidates_first       ON candidates (first_char)
 CREATE INDEX IF NOT EXISTS idx_candidates_second      ON candidates (second_char);
 CREATE INDEX IF NOT EXISTS idx_candidates_src_first   ON candidates (source_id, first_char);
 CREATE INDEX IF NOT EXISTS idx_candidates_src_second  ON candidates (source_id, second_char);
+-- 候选名在来源内唯一, 反映源数据事实, 同时为 name_source_names 的反查提供稳定键
+CREATE UNIQUE INDEX IF NOT EXISTS uniq_candidates_src_name ON candidates (source_id, name);
 
 -- 来源人/出处明细, 用于详情卡
 CREATE TABLE IF NOT EXISTS name_source_names (
