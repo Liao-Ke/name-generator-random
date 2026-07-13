@@ -25,12 +25,13 @@ func AuthedFromCtx(ctx context.Context) bool {
 func AuthMiddleware(authn *auth.Auth) func(http.Handler) http.Handler {
 	return func(next http.Handler) http.Handler {
 		return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
-			authed := false
-			if key := ExtractAPIKey(r); key != "" {
-				authed = authn.IsValidKey(r.Context(), key)
-			}
-			ctx := context.WithValue(r.Context(), ctxKeyAuthed{}, authed)
-			next.ServeHTTP(w, r.WithContext(ctx))
+authed := false
+		key := ExtractAPIKey(r)
+		if key != "" {
+			authed = authn.IsValidKey(r.Context(), key)
+		}
+		ctx := context.WithValue(r.Context(), ctxKeyAuthed{}, authed)
+		next.ServeHTTP(w, r.WithContext(ctx))
 		})
 	}
 }

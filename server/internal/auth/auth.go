@@ -77,7 +77,6 @@ func (a *Auth) queryPG(ctx context.Context, key string) bool {
 		`SELECT key FROM api_keys WHERE key = $1 AND revoked_at IS NULL LIMIT 1`,
 		key).Scan(&storedKey)
 	if err != nil {
-		// errNoRows 视为无效; 其他错误也视为无效 (fail closed)
 		if err.Error() != "no rows in result set" {
 			slog.Warn("auth query pg", "err", err)
 		}

@@ -19,6 +19,6 @@ func HealthHandler() http.HandlerFunc {
 		EncodeJSON(w, http.StatusOK, HealthResponse{
 			OK:      true,
 			Sources: core.SourceConfigs,
-		}, nil, false)
+		}, nil, AuthedFromCtx(r.Context()))
 	}
 }
