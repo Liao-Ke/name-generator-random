@@ -1,6 +1,8 @@
 // Package core 查询. 对齐 packages/name-core/src/queryName.ts.
 package core
 
+import "sort"
+
 // NormalizeQueryConfig 填充默认值, strip 非中文字符.
 // 对齐 TS.normalizeQueryConfig.
 func NormalizeQueryConfig(query QueryConfig) QueryConfig {
@@ -101,25 +103,14 @@ func QueryNames(candidateDb []CandidateName, charDb CharDb, query QueryConfig) (
 // sortResults 按 score 降序, 同分按 name 拼音字典序(node zh-Hans-CN 语义) 升序.
 // 算法: 主 key 拼音 (PinyinNoTone 字母序 + Tone 数值), tiebreak 用字符 unicode 码点.
 // 该实现刻意复刻 Node localeCompare("zh-Hans-CN") 行为; 未引入第三方 collate.
-// 插入排序: 截到 limit 前的结果集每来源约 1-6 千行, 渐近 ~O(n²/2) 仍在 1-3 ms 内.
-// ponytail: 若来源候选突破百万级, 改 sort.SliceStable + compareZhName 算法保持稳定且 O(n log n).
+// 使用 sort.SliceStable 保稳定 (TS 默认 Array.sort 是稳定, Go 不保证 stable 排序故锁死).
 func sortResults(charDb CharDb, rs []ScoredCandidate) {
-	for i := 1; i < len(rs); i++ {
-		for j := i; j > 0; j-- {
-			if shouldSwap(charDb, rs[j], rs[j-1]) {
-				rs[j], rs[j-1] = rs[j-1], rs[j]
-			} else {
-				break
-			}
+	sort.SliceStable(rs, func(i, j int) bool {
+		if rs[i].Score != rs[j].Score {
+			return rs[i].Score > rs[j].Score
 		}
-	}
-}
-
-func shouldSwap(charDb CharDb, left, right ScoredCandidate) bool {
-	if left.Score != right.Score {
-		return left.Score > right.Score // 高分在前
-	}
-	return compareZhName(charDb, left.Name, right.Name) < 0
+		return compareZhName(charDb, rs[i].Name, rs[j].Name) < 0
+	})
 }
 
 // compareZhName 按拼音主序 + 字符 unicode 码点 tiebreak 比较 2 字名 a 和 b.
