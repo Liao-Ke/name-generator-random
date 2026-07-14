@@ -2,6 +2,7 @@
 package api
 
 import (
+	"math/rand"
 	"net/http"
 	"strconv"
 	"strings"
@@ -26,13 +27,30 @@ type RandomSourceLabel struct {
 }
 
 const (
-	defaultSurname     = "张"
 	defaultSource      = "wealth"
 	defaultStrategy    = "weighted"
 	defaultAlpha       = 0.15
 	defaultNum         = 5
 	maxNum             = 50
 )
+
+// 百家姓前 100 位单字姓氏 (按经典《百家姓》开篇顺序), 作为 surname 缺省时的随机池.
+// 复姓如"司马"已剔除, 仅留单字姓.
+const baiJiaXing = "赵钱孙李周吴郑王冯陈褚卫蒋沈韩杨朱秦尤许何吕施张孔曹严华金魏陶姜戚谢邹喻柏水窦章云苏潘葛奚范彭郎鲁韦昌马苗凤花方俞任袁柳酆鲍史唐费廉岑薛雷贺倪汤滕殷罗毕郝邬安常乐于时傅皮卞齐康伍余元卜顾孟平黄和穆萧尹姚邵湛汪祁毛禹狄米贝明臧计伏成戴谈宋茅庞熊纪舒屈项祝董梁"
+
+// pickRandomSurname 从百家姓随机抽一个, 要求 charDb 命中. 尝试 maxTries 次后回退 "张".
+// 抽样按 rng 给定. 姓氏在 charDb 缺失 (如罕见异体字) 会被跳过.
+func pickRandomSurname(charDb core.CharDb, rng *rand.Rand) string {
+	runes := []rune(baiJiaXing)
+	for i := 0; i < 8; i++ {
+		r := runes[rng.Intn(len(runes))]
+		s := string(r)
+		if _, ok := charDb[s]; ok {
+			return s
+		}
+	}
+	return "张"
+}
 
 // RandomHandler 创建 /api/random 处理函数.
 // deps 提供 charDb / candidateDb 缓存与 hydrate 能力.
@@ -51,29 +69,11 @@ func handleRandom(w http.ResponseWriter, r *http.Request, deps *Deps) {
 
 	// --- 解析查询参数 ---
 	q := r.URL.Query()
-	query := core.QueryConfig{
-		Surname:      firstNonEmpty(q.Get("surname"), defaultSurname),
-		Avoid:        splitCS(q.Get("avoid")),
-		Must:         splitCS(q.Get("must")),
-		MustPosition: firstNonEmpty(q.Get("mustPosition"), "any"),
-		Style:        firstNonEmpty(q.Get("style"), "any"),
-		Limit:        0, // 内部用大 limit 采样, 非 user-facing 切
-	}
-	sourcePref := firstNonEmpty(q.Get("source"), q.Get("sourcePreference"), defaultSource)
-	n := parseIntDefault(q.Get("n"), defaultNum)
-	if n < 1 {
-		n = 1
-	}
-	if n > maxNum {
-		n = maxNum
-	}
-	strategy := firstNonEmpty(q.Get("strategy"), defaultStrategy)
-	if strategy != "uniform" && strategy != "weighted" {
-		strategy = defaultStrategy
-	}
 	seed := int64(parseIntDefault(q.Get("seed"), 0))
 	alpha := parseFloatDefault(q.Get("alpha"), defaultAlpha)
+	rng := deps.NewRNG(seed)
 
+	sourcePref := firstNonEmpty(q.Get("source"), q.Get("sourcePreference"), defaultSource)
 	sourceID := resolveSourceID(sourcePref)
 	if sourceID == "" {
 		WriteError(w, http.StatusBadRequest, "unknown_source", "未知来源: "+sourcePref)
@@ -84,6 +84,32 @@ func handleRandom(w http.ResponseWriter, r *http.Request, deps *Deps) {
 	if !ok {
 		WriteError(w, http.StatusInternalServerError, "char_db_loading", "字库尚未准备好")
 		return
+	}
+
+	// surname 缺省: 从百家姓随机抽一个, charDb 校验
+	surname := strings.TrimSpace(q.Get("surname"))
+	if surname == "" {
+		surname = pickRandomSurname(charDb, rng)
+	}
+
+	query := core.QueryConfig{
+		Surname:      surname,
+		Avoid:        splitCS(q.Get("avoid")),
+		Must:         splitCS(q.Get("must")),
+		MustPosition: firstNonEmpty(q.Get("mustPosition"), "any"),
+		Style:        firstNonEmpty(q.Get("style"), "any"),
+		Limit:        0, // 内部用大 limit 采样, 非 user-facing 切
+	}
+	n := parseIntDefault(q.Get("n"), defaultNum)
+	if n < 1 {
+		n = 1
+	}
+	if n > maxNum {
+		n = maxNum
+	}
+	strategy := firstNonEmpty(q.Get("strategy"), defaultStrategy)
+	if strategy != "uniform" && strategy != "weighted" {
+		strategy = defaultStrategy
 	}
 	candidates := deps.GetCandidateDb(ctx, sourceID)
 	if len(candidates) == 0 {
@@ -103,8 +129,7 @@ func handleRandom(w http.ResponseWriter, r *http.Request, deps *Deps) {
 		return
 	}
 
-	// 采样
-	var rng = deps.NewRNG(seed)
+	// 采样 (rng 已在参数解析阶段构造, 与 pickRandomSurname 共用同一随机源)
 	sampled := sampler.Sample(sampler.SampleInput{
 		Results:  results,
 		N:        n,
