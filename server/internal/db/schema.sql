@@ -59,3 +59,9 @@ CREATE TABLE IF NOT EXISTS api_keys (
   revoked_at  timestamptz                  -- NULL = 有效
 );
 CREATE INDEX IF NOT EXISTS idx_api_keys_revoked ON api_keys (revoked_at);
+
+-- 百家姓候选单字姓氏池. /api/random 缺省 surname 时从本表随机抽一个.
+-- import 时仅入在 chars 表中存在的字, 保证 pickRandomSurname 不需再校验 charDb.
+CREATE TABLE IF NOT EXISTS surnames (
+  char text PRIMARY KEY REFERENCES chars(char) ON DELETE CASCADE
+);

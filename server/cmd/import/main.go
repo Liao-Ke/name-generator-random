@@ -158,6 +158,19 @@ func main() {
 		}
 	}
 
+	// 4) surnames (百家姓, 仅入在 chars 中存在的字)
+	baiPath := filepath.Join(dataDir, "baijiaxing.json")
+	if _, err := os.Stat(baiPath); err == nil {
+		n, err := importSurnames(ctx, pool, baiPath)
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "导入 surnames 失败: %v\n", err)
+			os.Exit(1)
+		}
+		slog.Info("surnames 导入完成", "count", n)
+	} else {
+		slog.Warn("baijiaxing.json 不存在, 跳过 surnames 导入", "path", baiPath)
+	}
+
 	slog.Info("导入完成",
 		"chars", charsCount,
 		"sources", len(idx.SourcePriority),
@@ -372,4 +385,47 @@ func readNameSources(path string) (map[string][]string, error) {
 		return nil, err
 	}
 	return m, nil
+}
+
+// importSurnames 把百家姓单字列表入 surnames 表, 仅入在 chars 表中存在的字.
+// 用 SQL `WHERE EXISTS` 过滤 charDb 缺失项, 保证后续 pickRandomSurname 直接抽不需校验.
+// 不能用 CopyFrom: FK 约束会让整批因缺失字 fail, 改走 INSERT SELECT unnest WHERE EXISTS.
+func importSurnames(ctx context.Context, pool *db.Pool, path string) (int, error) {
+	arr, err := readStringArray(path)
+	if err != nil {
+		return 0, err
+	}
+	// 去重 + 去空
+	seen := make(map[string]struct{}, len(arr))
+	uniq := make([]string, 0, len(arr))
+	for _, s := range arr {
+		if s == "" {
+			continue
+		}
+		if _, ok := seen[s]; ok {
+			continue
+		}
+		seen[s] = struct{}{}
+		uniq = append(uniq, s)
+	}
+	if _, err := pool.Exec(ctx, "TRUNCATE surnames"); err != nil {
+		return 0, fmt.Errorf("TRUNCATE surnames: %w", err)
+	}
+	if len(uniq) == 0 {
+		return 0, nil
+	}
+	// unnest + WHERE EXISTS 过滤掉 chars 表不存在的字 (FK 约束)
+	_, err = pool.Exec(ctx, `
+		INSERT INTO surnames (char)
+		SELECT ch FROM unnest($1::text[]) AS ch
+		WHERE EXISTS (SELECT 1 FROM chars WHERE chars.char = ch)
+		ON CONFLICT (char) DO NOTHING`, uniq)
+	if err != nil {
+		return 0, fmt.Errorf("INSERT surnames: %w", err)
+	}
+	var finalCount int
+	if err := pool.QueryRow(ctx, "SELECT COUNT(*) FROM surnames").Scan(&finalCount); err != nil {
+		return 0, err
+	}
+	return finalCount, nil
 }

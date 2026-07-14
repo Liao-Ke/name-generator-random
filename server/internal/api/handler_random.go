@@ -34,22 +34,16 @@ const (
 	maxNum             = 50
 )
 
-// 百家姓前 100 位单字姓氏 (按经典《百家姓》开篇顺序), 作为 surname 缺省时的随机池.
-// 复姓如"司马"已剔除, 仅留单字姓.
-const baiJiaXing = "赵钱孙李周吴郑王冯陈褚卫蒋沈韩杨朱秦尤许何吕施张孔曹严华金魏陶姜戚谢邹喻柏水窦章云苏潘葛奚范彭郎鲁韦昌马苗凤花方俞任袁柳酆鲍史唐费廉岑薛雷贺倪汤滕殷罗毕郝邬安常乐于时傅皮卞齐康伍余元卜顾孟平黄和穆萧尹姚邵湛汪祁毛禹狄米贝明臧计伏成戴谈宋茅庞熊纪舒屈项祝董梁"
+// fallbackSurname 当 surnames 表为空 (未导入) 时使用的兜底姓.
+const fallbackSurname = "张"
 
-// pickRandomSurname 从百家姓随机抽一个, 要求 charDb 命中. 尝试 maxTries 次后回退 "张".
-// 抽样按 rng 给定. 姓氏在 charDb 缺失 (如罕见异体字) 会被跳过.
-func pickRandomSurname(charDb core.CharDb, rng *rand.Rand) string {
-	runes := []rune(baiJiaXing)
-	for i := 0; i < 8; i++ {
-		r := runes[rng.Intn(len(runes))]
-		s := string(r)
-		if _, ok := charDb[s]; ok {
-			return s
-		}
+// pickRandomSurname 从 deps 缓存的百家姓列表随机抽一个. 抽不到时回退 fallbackSurname.
+// 不依赖 charDb 校验: surnames 表已保证入库字在 chars 表存在.
+func pickRandomSurname(surnames []string, rng *rand.Rand) string {
+	if len(surnames) == 0 {
+		return fallbackSurname
 	}
-	return "张"
+	return surnames[rng.Intn(len(surnames))]
 }
 
 // RandomHandler 创建 /api/random 处理函数.
@@ -86,10 +80,10 @@ func handleRandom(w http.ResponseWriter, r *http.Request, deps *Deps) {
 		return
 	}
 
-	// surname 缺省: 从百家姓随机抽一个, charDb 校验
+	// surname 缺省: 从百家姓 (PG surnames 表, 已过滤 charDb 缺失项) 随机抽一个
 	surname := strings.TrimSpace(q.Get("surname"))
 	if surname == "" {
-		surname = pickRandomSurname(charDb, rng)
+		surname = pickRandomSurname(deps.GetSurnames(ctx), rng)
 	}
 
 	query := core.QueryConfig{

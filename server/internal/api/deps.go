@@ -23,6 +23,9 @@ type Deps struct {
 	candidateMu sync.RWMutex
 	candidates  map[string][]core.CandidateName
 
+	surnamesOnce sync.Once
+	surnames     []string
+
 	rngPool sync.Pool // *rand.Rand with source from 系统时间, 仅匿名 Go map per-call
 	// 单 global rng 仅生成种子; per-request 复用避免每次 rand.NewSource 开销
 	globalRngMu sync.Mutex
@@ -51,6 +54,29 @@ func (d *Deps) GetCharDb(ctx context.Context) (core.CharDb, bool) {
 		slog.Info("charDb 已缓存", "size", len(db))
 	})
 	return d.charDb, d.charDbOK
+}
+
+// GetSurnames 进程级单例加载百家姓候选单字姓氏列表 (仅含在 chars 中存在的字).
+// /api/random 缺省 surname 时从本表随机抽一个.
+func (d *Deps) GetSurnames(ctx context.Context) []string {
+	d.surnamesOnce.Do(func() {
+		rows, err := d.Pool.Query(ctx, "SELECT char FROM surnames ORDER BY char")
+		if err != nil {
+			slog.Error("加载 surnames 失败", "err", err)
+			return
+		}
+		defer rows.Close()
+		for rows.Next() {
+			var s string
+			if err := rows.Scan(&s); err != nil {
+				slog.Error("scan surname", "err", err)
+				return
+			}
+			d.surnames = append(d.surnames, s)
+		}
+		slog.Info("surnames 已缓存", "size", len(d.surnames))
+	})
+	return d.surnames
 }
 
 // GetCandidateDb 拉指定 source 的候选名; 进程级缓存, 首次访问 hydrate.
