@@ -2,6 +2,7 @@
 package api
 
 import (
+	"context"
 	"math/rand"
 	"net/http"
 	"strconv"
@@ -27,12 +28,21 @@ type RandomSourceLabel struct {
 }
 
 const (
-	defaultSource      = "wealth"
-	defaultStrategy    = "weighted"
+	defaultStrategy    = "uniform"
 	defaultAlpha       = 0.15
 	defaultNum         = 5
 	maxNum             = 50
 )
+
+// allSourceIDs 按 priority 顺序列出的全部来源 id.
+// source 参数缺省时, /api/random 合并全部来源候选跑一次 queryNames.
+var allSourceIDs = []string{
+	"wealth",
+	"academic",
+	"modern_people",
+	"imperial_exam",
+	"ancient_names",
+}
 
 // fallbackSurname 当 surnames 表为空 (未导入) 时使用的兜底姓.
 const fallbackSurname = "张"
@@ -44,6 +54,23 @@ func pickRandomSurname(surnames []string, rng *rand.Rand) string {
 		return fallbackSurname
 	}
 	return surnames[rng.Intn(len(surnames))]
+}
+
+// loadAllCandidates 合并全部来源的候选名, 按 name 去重 (保留首次出现的, 即 priority 高的来源).
+// 用于 source 缺省时一次 queryNames 调用覆盖所有来源.
+func loadAllCandidates(ctx context.Context, deps *Deps) []core.CandidateName {
+	all := make([]core.CandidateName, 0, 163000)
+	seen := make(map[string]struct{}, 163000)
+	for _, sid := range allSourceIDs {
+		for _, c := range deps.GetCandidateDb(ctx, sid) {
+			if _, ok := seen[c.Name]; ok {
+				continue
+			}
+			seen[c.Name] = struct{}{}
+			all = append(all, c)
+		}
+	}
+	return all
 }
 
 // RandomHandler 创建 /api/random 处理函数.
@@ -67,11 +94,16 @@ func handleRandom(w http.ResponseWriter, r *http.Request, deps *Deps) {
 	alpha := parseFloatDefault(q.Get("alpha"), defaultAlpha)
 	rng := deps.NewRNG(seed)
 
-	sourcePref := firstNonEmpty(q.Get("source"), q.Get("sourcePreference"), defaultSource)
-	sourceID := resolveSourceID(sourcePref)
-	if sourceID == "" {
-		WriteError(w, http.StatusBadRequest, "unknown_source", "未知来源: "+sourcePref)
-		return
+	// source 缺省 = 所有来源合并; 显式传则单来源
+	sourcePref := strings.TrimSpace(firstNonEmpty(q.Get("source"), q.Get("sourcePreference")))
+	isAllSource := sourcePref == ""
+	var sourceID string
+	if !isAllSource {
+		sourceID = resolveSourceID(sourcePref)
+		if sourceID == "" {
+			WriteError(w, http.StatusBadRequest, "unknown_source", "未知来源: "+sourcePref)
+			return
+		}
 	}
 
 	charDb, ok := deps.GetCharDb(ctx)
@@ -105,18 +137,25 @@ func handleRandom(w http.ResponseWriter, r *http.Request, deps *Deps) {
 	if strategy != "uniform" && strategy != "weighted" {
 		strategy = defaultStrategy
 	}
-	candidates := deps.GetCandidateDb(ctx, sourceID)
+
+	// 加载候选: 单来源 or 全部合并 (去重)
+	var candidates []core.CandidateName
+	if isAllSource {
+		candidates = loadAllCandidates(ctx, deps)
+	} else {
+		candidates = deps.GetCandidateDb(ctx, sourceID)
+	}
 	if len(candidates) == 0 {
-		// 该 source 未导入, 提示前端.
 		WriteError(w, http.StatusBadRequest, "source_empty", "来源无可选候选, 请检查来源 ID")
 		return
 	}
 
-	// 用 SourceConfig 取 label
-	sourceConfig := core.GetSourceConfig(sourceID)
-
 	// 跑核心查询 (取大池子供采样, 不切 limit)
-	query.SourcePreference = sourceID
+	if isAllSource {
+		query.SourcePreference = "default"
+	} else {
+		query.SourcePreference = sourceID
+	}
 	results, err := core.QueryNames(candidates, charDb, query)
 	if err != nil {
 		WriteError(w, http.StatusUnprocessableEntity, "surname_not_in_char_db", err.Error())
@@ -137,12 +176,13 @@ func handleRandom(w http.ResponseWriter, r *http.Request, deps *Deps) {
 		public = append(public, core.ToPublicResult(sc))
 	}
 
+	// 响应里的 source 字段: 单来源时给 id/label/count; 全来源时 id="all"
 	resp := RandomResponse{
 		Query: query,
 		Source: RandomSourceLabel{
-			ID:    sourceID,
-			Label: sourceConfig.Label,
-			Count: len(candidates),
+			ID:     ternaryString(isAllSource, "all", sourceID),
+			Label:  ternaryString(isAllSource, "全部来源", core.GetSourceConfig(sourceID).Label),
+			Count:  len(candidates),
 		},
 		Strategy:      strategy,
 		Seed:          seed,
@@ -152,6 +192,13 @@ func handleRandom(w http.ResponseWriter, r *http.Request, deps *Deps) {
 
 	// 限流与认证由 middleware 在 chain 中调用时设置 RateLimitInfo; 这里默认 nil.
 	EncodeJSON(w, http.StatusOK, resp, nil, AuthedFromCtx(ctx))
+}
+
+func ternaryString(cond bool, ifTrue, ifFalse string) string {
+	if cond {
+		return ifTrue
+	}
+	return ifFalse
 }
 
 // resolveSourceID 接受 id 或中文 label, 返回标准 id. 不支持时返回 "".
