@@ -13,6 +13,7 @@ import (
 	"time"
 
 	"github.com/namegen/server/internal/config"
+	"github.com/namegen/server/internal/core"
 	"github.com/namegen/server/internal/db"
 )
 
@@ -167,6 +168,18 @@ func main() {
 			os.Exit(1)
 		}
 		slog.Info("surnames 导入完成", "count", n)
+
+		// 5) 校验 surnames 中每个姓是否真能生成至少 1 个名字; 不能的删掉
+		removed, err := validateSurnames(ctx, pool, charsCount > 0)
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "校验 surnames 失败: %v\n", err)
+			os.Exit(1)
+		}
+		if len(removed) > 0 {
+			slog.Info("surnames 删除不可用姓", "count", len(removed), "samples", removed[:min(10, len(removed))])
+		} else {
+			slog.Info("surnames 全部可用, 无需删除")
+		}
 	} else {
 		slog.Warn("baijiaxing.json 不存在, 跳过 surnames 导入", "path", baiPath)
 	}
@@ -428,4 +441,142 @@ func importSurnames(ctx context.Context, pool *db.Pool, path string) (int, error
 		return 0, err
 	}
 	return finalCount, nil
+}
+
+// validateSurnames 校验 surnames 表中每个姓是否真能在至少一个来源产生 ≥1 个通过规则的名字.
+// 不能者从 surnames 表 DELETE, 保证 pickRandomSurname 抽到的姓不会让 /api/random 返空.
+// 用 core.HasAnyPassingCandidate 早返回 (找到第 1 个通过即停), 大源 ~5-50ms 每姓每来源.
+func validateSurnames(ctx context.Context, pool *db.Pool, charDbLoaded bool) ([]string, error) {
+	rows, err := pool.Query(ctx, "SELECT char FROM surnames ORDER BY char")
+	if err != nil {
+		return nil, fmt.Errorf("query surnames: %w", err)
+	}
+	var surnames []string
+	for rows.Next() {
+		var s string
+		if err := rows.Scan(&s); err != nil {
+			rows.Close()
+			return nil, err
+		}
+		surnames = append(surnames, s)
+	}
+	rows.Close()
+	if len(surnames) == 0 {
+		return nil, nil
+	}
+
+	// 一次性加载 charDb + 每个 source 的候选名 (hydrate 后进程内复用)
+	charDb := loadCharsForValidate(ctx, pool)
+	if len(charDb) == 0 {
+		return nil, fmt.Errorf("charDb 为空, 无法校验 surnames")
+	}
+
+	sourceIDs := []string{"wealth", "academic", "modern_people", "imperial_exam", "ancient_names"}
+	sourceCands := make(map[string][]core.CandidateName, len(sourceIDs))
+	for _, sid := range sourceIDs {
+		cands := loadCandidatesSimpleForValidate(ctx, pool, sid, charDb)
+		slog.Info("validate 加载 source 候选", "source", sid, "count", len(cands))
+		sourceCands[sid] = cands
+	}
+
+	var failed []string
+	for _, surname := range surnames {
+		anyOk := false
+		for _, sid := range sourceIDs {
+			ok, err := core.HasAnyPassingCandidate(sourceCands[sid], charDb, surname)
+			if err != nil {
+				// 姓氏不在字库等, 视为不可用
+				continue
+			}
+			if ok {
+				anyOk = true
+				break
+			}
+		}
+		if !anyOk {
+			failed = append(failed, surname)
+		}
+	}
+	slog.Info("validate 完成", "total", len(surnames), "passed", len(surnames)-len(failed), "failed", len(failed))
+	if len(failed) > 0 {
+		if _, err := pool.Exec(ctx, "DELETE FROM surnames WHERE char = ANY($1::text[])", failed); err != nil {
+			return failed, fmt.Errorf("DELETE surnames: %w", err)
+		}
+	}
+	return failed, nil
+}
+
+func loadCharsForValidate(ctx context.Context, pool *db.Pool) core.CharDb {
+	rows, err := pool.Query(ctx, `
+		SELECT char, pinyin, tone, pinyin_no_tone,
+			initial, initial_method, initial_place,
+			vowel, vowel_type, count, is_polyphone
+		FROM chars`)
+	if err != nil {
+		slog.Error("load chars for validate", "err", err)
+		return nil
+	}
+	defer rows.Close()
+	m := make(core.CharDb, 8000)
+	for rows.Next() {
+		var c core.CharInfo
+		if err := rows.Scan(&c.Char, &c.Pinyin, &c.Tone, &c.PinyinNoTone,
+			&c.Initial, &c.InitialMethod, &c.InitialPlace,
+			&c.Vowel, &c.VowelType, &c.Count, &c.IsPolyphone); err != nil {
+			slog.Error("scan char validate", "err", err)
+			return nil
+		}
+		m[c.Char] = c
+	}
+	return m
+}
+
+func loadCandidatesSimpleForValidate(ctx context.Context, pool *db.Pool, sourceID string, charDb core.CharDb) []core.CandidateName {
+	crows, err := pool.Query(ctx, `SELECT name FROM candidates WHERE source_id = $1`, sourceID)
+	if err != nil {
+		return nil
+	}
+	var compact []string
+	for crows.Next() {
+		var n string
+		if err := crows.Scan(&n); err != nil {
+			crows.Close()
+			return nil
+		}
+		compact = append(compact, n)
+	}
+	crows.Close()
+
+	srows, err := pool.Query(ctx, `
+		SELECT c.name, n.source_name
+		FROM candidates c
+		JOIN name_source_names n ON n.candidate_id = c.id
+		WHERE c.source_id = $1`, sourceID)
+	if err != nil {
+		return core.HydrateCandidateDb(core.HydrateInput{
+			Data: compact, SourceID: sourceID, CharDb: charDb,
+		})
+	}
+	defer srows.Close()
+	nameToSrc := make(map[string][]string)
+	for srows.Next() {
+		var name, sn string
+		if err := srows.Scan(&name, &sn); err != nil {
+			return nil
+		}
+		nameToSrc[name] = append(nameToSrc[name], sn)
+	}
+	return core.HydrateCandidateDb(core.HydrateInput{
+		Data:              compact,
+		SourceID:          sourceID,
+		CharDb:           charDb,
+		SourceNamesByName: nameToSrc,
+	})
+}
+
+func min(a, b int) int {
+	if a < b {
+		return a
+	}
+	return b
 }
