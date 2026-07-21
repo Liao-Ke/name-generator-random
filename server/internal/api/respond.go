@@ -41,9 +41,19 @@ type ErrorMessage struct {
 	Message string `json:"message,omitempty"`
 }
 
-// WriteError 写 HTTP 错误响应, 不带限流头.
+const helpHint = "详见 GET /api/help"
+
+// appendHelp 在错误 message 末尾附加 help 引导.
+func appendHelp(msg string) string {
+	if msg == "" {
+		return helpHint
+	}
+	return msg + "。" + helpHint
+}
+
+// WriteError 写 HTTP 错误响应, 不带限流头. message 自动带 help 引导.
 func WriteError(w http.ResponseWriter, status int, code, msg string) {
-	EncodeJSON(w, status, ErrorMessage{Error: code, Message: msg}, nil, false)
+	EncodeJSON(w, status, ErrorMessage{Error: code, Message: appendHelp(msg)}, nil, false)
 }
 
 // WriteRateLimited 写 429 + Retry-After + 限流头. 仅匿名超额时调用.
@@ -58,7 +68,7 @@ func WriteRateLimited(w http.ResponseWriter, msg string, rate RateLimitInfo, ret
 		h.Set("Retry-After", strconv.Itoa(retryAfterSec))
 	}
 	w.WriteHeader(http.StatusTooManyRequests)
-	_ = json.NewEncoder(w).Encode(ErrorMessage{Error: "rate_limited", Message: msg})
+	_ = json.NewEncoder(w).Encode(ErrorMessage{Error: "rate_limited", Message: appendHelp(msg)})
 }
 
 func boolStr(b bool) string {

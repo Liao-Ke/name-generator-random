@@ -40,8 +40,8 @@ pnpm install --ignore-scripts
 pnpm exec tsx scripts/generateFixtures.ts
 # 输出到 server/testdata/fixtures/*.json (12 个)
 
-# 2) Go 对照测试
-cd server && go test ./internal/core
+# 2) Go 对照测试（integration：需可连 PG）
+cd server && go test -tags=integration ./internal/core
 ```
 
 fixtures 不包含 char_db（约 1.6MB），测试时直接从 PG 拉取字库与候选; 见 `core_test.go`。

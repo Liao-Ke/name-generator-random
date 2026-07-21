@@ -12,7 +12,6 @@
 ### 1. 起 PG + 导入数据
 
 ```bash
-# 起 PG 容器 (5433 端口)
 podman compose up -d postgres
 
 # 等 healthy
@@ -22,28 +21,20 @@ for i in $(seq 1 15); do
   sleep 1
 done
 
-# 一次性导入 JSON → PG
+# 一次性导入 JSON → PG（含 surnames）
 POSTGRES_DSN="postgres://namegen:namegen@localhost:5433/namegen?sslmode=disable" \
   CANDIDATE_DATA_DIR="$PWD/api/database/candidate" \
   go run ./cmd/import
 ```
 
-预期输出:
+在 `server/` 目录执行时把 `CANDIDATE_DATA_DIR` 指到仓库根下的 candidate 目录。
 
-```
-INFO 开始导入 dataDir=api/database/candidate
-INFO chars 导入完成 count=7474
-INFO sources 导入完成 count=5
-INFO candidates 导入完成 source=wealth count=57327
-INFO name_source_names 导入完成 source=wealth count=159345
-... (5 个来源逐个完成)
-INFO 导入完成 chars=7474 sources=5 candidates=163089 name_source_names=223405
-INFO 行数对照通过 candidates=163089 expected=163089
-```
+预期日志含：`chars` / `sources` / 各源 `candidates` / `name_source_names` / `surnames` / `行数对照通过`。
 
 ### 2. 启动 API
 
 ```bash
+# 在 server/ 下
 POSTGRES_DSN="postgres://namegen:namegen@localhost:5433/namegen?sslmode=disable" \
   API_LISTEN_ADDR=":8080" \
   RATE_LIMIT_RPM=30 \
@@ -51,7 +42,7 @@ POSTGRES_DSN="postgres://namegen:namegen@localhost:5433/namegen?sslmode=disable"
   go run ./cmd/api
 ```
 
-或编译为二进制:
+或：
 
 ```bash
 go build -o ./bin/api ./cmd/api
@@ -62,6 +53,8 @@ go build -o ./bin/api ./cmd/api
 
 ```bash
 curl http://localhost:8080/api/health
+curl http://localhost:8080/api/help
+curl "http://localhost:8080/api/random?n=3"                    # 随机姓 + 全源 + uniform
 curl "http://localhost:8080/api/random?surname=姚&n=3&source=academic&strategy=weighted"
 curl "http://localhost:8080/api/name/姚悟移?source=academic"
 ```
@@ -70,68 +63,51 @@ curl "http://localhost:8080/api/name/姚悟移?source=academic"
 
 ```bash
 POSTGRES_DSN="..." go run ./cmd/keymgmt issue --label "租户A"
-# 输出: issued key=k_abcdef...  label=租户A
-
 POSTGRES_DSN="..." go run ./cmd/keymgmt list
 POSTGRES_DSN="..." go run ./cmd/keymgmt revoke --label "租户A"
+# 或 revoke --key k_...
 ```
 
-## 容器化部署 (生产)
+## 容器化部署
 
-### Dockerfile 多阶段构建
+### 镜像产物
 
-`server/Dockerfile` 把 api 编译为静态二进制, 在 alpine 上运行:
+`server/Dockerfile` 多阶段构建，最终镜像含：
 
-```dockerfile
-FROM golang:1.26-alpine AS build
-WORKDIR /src
-COPY go.mod go.sum ./
-RUN go mod download
-COPY . .
-RUN go build -o /out/api ./cmd/api
-
-FROM alpine:3.20
-RUN apk add --no-cache tini ca-certificates tzdata
-WORKDIR /app
-COPY --from=build /out/api /app/api
-EXPOSE 8080
-ENTRYPOINT ["/sbin/tini","--","/app/api"]
-```
+| 路径 | 用途 |
+|------|------|
+| `/app/api` | HTTP 服务（默认 ENTRYPOINT） |
+| `/app/import` | 一次性数据导入 |
+| `/app/keymgmt` | key 运维 CLI |
 
 ### 配置 env
 
-| env                  | 必填 | 默认 | 说明 |
-|----------------------|------|------|------|
-| `POSTGRES_DSN`         | 是  | —   | apgxxxxx dsn, 如 `postgres://u:p@host:5432/db?sslmode=disable` |
-| `API_LISTEN_ADDR`       | 否  | `:8080` | 监听地址 |
-| `CANDIDATE_DATA_DIR`     | 否  | `api/database/candidate` | 仅 import 脚本用 |
-| `RATE_LIMIT_RPM`         | 否  | `30`     | 匿名每分钟请求数 |
-| `RATE_LIMIT_BURST`       | 否  | `=RPM`   | 令牌桶容量 |
+| env | 必填 | 默认 | 说明 |
+|-----|------|------|------|
+| `POSTGRES_DSN` | 是 | — | 如 `postgres://u:p@host:5432/db?sslmode=disable` |
+| `API_LISTEN_ADDR` | 否 | `:8080` | 监听地址 |
+| `CANDIDATE_DATA_DIR` | 否 | `api/database/candidate` | **仅 import** |
+| `RATE_LIMIT_RPM` | 否 | `30` | 匿名每分钟请求数 |
+| `RATE_LIMIT_BURST` | 否 | `=RPM` | 令牌桶容量 |
 
-### 完整栈起
+### 完整栈
 
 ```bash
-podman compose up -d
-# 期望: postgres + api 两容器, api 容器需先有数据 → 进 api 容器跑一次 import
-podman exec namegen-api /app/api-import # (需把 import 也打入镜像或单独一InitContainer)
+podman compose up -d --build
+
+# 挂载候选 JSON 后一次性导入（compose 默认 api 服务未挂数据卷，需按需加 volume 或本机 import）
+podman run --rm --network container:namegen-pg \
+  -e POSTGRES_DSN="postgres://namegen:namegen@127.0.0.1:5432/namegen?sslmode=disable" \
+  -e CANDIDATE_DATA_DIR=/data/candidate \
+  -v "$PWD/api/database/candidate:/data/candidate:Z" \
+  $(podman build -q ./server) \
+  /app/import
+
+# key
+podman exec namegen-api /app/keymgmt issue --label "prod"
 ```
 
-当前 Dockerfile 仅编译 api. 想做 init import, 建议在 compose 加一个 `importer` one-shot 服务:
-
-```yaml
-importer:
-  build: ./server
-  command: ["sh","-c","/out/import"]
-  depends_on:
-    postgres: { condition: service_healthy }
-  environment:
-    POSTGRES_DSN: "..."
-    CANDIDATE_DATA_DIR: "/data/candidate"
-  volumes:
-    - ./api/database/candidate:/data/candidate:Z
-```
-
-(本仓库 Dockerfile 暂未走多 binary 模式, 待生产 SOP 落地时补.)
+可选：在 `docker-compose.yml` 增加 one-shot `importer` 服务，`command: ["/app/import"]`，挂载 `./api/database/candidate`，`depends_on: postgres healthy`。
 
 ## 回滚
 
@@ -139,20 +115,20 @@ importer:
 
 ```bash
 git revert <commit>
-podman compose restart api
+podman compose up -d --build api
 ```
 
-### DB 回滚 (危险, 会清数据)
+### DB 回滚 (危险, 清数据)
 
 ```bash
-psql -f server/internal/db/schema.down.sql  # 清五表 + api_keys
-psql -f server/internal/db/schema.sql        # 重建空表
-go run ./cmd/import                          # 重新导入
+psql "$POSTGRES_DSN" -f server/internal/db/schema.down.sql   # 6 表全删
+# 再起 api 或 import 会 ApplySchema 建空表
+go run ./cmd/import   # 重灌
 ```
 
 ### PG 卷回滚
 
-由于 PG 数据放在 `./.data/pg` 卷, 可备份该目录:
+数据在 `./.data/pg`：
 
 ```bash
 tar czf pg-backup.tgz ./.data/pg
@@ -165,14 +141,15 @@ podman compose up -d
 
 ## 监控 / 健康检查
 
-- `GET /api/health` 探活
-- `/api/random` 的 p95 见 `docs/arch/random-name-api.md` §性能现状
+- `GET /api/health` 探活（**计入匿名限流**；高频探活请带 key 或调高 RPM）
+- 性能见 `docs/arch/random-name-api.md` §性能现状
 
 ## 生产上线检查清单
 
-- [ ] `POSTGRES_DSN` SSL mode 改 `require` 或 `verify-full`, sslmode= 协议层加密
-- [ ] API 容器端口暴露在 nginx 后, nginx 设定 `X-Forwarded-For` 并丢弃不可信头
-- [ ] `RATE_LIMIT_RPM / BURST` 按预期流量调
-- [ ] 发放至少一个有效 api_keys 行, 验证带 key 时 `X-Authed-Authed: true`
-- [ ] `podman volume` 持久化路径正确, 重启不丢数据
-- [ ] 日志 (`slog` text to stderr) 接到集中日志方案
+- [ ] `POSTGRES_DSN` SSL 按环境收紧
+- [ ] API 在反代后；反代设置并清洗 `X-Forwarded-For`
+- [ ] `RATE_LIMIT_RPM / BURST` 按流量调
+- [ ] 已 import（含 surnames）
+- [ ] 至少一个有效 api_keys；验证 `X-Authed-Authed: true`
+- [ ] `.data/pg` 或外部卷持久化
+- [ ] slog stderr 接入日志收集

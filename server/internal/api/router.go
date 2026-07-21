@@ -16,6 +16,9 @@ func BuildMux(deps *Deps, authn *auth.Auth, rl *ratelimit.Limiter) *http.ServeMu
 	health := AuthMiddleware(authn)(RateLimitMiddleware(rl)(HealthHandler()))
 	mux.Handle("GET /api/health", health)
 
+	help := AuthMiddleware(authn)(RateLimitMiddleware(rl)(HelpHandler()))
+	mux.Handle("GET /api/help", help)
+
 	random := AuthMiddleware(authn)(RateLimitMiddleware(rl)(RandomHandler(deps)))
 	mux.Handle("GET /api/random", random)
 

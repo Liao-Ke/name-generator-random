@@ -91,6 +91,24 @@
 
 好了, 要介绍的就这么多. 祝大家起名愉快
 
+# HTTP API（Go）
+
+仓库另提供基于 PostgreSQL 的随机起名 HTTP JSON API（与上方 Taro 前端独立）：
+
+- 接口说明: [docs/api/random-name.md](./docs/api/random-name.md)
+- 本地部署: [docs/deploy/random-name-api.md](./docs/deploy/random-name-api.md)
+- 库表: [docs/db/random-name-api.md](./docs/db/random-name-api.md)
+
+```bash
+podman compose up -d postgres
+# 在 server/ 下，CANDIDATE_DATA_DIR 指向仓库 api/database/candidate
+POSTGRES_DSN="postgres://namegen:namegen@localhost:5433/namegen?sslmode=disable" \
+  CANDIDATE_DATA_DIR="$PWD/../api/database/candidate" go run ./cmd/import
+POSTGRES_DSN="postgres://namegen:namegen@localhost:5433/namegen?sslmode=disable" \
+  go run ./cmd/api
+curl "http://localhost:8080/api/random?n=3"
+```
+
 # 联系作者
 
 欢迎关注

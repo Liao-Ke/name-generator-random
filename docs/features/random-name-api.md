@@ -9,51 +9,62 @@
 
 | 路径 | 类型 | 说明 |
 |------|------|------|
-| `docker-compose.yml`                                | 新增 | Postgres 16 + api 两服务 |
-| `server/go.mod` `server/go.sum`                      | 新增 | module `github.com/namegen/server` |
-| `server/Dockerfile`                                  | 新增 | 多阶段构建占位, 等 cmd 产物落地 |
-| `server/internal/db/`                                | 新增 | `pg.go` (连接池 + schema up/down) / `schema.sql` / `schema.down.sql` |
-| `server/internal/config/config.go`                  | 新增 | env 读取 |
-| `server/cmd/import/`                                 | 新增 | JSON → PG 一次性导入 (char_db / source_index / candidates / name_source_names) |
-| `server/internal/core/`                              | 新增 | 9 文件镜像 `packages/name-core/src` |
-| `server/internal/core/PORTING.md`                    | 新增 | TS↔Go 文件映射 + 已知差异 |
-| `server/internal/core/core_test.go`                  | 新增 | 集成 (`+build integration`), 12 套 fixture 对照 |
-| `server/testdata/fixtures/*.json`                    | 新增 | 12 套 fixtures (limit=200) |
-| `scripts/generateFixtures.ts`                        | 新增 | 一次性 tsx 脚本生成 fixtures |
-| `server/internal/sampler/sampler.go` + `_test.go`   | 新增 | uniform / weighted 采样 |
-| `server/internal/api/`                               | 新增 | router / handlers / middleware / deps / respond |
-| `server/internal/auth/`                              | 新增 | api_keys PG 校验 + 30s 缓存 + ConstantTimeCompare |
-| `server/internal/ratelimit/`                          | 新增 | 自写 token bucket, 不引 x/time/rate |
-| `server/cmd/api/main.go`                             | 新增 | 启动入口, 优雅停机 |
-| `server/cmd/keymgmt/main.go`                          | 新增 | key 运维 CLI: issue / list / revoke |
-| `docs/prd/random-name-api.md`                        | 新增 | PRD |
-| `docs/arch/random-name-api.md`                       | 新增 | 架构描述 |
-| `docs/api/random-name.md`                            | 新增 | 接口文档 |
-| `docs/features/random-name-api.md`                  | 本文件 | 功能记录 |
+| `docker-compose.yml` | 新增 | Postgres 16 + api 两服务 |
+| `server/go.mod` `server/go.sum` | 新增 | module `github.com/namegen/server` |
+| `server/Dockerfile` | 新增 | 多阶段；产出 api / import / keymgmt 三二进制 |
+| `server/internal/db/` | 新增 | `pg.go` + `schema.sql` / `schema.down.sql`（6 表） |
+| `server/internal/config/config.go` | 新增 | env 读取 |
+| `server/cmd/import/` | 新增 | JSON → PG（chars / sources / candidates / name_source_names / surnames） |
+| `server/internal/core/` | 新增 | 9 文件镜像 `packages/name-core/src` |
+| `server/internal/core/PORTING.md` | 新增 | TS↔Go 映射 + 已知差异 |
+| `server/internal/core/core_test.go` | 新增 | `//go:build integration`, 12 套 fixture |
+| `server/testdata/fixtures/*.json` | 新增 | 12 套 fixtures |
+| `scripts/generateFixtures.ts` | 新增 | 生成 fixtures |
+| `server/internal/sampler/` | 新增 | uniform / weighted |
+| `server/internal/api/` | 新增 | router / handlers / middleware / deps / respond |
+| `server/internal/auth/` | 新增 | api_keys + 缓存 |
+| `server/internal/ratelimit/` | 新增 | 自写 token bucket |
+| `server/cmd/api/main.go` | 新增 | 启动入口 |
+| `server/cmd/keymgmt/main.go` | 新增 | issue / list / revoke |
+| `docs/prd|arch|api|db|features|deploy/random-name-*.md` | 新增/维护 | 文档体系 |
 
-仅修改: 根 `.gitignore` (新增 `.data/` 忽略 PG 数据卷).
+仅修改: 根 `.gitignore` (`.data/` 忽略 PG 数据卷).
 
 ## 验证方式
 
 | 验证项 | 命令 | 通过标准 |
 |--------|------|----------|
-| Schema up/down 幂等 | `podman compose up -d postgres`; `psql < schema.sql && psql < schema.down.sql` | 各 5 表建/清   |
-| JSON → PG 导入        | `go run ./cmd/import`                                          | chars=7474 / sources=5 / candidates=163089 / name_source_names=223405 |
-| core 与 TS 对照       | `go test -tags=integration ./internal/core`                    | 12 fixture / 30 score group PASS (评分字段严格集对齐) |
-| health / random / name | `curl localhost:18080/api/...`                                | 见接口文档示例 |
-| 限流匿名 429 突刺     | `go test -tags=integration ./internal/api`                    | +`TestRateLimit_*` PASS |
-| key 全链             | `keymgmt issue/list/revoke`; 用 key 调 `health` 见 `X-Authed-Authed: true` | 通过 |
-| 部署                  | `podman compose up`                                            | 起双服务, `curl /api/health` 200 |
+| Schema up/down | `podman compose up -d postgres` + ApplySchema | 6 表建/清 |
+| JSON → PG 导入 | `go run ./cmd/import` | chars/sources/candidates 对照 source_index；surnames 有日志 |
+| core 与 TS 对照 | `go test -tags=integration ./internal/core` | 12 fixture PASS |
+| health / help / random / name | `curl localhost:8080/api/...` | 见接口文档 |
+| 限流 | `go test -tags=integration ./internal/api` | RateLimit 相关 PASS |
+| key 全链 | `keymgmt issue/list/revoke` + 带 key 请求 | `X-Authed-Authed: true` |
+| 部署 | `podman compose up` | 双服务；容器内可 `/app/import` |
+
+## 增量: /api/help + 错误引导 (2026-07-21)
+
+| 路径 | 说明 |
+|------|------|
+| `handler_help.go` | `GET /api/help` |
+| `respond.go` | 错误 message 末尾 `。详见 GET /api/help` |
+
+## 增量: 缺省行为 + surnames (对齐当前代码)
+
+| 行为 | 实现 |
+|------|------|
+| `strategy` 默认 `uniform` | `handler_random.go` `defaultStrategy` |
+| `source` 缺省 = 五源合并去重 | `loadAllCandidates`；响应 `source.id="all"` |
+| `surname` 缺省 = 百家姓随机 | PG `surnames` + `pickRandomSurname`；空表兜底「张」 |
+| import 写 surnames | `baijiaxing.json` + char 过滤 + validateSurnames |
+| Dockerfile | `/app/api` `/app/import` `/app/keymgmt` |
 
 ## 已知限制
 
-1. **大源 p95 不达标** — wealth 57k 起 modern 60k 起, QueryNames 缓存命中后仍 ~270-310 ms,
-   高于 PRD 100ms 目标. 缓解策略见 `docs/arch/random-name-api.md` §性能现状. 本期接受.
-2. **`localeCompare("zh-Hans-CN")` 同音符 Go 端不可复刻** — fixture 测试按同分数组集合严格比对
-   (单字段全等), 不验证同分内部排序次序. random/handler 语义不依赖该排序.
-3. **`X-Forwarded-For` 默认信任** — 部署在 nginx 之后时, 必须由前置 nginx 设定 trusted proxies 并清
-   掉不可信 XFF, 否则匿名限流可被伪造头绕过.
-4. **PG 容器初始化未自动跑 schema** — 当前 compose 不挂 schema.sql 到 docker-entrypoint-initdb.d.
-   部署文档要求: 起容器后, 运行 `cmd/import` (会 ApplySchema + 灌数据) 或
-   `cmd/api` (会 ApplySchema 后空表启动). 由生产 SOP 落地.
-5. **单进程限流** — 不支持多副本共享限流; 横向扩展时需升 Redis.
+1. **大源 / 全源 p95 不达标** — 单源 wealth/modern ~270–310ms；全源更重。见 arch §性能.
+2. **`localeCompare("zh-Hans-CN")` 不可复刻** — fixture 按同分数组集合比对，不验组内序.
+3. **`X-Forwarded-For` 默认信任** — 前置代理须清洗不可信 XFF.
+4. **compose 不自动 import** — 起 PG 后需跑 `/app/import` 或本机 `go run ./cmd/import`.
+5. **单进程限流** — 多副本不共享桶.
+6. **成功响应无 RateLimit 头** — 仅 429 带 `X-RateLimit-*` / `Retry-After`.
+7. **help/health 计入匿名限流** — 与业务接口共用桶，探活频繁可能触发 429.
