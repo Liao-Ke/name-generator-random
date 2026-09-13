@@ -14,7 +14,7 @@ type CandidateName struct {
 	SourceReasons []string          `json:"sourceReasons"`
 	SourceNames   []string          `json:"sourceNames,omitempty"`
 	Chars         [2]string         `json:"chars"`
-	Flags         CandidateFlags   `json:"flags"`
+	Flags         CandidateFlags    `json:"flags"`
 }
 
 type CandidateFlags struct {
@@ -31,7 +31,7 @@ type CharInfo struct {
 	PinyinNoTone  string `json:"pinyinWithoutTone"`
 	Initial       string `json:"initial"`
 	InitialMethod string `json:"initialMethod"`
-	InitialPlace string `json:"initialPlace"`
+	InitialPlace  string `json:"initialPlace"`
 	Vowel         string `json:"vowel"`
 	VowelType     string `json:"vowelType"`
 	Count         int    `json:"count"`
@@ -116,29 +116,29 @@ type ScoreBreakdown struct {
 
 // ScoredCandidate 评分后的候选. 对齐 TS.ScoredCandidate.
 type ScoredCandidate struct {
-	FullName  string           `json:"fullName"`
-	Name      string           `json:"name"`
-	Score     int             `json:"score"`
-	Breakdown ScoreBreakdown   `json:"breakdown"`
-	Candidate CandidateName    `json:"candidate"`
-	Chars     [2]CharInfo      `json:"chars"`
-	Phonetic  PhoneticResult   `json:"phonetic"`
-	Semantic  SemanticResult   `json:"semantic"`
-	Reasons   []string         `json:"reasons"`
+	FullName  string         `json:"fullName"`
+	Name      string         `json:"name"`
+	Score     int            `json:"score"`
+	Breakdown ScoreBreakdown `json:"breakdown"`
+	Candidate CandidateName  `json:"candidate"`
+	Chars     [2]CharInfo    `json:"chars"`
+	Phonetic  PhoneticResult `json:"phonetic"`
+	Semantic  SemanticResult `json:"semantic"`
+	Reasons   []string       `json:"reasons"`
 }
 
 // PublicResult 对外发布的精简结构. 对齐 TS.toPublicResult 的输出顺序.
 type PublicResult struct {
-	FullName     string         `json:"fullName"`
-	Name         string         `json:"name"`
-	Score        int            `json:"score"`
-	Breakdown    ScoreBreakdown `json:"breakdown"`
-	Sources      []string       `json:"sources"`
-	SourceNames  []string       `json:"sourceNames"`
-	Pinyin       []string       `json:"pinyin"`
-	TonePattern  string         `json:"tonePattern"`
-	Semantic     string         `json:"semantic"`
-	Phonetic     string         `json:"phonetic"`
-	Reasons      []string       `json:"reasons"`
-	Explanation  string         `json:"explanation"`
+	FullName    string         `json:"fullName"`
+	Name        string         `json:"name"`
+	Score       int            `json:"score"`
+	Breakdown   ScoreBreakdown `json:"breakdown"`
+	Sources     []string       `json:"sources"`
+	SourceNames []string       `json:"sourceNames"`
+	Pinyin      []string       `json:"pinyin"`
+	TonePattern string         `json:"tonePattern"`
+	Semantic    string         `json:"semantic"`
+	Phonetic    string         `json:"phonetic"`
+	Reasons     []string       `json:"reasons"`
+	Explanation string         `json:"explanation"`
 }

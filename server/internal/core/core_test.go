@@ -20,11 +20,11 @@ import (
 )
 
 type fixture struct {
-	Query         core.QueryConfig `json:"query"`
-	SourceID      string           `json:"sourceId"`
-	SourceLabel   string           `json:"sourceLabel"`
-	CandidateCount int             `json:"candidateCount"`
-	Results       []core.PublicResult `json:"results"`
+	Query          core.QueryConfig    `json:"query"`
+	SourceID       string              `json:"sourceId"`
+	SourceLabel    string              `json:"sourceLabel"`
+	CandidateCount int                 `json:"candidateCount"`
+	Results        []core.PublicResult `json:"results"`
 }
 
 // loadCharDb 从 PG 一次性加载全字库.
@@ -240,16 +240,16 @@ func TestQueryNamesFixtureParity(t *testing.T) {
 				got = append(got, core.ToPublicResult(r))
 			}
 
-if len(got) != len(fix.Results) {
-			t.Fatalf("结果数 DB %d / fixture %d; 前5 DB=%v", len(got), len(fix.Results),
-				takeFirst(got, 5))
-		}
-		totalResults += len(got)
+			if len(got) != len(fix.Results) {
+				t.Fatalf("结果数 DB %d / fixture %d; 前5 DB=%v", len(got), len(fix.Results),
+					takeFirst(got, 5))
+			}
+			totalResults += len(got)
 
-		// 同分数组内排序受 Node localeCompare("zh-Hans-CN") 的 ICU 实现支配,
-		// Go 端无法 1:1 复刻。改为: 按 score 分组, 同 score 组内当作无序集合严格逐字段比对。
-		compareGroupsByScore(t, fix.Results, got)
-		checkedResults += len(got)
+			// 同分数组内排序受 Node localeCompare("zh-Hans-CN") 的 ICU 实现支配,
+			// Go 端无法 1:1 复刻。改为: 按 score 分组, 同 score 组内当作无序集合严格逐字段比对。
+			compareGroupsByScore(t, fix.Results, got)
+			checkedResults += len(got)
 		})
 	}
 

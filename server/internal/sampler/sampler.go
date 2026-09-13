@@ -14,11 +14,11 @@ import (
 // SampleInput 通用入参.
 // Alpha 控制 weighted 模式的锐度, 默认 0.15 (top 20% 拿约 50% 概率).
 type SampleInput struct {
-	Results []core.ScoredCandidate
-	N       int
-	Strategy string           // "weighted" | "uniform"
-	Alpha   float64           // weighted 用的锐度, <=0 时取默认 0.15
-	Seed    int64             // 随机种子, 0 表示每次随机
+	Results  []core.ScoredCandidate
+	N        int
+	Strategy string  // "weighted" | "uniform"
+	Alpha    float64 // weighted 用的锐度, <=0 时取默认 0.15
+	Seed     int64   // 随机种子, 0 表示每次随机
 }
 
 // Sample 返回采样后的 ScoredCandidate 切片, 长度 min(N, len(results)).

@@ -40,9 +40,9 @@ func fallbackSourceNames(sourceID, name string) []string {
 
 // HydrateInput hydrateCandidateDb 的入参.
 type HydrateInput struct {
-	Data             []string           // 紧凑名列表
-	SourceID         string
-	CharDb           CharDb
+	Data              []string // 紧凑名列表
+	SourceID          string
+	CharDb            CharDb
 	SourceNamesByName map[string][]string // 可空
 }
 

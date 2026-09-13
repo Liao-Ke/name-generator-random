@@ -11,8 +11,8 @@ import (
 
 // Limiter per-IP 限流器.
 type Limiter struct {
-	rpm   int
-	burst int
+	rpm     int
+	burst   int
 	buckets sync.Map // ip -> *bucket
 	stopCh  chan struct{}
 }
@@ -79,7 +79,7 @@ func (l *Limiter) Allow(ip string) (bool, Info, int) {
 		ratePerSec := float64(l.rpm) / 60.0
 		resetIn := time.Duration(0)
 		if deficit > 0 && ratePerSec > 0 {
-			resetIn = time.Duration(deficit/ratePerSec*float64(time.Second))
+			resetIn = time.Duration(deficit / ratePerSec * float64(time.Second))
 		}
 		return true, Info{Limit: l.rpm, Remaining: rem, ResetUnix: now.Add(resetIn).Unix()}, 0
 	}

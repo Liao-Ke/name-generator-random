@@ -2,10 +2,11 @@
 // 不暴露 HTTP 端点 (YAGNI), 仅运维通过 SSH/容器内执行.
 //
 // 用法:
-//   go run ./cmd/keymgmt issue  --label "租户 X"     # 发放新 key
-//   go run ./cmd/keymgmt list                     # 列所有有效 key
-//   go run ./cmd/keymgmt revoke --key KEY         # 吊销某 key
-//   go run ./cmd/keymgmt revoke --label "租户 X"  # 按 label 吊销
+//
+//	go run ./cmd/keymgmt issue  --label "租户 X"     # 发放新 key
+//	go run ./cmd/keymgmt list                     # 列所有有效 key
+//	go run ./cmd/keymgmt revoke --key KEY         # 吊销某 key
+//	go run ./cmd/keymgmt revoke --label "租户 X"  # 按 label 吊销
 package main
 
 import (

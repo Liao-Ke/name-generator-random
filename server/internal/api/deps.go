@@ -35,9 +35,9 @@ type Deps struct {
 // NewDeps 构造依赖容器. 需要已建好的 PG 连接池.
 func NewDeps(pool *db.Pool) *Deps {
 	return &Deps{
-		Pool:      pool,
+		Pool:       pool,
 		candidates: make(map[string][]core.CandidateName, 5),
-		globalRng: rand.New(rand.NewSource(time.Now().UnixNano())),
+		globalRng:  rand.New(rand.NewSource(time.Now().UnixNano())),
 	}
 }
 

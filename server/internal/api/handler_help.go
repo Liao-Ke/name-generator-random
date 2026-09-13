@@ -17,12 +17,12 @@ type helpParam struct {
 }
 
 type helpEndpoint struct {
-	Method  string                `json:"method"`
-	Path    string                `json:"path"`
-	Auth    string                `json:"auth"`
-	Summary string                `json:"summary"`
-	Query   map[string]helpParam  `json:"query,omitempty"`
-	Errors  []string              `json:"errors,omitempty"`
+	Method  string               `json:"method"`
+	Path    string               `json:"path"`
+	Auth    string               `json:"auth"`
+	Summary string               `json:"summary"`
+	Query   map[string]helpParam `json:"query,omitempty"`
+	Errors  []string             `json:"errors,omitempty"`
 }
 
 type helpSource struct {
