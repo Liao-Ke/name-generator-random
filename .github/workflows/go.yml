@@ -1,0 +1,57 @@
+# Go 代码检查与单元测试.
+#
+# 为什么单独一个 workflow: 仓库原有的 deploy.yml 负责 H5 发布, 与 Go 服务端无关;
+# 这里只管 server/ 下的 Go 代码, 并在 GitHub 侧形成"格式/静态检查/单测"卡口.
+#
+# CI 不跑集成测试(-tags=integration): 那些用例需要 PostgreSQL 与真实数据导入,
+# 连不上时会静默 Skip, 放进 CI 只会给出虚假的绿色. 集成测试请按 docs/deploy 起容器后本地执行.
+name: go
+
+on:
+  push:
+    paths:
+      - "server/**"
+      - ".github/workflows/go.yml"
+  pull_request:
+    paths:
+      - "server/**"
+      - ".github/workflows/go.yml"
+  workflow_dispatch:
+
+env:
+  # go.mod 声明 go 1.26; 固定工具链避免 runner 上无法解析更新的版本指令.
+  GOTOOLCHAIN: local
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: server
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          # stable 取最新稳定版, 保证 >= go.mod 声明的 1.26
+          go-version: "stable"
+          cache-dependency-path: server/go.sum
+
+      - name: gofmt 格式检查
+        run: |
+          # 只检查 .go 文件: 避免 node_modules 等目录拖慢扫描
+          unformatted="$(find . -name '*.go' -type f -print0 | xargs -0 gofmt -l)"
+          if [ -n "$unformatted" ]; then
+            echo "::error::以下文件未通过 gofmt, 本地执行 'cd server && gofmt -w .' 后重试:"
+            echo "$unformatted"
+            # 附上差异, 便于在日志里直接看到需要改什么
+            find . -name '*.go' -type f -print0 | xargs -0 gofmt -d
+            exit 1
+          fi
+          echo "gofmt: 全部通过"
+
+      - name: go vet
+        run: go vet ./...
+
+      - name: 单元测试
+        run: go test -count=1 ./...
