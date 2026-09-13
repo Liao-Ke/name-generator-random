@@ -3,6 +3,7 @@ package api
 
 import (
 	"context"
+	"log/slog"
 	"math/rand"
 	"net/http"
 	"strconv"
@@ -58,7 +59,25 @@ func pickRandomSurname(surnames []string, rng *rand.Rand) string {
 
 // loadAllCandidates 合并全部来源的候选名, 按 name 去重 (保留首次出现的, 即 priority 高的来源).
 // 用于 source 缺省时一次 queryNames 调用覆盖所有来源.
+//
+// 结果在 deps 上缓存: 合并 13.8 万条实测要分配约 32MB 并耗时数十毫秒, 而候选池在进程内
+// 是静态的 (只有 cmd/import 会改库), 因此只需构造一次. 缓存后该函数的开销降为一次加锁.
+// NOTE 与 GetCandidateDb 同样的取舍: 不做过期, 库内容变更需重启进程.
 func loadAllCandidates(ctx context.Context, deps *Deps) []core.CandidateName {
+	deps.allMu.RLock()
+	if deps.allCandidates != nil {
+		cached := deps.allCandidates
+		deps.allMu.RUnlock()
+		return cached
+	}
+	deps.allMu.RUnlock()
+
+	deps.allMu.Lock()
+	defer deps.allMu.Unlock()
+	// 双检: 并发首访时只让一个请求做合并.
+	if deps.allCandidates != nil {
+		return deps.allCandidates
+	}
 	all := make([]core.CandidateName, 0, 163000)
 	seen := make(map[string]struct{}, 163000)
 	for _, sid := range allSourceIDs {
@@ -70,6 +89,8 @@ func loadAllCandidates(ctx context.Context, deps *Deps) []core.CandidateName {
 			all = append(all, c)
 		}
 	}
+	deps.allCandidates = all
+	slog.Info("全源候选已缓存", "count", len(all))
 	return all
 }
 

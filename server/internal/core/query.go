@@ -37,6 +37,21 @@ func NormalizeQueryConfig(query QueryConfig) QueryConfig {
 	return out
 }
 
+// lightResult 结果累积用的轻量中间体.
+//
+// 为什么需要它: ScoredCandidate 结构体实测 704 字节且含 11 个指针字段(字符串/切片),
+// 直接累积十万级结果会有两个代价 —— 切片扩容时反复复制重结构体(实测单次调用分配
+// 约 900MB), 以及 GC 扫描指针的 CPU 开销(实测占 CPU 约 40%).
+// 这里只保留排序与最终构造所必需的字段, 完整对象只为最终入选的 limit 条构造.
+type lightResult struct {
+	idx      int32  // 在 candidateDb 中的下标, 最终构造时直接取回候选, 避免再次查找
+	name     string // 2 字名
+	nameKey  string // 排序键: 逐字 "声母韵母(去调)+调号+原字符", 等价于 compareZhName
+	score    int
+	phonetic PhoneticResult
+	semantic SemanticResult
+}
+
 // QueryNames 主查询流程. 对齐 TS.queryNames.
 func QueryNames(candidateDb []CandidateName, charDb CharDb, query QueryConfig) ([]ScoredCandidate, error) {
 	normalized := NormalizeQueryConfig(query)
@@ -44,7 +59,7 @@ func QueryNames(candidateDb []CandidateName, charDb CharDb, query QueryConfig) (
 	if err != nil {
 		return nil, err
 	}
-	results := make([]ScoredCandidate, 0, 256)
+	light := make([]lightResult, 0, len(candidateDb))
 
 	for i := range candidateDb {
 		candidate := &candidateDb[i]
@@ -84,26 +99,79 @@ func QueryNames(candidateDb []CandidateName, charDb CharDb, query QueryConfig) (
 			continue
 		}
 
-		results = append(results, ScoreCandidate(ScoreCandidateInput{
-			Surname:   normalized.Surname,
-			Candidate: *candidate,
-			Chars:     chars,
-			Phonetic:  phonetic,
-			Semantic:  semantic,
-		}))
+		light = append(light, lightResult{
+			idx:      int32(i),
+			name:     candidate.Name,
+			nameKey:  nameSortKey(info0, info1),
+			score:    scoreTotal(*candidate, chars, phonetic, semantic),
+			phonetic: phonetic,
+			semantic: semantic,
+		})
 	}
 
-	sortResults(charDb, results)
-	if normalized.Limit > 0 && len(results) > normalized.Limit {
-		results = results[:normalized.Limit]
+	// 排序与截断都在轻量集合上做, 避免对重结构体排序/复制.
+	sortLight(light)
+	if normalized.Limit > 0 && len(light) > normalized.Limit {
+		light = light[:normalized.Limit]
+	}
+
+	// 只为最终入选结果构造完整对象 (含 Reasons 等字符串).
+	results := make([]ScoredCandidate, 0, len(light))
+	for i := range light {
+		lr := &light[i]
+		candidate := &candidateDb[lr.idx]
+		results = append(results, ScoreCandidate(ScoreCandidateInput{
+			Surname:    normalized.Surname,
+			Candidate:  *candidate,
+			Chars:      lightChars(charDb, lr.name),
+			Phonetic:   lr.phonetic,
+			Semantic:   lr.semantic,
+			TotalScore: lr.score,
+		}))
 	}
 	return results, nil
+}
+
+// nameSortKey 构造与 compareZhName 等价的排序键:
+// 逐字拼接 "拼音(去调)" + "调号" + 原字符(同拼同调时按 unicode 码点 tiebreak).
+// 与 compareZhName 的逐字比较顺序一致, 因此两种比较结果相同.
+func nameSortKey(a, b CharInfo) string {
+	return a.PinyinNoTone + itoaTone(a.Tone) + a.Char +
+		b.PinyinNoTone + itoaTone(b.Tone) + b.Char
+}
+
+// itoaTone 调号转单字符, 保证字典序与数值序一致 (调号仅 1-4).
+func itoaTone(t Tone) string {
+	if t < 0 || t > 9 {
+		return "?"
+	}
+	return string(rune('0' + t))
+}
+
+// lightLess 轻量集合的排序准则: score 降序, 同分按排序键升序.
+func lightLess(a, b lightResult) bool {
+	if a.score != b.score {
+		return a.score > b.score
+	}
+	return a.nameKey < b.nameKey
+}
+
+// sortLight 用 sort.Slice (非 stable) —— 排序键已包含字符本身,
+// 同名必然同键, 因此不存在"同键不同序"的稳定性依赖.
+func sortLight(rs []lightResult) {
+	sort.Slice(rs, func(i, j int) bool { return lightLess(rs[i], rs[j]) })
+}
+
+// lightChars 为最终构造取回 2 字名的字库信息 (已验证存在).
+func lightChars(charDb CharDb, name string) [2]CharInfo {
+	cs := SplitChars(name)
+	return [2]CharInfo{charDb[cs[0]], charDb[cs[1]]}
 }
 
 // sortResults 按 score 降序, 同分按 name 拼音字典序(node zh-Hans-CN 语义) 升序.
 // 算法: 主 key 拼音 (PinyinNoTone 字母序 + Tone 数值), tiebreak 用字符 unicode 码点.
 // 该实现刻意复刻 Node localeCompare("zh-Hans-CN") 行为; 未引入第三方 collate.
-// 使用 sort.SliceStable 保稳定 (TS 默认 Array.sort 是稳定, Go 不保证 stable 排序故锁死).
+// 保留本函数供对 ScoredCandidate 的既有调用方使用; QueryNames 内部走 sortLight.
 func sortResults(charDb CharDb, rs []ScoredCandidate) {
 	sort.SliceStable(rs, func(i, j int) bool {
 		if rs[i].Score != rs[j].Score {

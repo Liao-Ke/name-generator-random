@@ -63,7 +63,7 @@
 
 | 路径 | 改动 | 说明 |
 |------|------|------|
-| `internal/api/handler_random.go` | `query.Limit` 由常量 0 改为 `len(candidates)` | 0 会被 `NormalizeQueryConfig` 当"未设置"补成默认 30，导致采样池恒为 30 条：`n>30` 拿不到足量结果，`weighted` 在池内候选同分时退化为 `uniform`。显式上界与前端一致（前端随机排序时传 `candidateDb.length`）。通过率约 0.1%-0.3%，实际池子远小于候选数，不放大后续排序/采样成本 |
+| `internal/api/handler_random.go` | `query.Limit` 由常量 0 改为 `len(candidates)` | 0 会被 `NormalizeQueryConfig` 当"未设置"补成默认 30，导致采样池恒为 30 条：`n>30` 拿不到足量结果，`weighted` 在池内候选同分时退化为 `uniform`。显式上界与前端一致（前端随机排序时传 `candidateDb.length`）。真实库实测通过率约 40%-50%（全源 163089 → 去重 138856 → 通过 68210），池子远小于候选数，不放大后续排序/采样成本 |
 | `internal/api/middleware.go` | `clientIP` 由 XFF 首段改为末段 + 空值回退 `RemoteAddr` | 首段由客户端控制，每请求换一个伪造值即可获得全新限流桶，per-IP 限流形同虚设。末段是最近一跳（可信反代）写入的值 |
 | `internal/api/middleware_test.go` | 新增（无 build tag，随时可跑） | XFF 解析 7 例 + 无端口 `RemoteAddr` + 端到端守栏「伪造首段仍须触发 429」 |
 
@@ -88,6 +88,27 @@
   - `TestQueryNamesFixtureParity` 12 套 fixtures 逐源对照通过（2.2s），验证 Go 与 TS 内核在真实数据上严格一致
   - 限流 / 认证 / health 用例全部实际运行并通过
 - 端到端：`n=50` 真实返回 50 条（修复前恒为 30）；`n=100` 被 `maxNum` 正确截到 50
+
+## 增量: 性能优化 —— 全源 586ms → 260ms (2026-09)
+
+| 路径 | 改动 | 说明 |
+|------|------|------|
+| `internal/core/query.go` | 结果集改 `lightResult` 轻量中间体 | `ScoredCandidate` 实测 704 B / 11 指针字段，直接累积十万级结果导致扩容反复复制重结构体（单次调用分配 900 MB，GC 扫描占 CPU 40%）。改为累积 88 B 轻量体，排序截断后仅为入选的 limit 条构造完整对象 |
+| `internal/core/query.go` | 排序键预计算 | 原排序每次比较都 `SplitChars` + 两次 map 查找；改为填充时预计算逐字「拼音+调号+原字符」键，与 `compareZhName` 语义等价 |
+| `internal/core/score.go` | 新增 `scoreTotal` + `ScoreCandidateInput.TotalScore` | 一次求和供排序与最终构造复用，避免对同一候选二次累计 |
+| `internal/api/handler_random.go`、`deps.go` | 全源合并结果缓存 | 合并 13.8 万条去重实测分配约 32 MB；候选池进程内静态，改构造一次复用（双检锁）。首访 555 ms（含合并），热路径 247-273 ms |
+
+验证（PG 容器 + 真实库）：
+
+- `TestQueryNamesFixtureParity` **12 套 / 2091 条结果逐字段一致** —— 证明排序与截断语义未被改动
+- 全量 `-tags=integration ./...` 通过
+- 端到端：全源 586→247-273 ms、他山石 234→114 ms、学术 21→16 ms；采集分配 1361 MB→712 MB
+- `go vet` 通过；`sortResults` 保留供既有调用方使用
+
+实测推翻的两个假设（记录备查）：
+
+1. 加权采样不是瓶颈（uniform 246 ms vs weighted 238 ms，噪声级差异）
+2. 切片扩容不是主因（单做完整预分配仅改善约 9%）；主因是重结构体被反复复制
 
 ## 已知限制
 

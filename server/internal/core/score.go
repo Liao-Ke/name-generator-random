@@ -112,6 +112,20 @@ type ScoreCandidateInput struct {
 	Chars     [2]CharInfo
 	Phonetic  PhoneticResult
 	Semantic  SemanticResult
+	// TotalScore 非 0 时直接作为总分, 跳过内部累计.
+	// 供 QueryNames 复用已算好的分数, 避免对同一候选二次求和 (10 万级候选下是双倍算术).
+	// NOTE 0 表示"未提供", 走内部累计; 总分理论下限大于 0, 不会与真实值冲突.
+	TotalScore int
+}
+
+// scoreTotal 六项分项之和. QueryNames 一次算分, 供排序与最终构造共用.
+func scoreTotal(candidate CandidateName, chars [2]CharInfo, phonetic PhoneticResult, semantic SemanticResult) int {
+	return semantic.Score +
+		phonetic.Score +
+		scoreSource(candidate) +
+		scoreExplainability(candidate, phonetic, semantic) +
+		scoreCharQuality(chars) +
+		scoreRarity(chars)
 }
 
 // ScoreCandidate 主评分. 对齐 TS.scoreCandidate.
@@ -124,13 +138,11 @@ func ScoreCandidate(in ScoreCandidateInput) ScoredCandidate {
 		CharQuality:    scoreCharQuality(in.Chars),
 		Rarity:         scoreRarity(in.Chars),
 	}
-	score := 0
-	score += breakdown.Semantic
-	score += breakdown.Phonetic
-	score += breakdown.Source
-	score += breakdown.Explainability
-	score += breakdown.CharQuality
-	score += breakdown.Rarity
+	score := in.TotalScore
+	if score == 0 {
+		score = breakdown.Semantic + breakdown.Phonetic + breakdown.Source +
+			breakdown.Explainability + breakdown.CharQuality + breakdown.Rarity
+	}
 
 	sourceNames := make([]string, 0, len(in.Candidate.Sources))
 	for _, s := range in.Candidate.Sources {

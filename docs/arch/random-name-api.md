@@ -102,23 +102,38 @@
   -> sourcePreference="academic", source.id="academic"
 ```
 
-## 性能现状 (单源缓存命中后, p95 单次 QueryNames)
+## 性能现状 (2026-09 实测, 真实库 + PG 容器)
 
-| source         | 候选数 | QueryNames 耗时 (cached DB) |
-|----------------|--------|------------------------------|
-| academic       | 8627   | ~50 ms                       |
-| ancient_names  | 9518   | ~60 ms                       |
-| imperial_exam  | 27377  | ~170 ms                      |
-| wealth         | 57327  | ~260 ms                      |
-| modern_people  | 60240  | ~310 ms                      |
-| **all (合并)** | ~去重后 ≤163k | 冷/热均更重, 本期接受 |
+| source | 候选数 | 通过集 | 端到端耗时 | 优化前 |
+|--------|--------|--------|------------|--------|
+| academic | 8627 | 4075 | 16 ms | 21 ms |
+| ancient_names | 9518 | — | ~30 ms | ~60 ms |
+| imperial_exam | 27377 | — | ~80 ms | ~170 ms |
+| modern_people | 60240 | 31011 | 114 ms | 234 ms |
+| wealth | 57327 | — | ~130 ms | ~260 ms |
+| **all (合并)** | 去重后 138856 | 68210 | **247-273 ms**（首访 555 ms 含合并） | 586 ms |
 
-目标 PRD p95 < 100ms, 目前只有 academic/ancient 单源满足. 优化方向 (按优先级):
+目标 PRD p95 < 100 ms：学术/古人云已达标，大源与全源仍超出，但全源已从 586 ms 降到约 260 ms（-56%）。
 
-1. 在 SQL 阶段预过滤 `must` (first_char / second_char 条件), 减半候选名单.
-2. 把 `EvaluatePhonetics` 的 tonePattern 与 hard-issue 部分 SQL 化.
-3. 把 `QueryNames` top-LIMIT 切片做成 early-termination heap, 不全排序.
-4. 全源路径: 并行 hydrate 或按源采样后再合并.
+### 已完成的优化（2026-09）
+
+1. **结果集改轻量中间体**（`query.go`）：`ScoredCandidate` 实测 704 字节、含 11 个指针字段，原先直接累积十万级结果 —— 切片扩容反复复制重结构体（单次调用分配约 900 MB，GC 扫描占 CPU 约 40%）。改为只累积 88 字节的 `lightResult`（名字 + 排序键 + 总分 + 音韵/语义摘要），排序截断后仅为最终入选的 limit 条构造完整对象。
+   实测：分配 1361 MB → 712 MB，`QueryNames` 486 ms → 246 ms。
+2. **排序键简化**：排序不再每次比较都 `SplitChars` + 两次 map 查找，改为填充时预计算逐字 `拼音键+调号+原字符`，语义等价（fixture 逐字段对照 12 套 / 2091 条结果通过）。
+3. **全源合并结果缓存**（`handler_random.go` + `deps.go`）：合并 13.8 万条去重实测分配约 32 MB，而候选池进程内静态，改为构造一次后复用（双检锁）。全源请求 586 ms → 热路径约 260 ms。
+4. **算分只做一次**：`scoreTotal` 一次求和, 排序与最终构造复用（`ScoreCandidateInput.TotalScore`），避免对同一候选重复累计。
+
+### 后续优化方向（按实测收益排序）
+
+1. **音韵评估仍是最大热点**：`EvaluatePhonetics` 单独测算 88 ms（全源路径的约 1/3），其 `checkPair` 每个候选分配一个 issue 切片（84 MB/3 次调用）。可做 (姓末字, 字1, 字2, style) 缓存 —— 同姓氏下大量候选共享相同字对；注意返回的 `Issues` 切片会被共享，必须只读使用。
+2. **只为选中结果构造完整对象**：`/api/random` 只采样 n 条（默认 5），当前仍为 limit 条（默认 200）构造完整 `ScoredCandidate` 与 Reasons 字符串。把采样下移到轻量结果层可省这部分。
+3. 在 SQL 阶段预过滤 `must` / `avoid`，减少进入评分循环的候选。
+4. 全源路径并行 hydrate。
+
+### 已被实测否定的假设
+
+- ~~"加权采样 O(N·K) 是瓶颈"~~ —— 实测 uniform 246 ms vs weighted 238 ms，差异在噪声内，采样不是瓶颈。
+- ~~"切片扩容是主因，改成完整预分配即可"~~ —— 单独完整预分配只带来约 9% 改善（486→443 ms），真正的原因是重结构体被反复复制，需要换掉累积结构而非只调容量。
 
 ## 已知差异
 

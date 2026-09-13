@@ -23,6 +23,11 @@ type Deps struct {
 	candidateMu sync.RWMutex
 	candidates  map[string][]core.CandidateName
 
+	// allMu/allCandidates: source 缺省时用的"全源合并去重"结果, 构造一次后复用.
+	// 见 handler_random.go 的 loadAllCandidates.
+	allMu         sync.RWMutex
+	allCandidates []core.CandidateName
+
 	surnamesOnce sync.Once
 	surnames     []string
 
