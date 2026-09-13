@@ -41,3 +41,6 @@ api/database/extracted/name_tokens.json
 api/database/source/imperial_exam.records.json
 .data/
 .codegraph/
+
+# Go 构建缓存(本地验证用)
+.gocache/

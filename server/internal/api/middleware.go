@@ -4,6 +4,7 @@ package api
 import (
 	"context"
 	"net/http"
+	"strings"
 
 	"github.com/namegen/server/internal/auth"
 	"github.com/namegen/server/internal/ratelimit"
@@ -25,13 +26,13 @@ func AuthedFromCtx(ctx context.Context) bool {
 func AuthMiddleware(authn *auth.Auth) func(http.Handler) http.Handler {
 	return func(next http.Handler) http.Handler {
 		return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
-authed := false
-		key := ExtractAPIKey(r)
-		if key != "" {
-			authed = authn.IsValidKey(r.Context(), key)
-		}
-		ctx := context.WithValue(r.Context(), ctxKeyAuthed{}, authed)
-		next.ServeHTTP(w, r.WithContext(ctx))
+			authed := false
+			key := ExtractAPIKey(r)
+			if key != "" {
+				authed = authn.IsValidKey(r.Context(), key)
+			}
+			ctx := context.WithValue(r.Context(), ctxKeyAuthed{}, authed)
+			next.ServeHTTP(w, r.WithContext(ctx))
 		})
 	}
 }
@@ -78,15 +79,25 @@ func ExtractAPIKey(r *http.Request) string {
 	return ""
 }
 
-// clientIP 取最前的可信 X-Forwarded-For; 缺失回 RemoteAddr (去端口).
+// clientIP 取限流用的客户端 IP.
+//
+// SAFE 安全约束, 不可放宽: 只取 X-Forwarded-For 最后一段, 不取第一段.
+// 原因: 第一段由客户端完全控制, 攻击者每次换一个伪造值即可获得全新的限流桶,
+// 使 per-IP 限流失效. 末段是最近一跳(可信反代)写入的值.
+//
+// DEPEND 部署前提: 反向代理必须覆盖写入 XFF (如 nginx `proxy_set_header X-Forwarded-For $remote_addr`),
+// 而不是用 `$proxy_add_x_forwarded_for` 追加. 追加模式下末段仍是客户端可控值, 限流可被绕过;
+// 见 docs/deploy/random-name-api.md 上线检查清单.
 func clientIP(r *http.Request) string {
 	if xff := r.Header.Get("X-Forwarded-For"); xff != "" {
-		for i := 0; i < len(xff); i++ {
-			if xff[i] == ',' {
-				return xff[:i]
+		if i := strings.LastIndexByte(xff, ','); i >= 0 {
+			if last := strings.TrimSpace(xff[i+1:]); last != "" {
+				return last
 			}
+		} else if only := strings.TrimSpace(xff); only != "" {
+			return only
 		}
-		return xff
+		// XFF 为空或全部是空白: 落到 RemoteAddr.
 	}
 	addr := r.RemoteAddr
 	for i := len(addr) - 1; i >= 0; i-- {

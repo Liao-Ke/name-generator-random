@@ -59,11 +59,25 @@
 | import 写 surnames | `baijiaxing.json` + char 过滤 + validateSurnames |
 | Dockerfile | `/app/api` `/app/import` `/app/keymgmt` |
 
+## 增量: 采样池未被截断 + 限流 IP 取 XFF 末段 (2026-09)
+
+| 路径 | 改动 | 说明 |
+|------|------|------|
+| `internal/api/handler_random.go` | `query.Limit` 由常量 0 改为 `len(candidates)` | 0 会被 `NormalizeQueryConfig` 当"未设置"补成默认 30，导致采样池恒为 30 条：`n>30` 拿不到足量结果，`weighted` 在池内候选同分时退化为 `uniform`。显式上界与前端一致（前端随机排序时传 `candidateDb.length`）。通过率约 0.1%-0.3%，实际池子远小于候选数，不放大后续排序/采样成本 |
+| `internal/api/middleware.go` | `clientIP` 由 XFF 首段改为末段 + 空值回退 `RemoteAddr` | 首段由客户端控制，每请求换一个伪造值即可获得全新限流桶，per-IP 限流形同虚设。末段是最近一跳（可信反代）写入的值 |
+| `internal/api/middleware_test.go` | 新增（无 build tag，随时可跑） | XFF 解析 7 例 + 无端口 `RemoteAddr` + 端到端守栏「伪造首段仍须触发 429」 |
+
+验证结果：
+
+- `go test ./internal/api` 全绿；对照实验中旧实现 8 次伪造请求被限流 **0 次**，新实现按 burst=3 正确触发
+- `NormalizeQueryConfig` 语义确认：`Limit=0 → 30`、显式大值原样保留
+- 修复后 `n` 上限恢复为文档承诺的 50；`weighted` 重新在完整通过集上采样
+
 ## 已知限制
 
 1. **大源 / 全源 p95 不达标** — 单源 wealth/modern ~270–310ms；全源更重。见 arch §性能.
 2. **`localeCompare("zh-Hans-CN")` 不可复刻** — fixture 按同分数组集合比对，不验组内序.
-3. **`X-Forwarded-For` 默认信任** — 前置代理须清洗不可信 XFF.
+3. **`X-Forwarded-For` 末段必须是可信反代写入的** — 实现只取末段（取首段可被客户端伪造绕过限流）。反代必须覆盖写入该头，不得用追加模式；见 deploy 文档上线检查清单。
 4. **compose 不自动 import** — 起 PG 后需跑 `/app/import` 或本机 `go run ./cmd/import`.
 5. **单进程限流** — 多副本不共享桶.
 6. **成功响应无 RateLimit 头** — 仅 429 带 `X-RateLimit-*` / `Retry-After`.

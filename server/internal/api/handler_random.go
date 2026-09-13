@@ -13,25 +13,25 @@ import (
 )
 
 type RandomResponse struct {
-	Query         core.QueryConfig  `json:"query"`
-	Source        RandomSourceLabel `json:"source"`
-	Strategy      string            `json:"strategy"`
-	Seed          int64             `json:"seed"`
-	TotalFiltered int               `json:"total_filtered"`
+	Query         core.QueryConfig    `json:"query"`
+	Source        RandomSourceLabel   `json:"source"`
+	Strategy      string              `json:"strategy"`
+	Seed          int64               `json:"seed"`
+	TotalFiltered int                 `json:"total_filtered"`
 	Results       []core.PublicResult `json:"results"`
 }
 
 type RandomSourceLabel struct {
-	ID     string `json:"id"`
-	Label  string `json:"label"`
-	Count  int    `json:"count"`
+	ID    string `json:"id"`
+	Label string `json:"label"`
+	Count int    `json:"count"`
 }
 
 const (
-	defaultStrategy    = "uniform"
-	defaultAlpha       = 0.15
-	defaultNum         = 5
-	maxNum             = 50
+	defaultStrategy = "uniform"
+	defaultAlpha    = 0.15
+	defaultNum      = 5
+	maxNum          = 50
 )
 
 // allSourceIDs 按 priority 顺序列出的全部来源 id.
@@ -124,7 +124,10 @@ func handleRandom(w http.ResponseWriter, r *http.Request, deps *Deps) {
 		Must:         splitCS(q.Get("must")),
 		MustPosition: firstNonEmpty(q.Get("mustPosition"), "any"),
 		Style:        firstNonEmpty(q.Get("style"), "any"),
-		Limit:        0, // 内部用大 limit 采样, 非 user-facing 切
+		// Limit 留空, 循环结束后按候选总数填: QueryNames 的 limit 是"结果条数上限",
+		// 传 0 会被 NormalizeQueryConfig 当"未设置"补成默认 30, 使采样池被截成 30 条
+		// (n>30 失效, weighted 因候选全同分而退化为 uniform).
+		// 与前端一致: 前端在随机排序时同样传 candidateDb.length 作上界.
 	}
 	n := parseIntDefault(q.Get("n"), defaultNum)
 	if n < 1 {
@@ -150,7 +153,11 @@ func handleRandom(w http.ResponseWriter, r *http.Request, deps *Deps) {
 		return
 	}
 
-	// 跑核心查询 (取大池子供采样, 不切 limit)
+	// 采样池上界 = 过滤前的候选总数, 保证所有通过规则的候选都进池子.
+	// 通过率约 0.1%-0.3%, 因此实际池子远小于候选数, 不会放大后续排序/采样成本.
+	query.Limit = len(candidates)
+
+	// 跑核心查询 (取大池子供采样, 不在这一步切 user-facing 的 n)
 	if isAllSource {
 		query.SourcePreference = "default"
 	} else {
@@ -180,9 +187,9 @@ func handleRandom(w http.ResponseWriter, r *http.Request, deps *Deps) {
 	resp := RandomResponse{
 		Query: query,
 		Source: RandomSourceLabel{
-			ID:     ternaryString(isAllSource, "all", sourceID),
-			Label:  ternaryString(isAllSource, "全部来源", core.GetSourceConfig(sourceID).Label),
-			Count:  len(candidates),
+			ID:    ternaryString(isAllSource, "all", sourceID),
+			Label: ternaryString(isAllSource, "全部来源", core.GetSourceConfig(sourceID).Label),
+			Count: len(candidates),
 		},
 		Strategy:      strategy,
 		Seed:          seed,

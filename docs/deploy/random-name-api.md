@@ -147,7 +147,9 @@ podman compose up -d
 ## 生产上线检查清单
 
 - [ ] `POSTGRES_DSN` SSL 按环境收紧
-- [ ] API 在反代后；反代设置并清洗 `X-Forwarded-For`
+- [ ] API 在反代后；反代**覆盖写入** `X-Forwarded-For`（nginx: `proxy_set_header X-Forwarded-For $remote_addr;`），**不要**用 `$proxy_add_x_forwarded_for` 追加
+  - 限流按 XFF 末段判客户端 IP（首段客户端可伪造）；追加模式下末段仍是客户端可控值，匿名限流会被绕过
+  - 验证方式：分别发 `X-Forwarded-For: 1.1.1.1` 与 `X-Forwarded-For: 2.2.2.2` 的请求，应共用同一个限流桶（超过 rpm 后两者都被 429）
 - [ ] `RATE_LIMIT_RPM / BURST` 按流量调
 - [ ] 已 import（含 surnames）
 - [ ] 至少一个有效 api_keys；验证 `X-Authed-Authed: true`
