@@ -73,6 +73,22 @@
 - `NormalizeQueryConfig` 语义确认：`Limit=0 → 30`、显式大值原样保留
 - 修复后 `n` 上限恢复为文档承诺的 50；`weighted` 重新在完整通过集上采样
 
+## 增量: 导入默认路径不依赖 cwd + 首次真实跑通集成测试 (2026-09)
+
+| 路径 | 改动 | 说明 |
+|------|------|------|
+| `internal/config/config.go` | `CANDIDATE_DATA_DIR` 默认值改为 `../api/database/candidate` | 原默认值 `api/database/candidate` 只有从仓库根执行才成立；README 与 PRD 都要求在 `server/` 下执行，导致照文档操作必然失败 |
+| `cmd/import/main.go` | 抽取 `resolveDataDir` / `resolveDataDirFrom` 纯函数 | 按起点向上最多 5 级定位数据目录；绝对路径原样返回，**回退路径的基准与查找基准统一为 `base`**（原回退用 `filepath.Abs`，以进程 cwd 为基准，会给出误导性路径） |
+| `cmd/import/main_test.go` | 新增 | 多起点解析一致性 + 默认值语义守栏 + 绝对路径不改写 + 未命中回退，均不依赖进程 cwd（仓库根由源码位置推导） |
+
+验证结果（PostgreSQL 16 容器 + 真实数据）：
+
+- 导入：`chars=7474`、`sources=5`、`candidates=163089`、`name_source_names=223405`、`surnames=386`（全部可用，无需删除），行数对照通过
+- **集成测试首次真实执行**（此前因无 PG 全部静默 Skip）：`go test -tags=integration ./...` 全绿
+  - `TestQueryNamesFixtureParity` 12 套 fixtures 逐源对照通过（2.2s），验证 Go 与 TS 内核在真实数据上严格一致
+  - 限流 / 认证 / health 用例全部实际运行并通过
+- 端到端：`n=50` 真实返回 50 条（修复前恒为 30）；`n=100` 被 `maxNum` 正确截到 50
+
 ## 已知限制
 
 1. **大源 / 全源 p95 不达标** — 单源 wealth/modern ~270–310ms；全源更重。见 arch §性能.

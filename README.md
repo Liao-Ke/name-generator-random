@@ -101,9 +101,9 @@
 
 ```bash
 podman compose up -d postgres
-# 在 server/ 下，CANDIDATE_DATA_DIR 指向仓库 api/database/candidate
+# 在 server/ 下执行；候选数据目录默认已指向仓库根的 api/database/candidate，无需额外设置
 POSTGRES_DSN="postgres://namegen:namegen@localhost:5433/namegen?sslmode=disable" \
-  CANDIDATE_DATA_DIR="$PWD/../api/database/candidate" go run ./cmd/import
+  go run ./cmd/import
 POSTGRES_DSN="postgres://namegen:namegen@localhost:5433/namegen?sslmode=disable" \
   go run ./cmd/api
 curl "http://localhost:8080/api/random?n=3"

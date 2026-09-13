@@ -20,17 +20,17 @@ import (
 // JSON 中间结构: 与源数据字段一一对应, 键名保持与文件一致.
 
 type charInfoJSON struct {
-	Char           string `json:"char"`
-	Pinyin         string `json:"pinyin"`
-	Tone           int    `json:"tone"`
-	PinyinNoTone   string `json:"pinyinWithoutTone"`
-	Initial        string `json:"initial"`
-	InitialMethod  string `json:"initialMethod"`
-	InitialPlace   string `json:"initialPlace"`
-	Vowel          string `json:"vowel"`
-	VowelType      string `json:"vowelType"`
-	Count          int    `json:"count"`
-	IsPolyphone    bool   `json:"isPolyphone"`
+	Char          string `json:"char"`
+	Pinyin        string `json:"pinyin"`
+	Tone          int    `json:"tone"`
+	PinyinNoTone  string `json:"pinyinWithoutTone"`
+	Initial       string `json:"initial"`
+	InitialMethod string `json:"initialMethod"`
+	InitialPlace  string `json:"initialPlace"`
+	Vowel         string `json:"vowel"`
+	VowelType     string `json:"vowelType"`
+	Count         int    `json:"count"`
+	IsPolyphone   bool   `json:"isPolyphone"`
 }
 
 type sourceEntryJSON struct {
@@ -49,11 +49,11 @@ type sourceIndexJSON struct {
 }
 
 type sourceStatsJSON struct {
-	ID               string `json:"id"`
-	Label            string `json:"label"`
-	CandidateCount   int    `json:"candidateCount"`
-	File             string `json:"file"`
-	SourceNameFile   string `json:"sourceNameFile"`
+	ID             string `json:"id"`
+	Label          string `json:"label"`
+	CandidateCount int    `json:"candidateCount"`
+	File           string `json:"file"`
+	SourceNameFile string `json:"sourceNameFile"`
 }
 
 func main() {
@@ -78,17 +78,8 @@ func main() {
 		os.Exit(1)
 	}
 
-	dataDir := cfg.CandidateDataDir
-	if !filepath.IsAbs(dataDir) {
-		// import 默认相对仓库根执行. 若相对路径, 优先以当前工作目录解析.
-		if _, err := os.Stat(dataDir); err != nil {
-			abs, aerr := filepath.Abs(dataDir)
-			if aerr == nil {
-				dataDir = abs
-			}
-		}
-	}
-
+	// DEFAULT_DATA_DIR 是相对 server 模块根的路径, 这里按 cwd 向上查找定位, 与在哪层目录执行无关.
+	dataDir := resolveDataDir(cfg.CandidateDataDir)
 	slog.Info("开始导入", "dataDir", dataDir)
 
 	// 1) chars
@@ -569,7 +560,7 @@ func loadCandidatesSimpleForValidate(ctx context.Context, pool *db.Pool, sourceI
 	return core.HydrateCandidateDb(core.HydrateInput{
 		Data:              compact,
 		SourceID:          sourceID,
-		CharDb:           charDb,
+		CharDb:            charDb,
 		SourceNamesByName: nameToSrc,
 	})
 }
@@ -579,4 +570,52 @@ func min(a, b int) int {
 		return a
 	}
 	return b
+}
+
+// DefaultDataDir 候选数据目录的默认值, 相对 server 模块根. cmd/import 按 cwd 向上定位,
+// 因此不要求特定执行目录: `cd server && go run ./cmd/import` 与仓库根执行都能命中.
+const DefaultDataDir = "../api/database/candidate"
+
+// markerFile 数据目录的判定标志: 该文件存在即认为目录正确 (供 resolveDataDir 与测试共用).
+const markerFile = "candidate_char_db.json"
+
+// dirExists 判断路径是否为已存在目录.
+func dirExists(p string) bool {
+	st, err := os.Stat(p)
+	return err == nil && st.IsDir()
+}
+
+// resolveDataDir 以进程当前工作目录为起点定位候选数据目录.
+func resolveDataDir(dir string) string {
+	base, err := os.Getwd()
+	if err != nil {
+		return dir
+	}
+	return resolveDataDirFrom(base, dir)
+}
+
+// resolveDataDirFrom 定位候选数据目录的纯函数实现, base 为解析起点 (便于测试).
+// 绝对路径原样返回; 相对路径以 base 向上最多 5 级逐层拼接, 取第一个真实存在的目录.
+// 例: base=server 时命中 <repo>/api/database/candidate; base=<repo> 时向上 1 级命中同一目录,
+// 因此在 server 下或仓库根执行 import 都能工作, 不依赖 cwd 位置.
+// NOTE 找不到时返回基于 base 的绝对路径; 回退**不能**用 filepath.Abs(dir) ——
+// 那个以进程 cwd 为基准, 与这里的 base 基准不一致, 会得出误导性的路径.
+func resolveDataDirFrom(base, dir string) string {
+	if filepath.IsAbs(dir) {
+		return dir
+	}
+	// 未命中时的返回值: 与查找基准保持一致 (base 来自 Getwd, 一般已是绝对路径).
+	fallback := filepath.Join(base, dir)
+
+	for i := 0; i < 6; i++ {
+		if cand := filepath.Join(base, dir); dirExists(cand) {
+			return cand
+		}
+		parent := filepath.Dir(base)
+		if parent == base {
+			break
+		}
+		base = parent
+	}
+	return fallback
 }

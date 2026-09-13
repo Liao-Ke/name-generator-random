@@ -13,7 +13,8 @@ type Config struct {
 	PostgresDSN string
 	// ListenAddr HTTP 监听地址, 如 ":8080"
 	ListenAddr string
-	// CandidateDataDir 指向仓库根的 api/database/candidate 目录
+	// CandidateDataDir 候选数据目录. 默认相对 server 模块根 (即仓库根下的 api/database/candidate),
+	// 仅 cmd/import 使用; cmd/import 会按 cwd 向上查找定位, 不要求特定执行目录.
 	CandidateDataDir string
 	// RateLimitRPM 匿名限流: 每分钟请求数, 默认 30
 	RateLimitRPM int
@@ -26,7 +27,7 @@ func FromEnv() (Config, error) {
 	cfg := Config{
 		PostgresDSN:      os.Getenv("POSTGRES_DSN"),
 		ListenAddr:       getEnvOrDefault("API_LISTEN_ADDR", ":8080"),
-		CandidateDataDir: getEnvOrDefault("CANDIDATE_DATA_DIR", "api/database/candidate"),
+		CandidateDataDir: getEnvOrDefault("CANDIDATE_DATA_DIR", "../api/database/candidate"),
 		RateLimitRPM:     getEnvIntOrDefault("RATE_LIMIT_RPM", 30),
 	}
 	cfg.RateLimitBurst = getEnvIntOrDefault("RATE_LIMIT_BURST", cfg.RateLimitRPM)
