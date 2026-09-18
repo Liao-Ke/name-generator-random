@@ -65,6 +65,10 @@ curl http://localhost:8080/api/help
 curl "http://localhost:8080/api/random?n=3"                    # 随机姓 + 全源 + uniform
 curl "http://localhost:8080/api/random?surname=姚&n=3&source=academic&strategy=weighted"
 curl "http://localhost:8080/api/name/姚悟移?source=academic"
+
+# 跨域预检: 期望 204 + Access-Control-Allow-Origin (浏览器直连才需要)
+curl -s -o /dev/null -D - -X OPTIONS -H 'Origin: https://example.com' \
+  -H 'Access-Control-Request-Method: GET' http://localhost:8080/api/random
 ```
 
 ### 4. 发放 API key

@@ -132,7 +132,15 @@
 - `gofmt -l` 无输出; `go vet ./...` 与 `go vet -tags=integration ./...` 通过; `go test -count=1 ./...` 全绿
 - 集成测试同步: 429 用例改用 `/api/help`(health 已移出限流链), 新增探针不限额与 `/api/ready` 200 用例
 
-未验证: PG 端到端(本机沙箱 podman 不可用、无 PG 二进制) —— 需在目标机执行 `go test -tags=integration ./...` 与 compose 冒烟。
+容器环境实测（2026-09-18，宿主 `podman compose`，此前本会话沙箱因只读挂载无法跑容器）：
+
+- `podman compose up -d postgres` → PG 容器 Healthy
+- `podman compose --profile import run --rm importer` → 新增的一次性 importer 服务按预期工作：`chars=7474`、`sources=5`、`candidates=163089`、`name_source_names=223405`、`surnames=386`（386/386 全部可用），行数对照通过
+- `podman compose up -d --build api` → 镜像构建成功（Dockerfile 复用既有多阶段流程），api 容器启动
+- `curl /api/ready` → `{"ok":true}`，readiness 探针在真实 PG 上返回 200
+- `go test -tags=integration ./...` **真实执行**（非 Skip）：`internal/api 0.183s`（认证/限流/探针用例）、`internal/core 1.210s`（12 套 fixture 与 TS name-core 逐字段对照）
+
+> NOTE `internal/auth (cached)` 是复用了此前无 PG 时的 Skip 结果；要强制该包真跑加 `-count=1`。
 
 ## 已知限制
 
