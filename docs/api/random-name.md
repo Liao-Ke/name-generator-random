@@ -15,9 +15,19 @@ Base URL (本地开发): `http://localhost:8080`
 
 > 现状：成功响应不附带 `X-RateLimit-*`（handler 未回写中间件桶状态）。限流信息仅在 429 可见。
 
+跨域调用时上述响应头默认不可读，已通过 `Access-Control-Expose-Headers` 显式暴露（见 [跨域](#跨域-cors)）。
+
 ## 端点
 
-全部 `/api/*` 走同一中间件链：`Auth → RateLimit → Handler`。有效 key 跳过限流；**help / health 匿名请求同样计入限流桶**。
+路由分两类，中间件链不同：
+
+| 端点 | 链 | 是否扣匿名桶 |
+|------|----|--------------|
+| `/api/health`、`/api/ready` | `Auth → Handler` | **否**（探针不能被限流，否则负载均衡会摘除健康实例） |
+| `/api/help`、`/api/random`、`/api/name/{fullName}` | `Inflight → Auth → RateLimit → Handler` | 匿名请求扣桶；有效 key 跳过 |
+
+最外层还有 `CORS → RequestLog → Recover`：预检请求在 CORS 层短路，不会进入上面两条链。
+业务端点受 `MAX_INFLIGHT`（默认 16）在途并发上限保护，超限返回 503 而非排队。
 
 ### `GET /api/help`
 
@@ -37,7 +47,8 @@ Base URL (本地开发): `http://localhost:8080`
 
 ### `GET /api/health`
 
-探活 + 五来源静态清单（`core.SourceConfigs`，无 DB）。
+存活探针（liveness）+ 五来源静态清单（`core.SourceConfigs`，无 DB 调用）。**永远 200**：依赖不可用不应触发进程重启。
+不计入匿名限流桶。
 
 **响应 200**:
 ```json
@@ -52,6 +63,22 @@ Base URL (本地开发): `http://localhost:8080`
   ]
 }
 ```
+
+### `GET /api/ready`
+
+就绪探针（readiness）：真实 `Ping` PG（超时 2s）。供负载均衡/编排决定是否摘挂流量。不计入匿名限流桶。
+
+**响应 200**（PG 可用）:
+```json
+{"ok": true}
+```
+
+**响应 503**（PG 不可用）:
+```json
+{"error":"postgres_unavailable","message":"数据库不可用。详见 GET /api/help"}
+```
+
+> 探针不做限流，暴露公网时建议在反向代理层限制 `/api/ready` 的来源网段，避免被当作廉价的 PG 连通性探测入口。
 
 ### `GET /api/random`
 
@@ -125,6 +152,8 @@ Base URL (本地开发): `http://localhost:8080`
 | 422 | `surname_not_in_char_db` | 姓氏不在字库 |
 | 429 | `rate_limited` | 匿名超额，见 `Retry-After` |
 | 500 | `char_db_loading` | 字库未就绪 |
+| 503 | `server_busy` | 在途请求超过 `MAX_INFLIGHT`，见 `Retry-After` |
+| 500 | `internal_error` | handler 内部 panic（已兜底，响应仍为 JSON） |
 
 ### `GET /api/name/{fullName}`
 
@@ -165,6 +194,14 @@ Base URL (本地开发): `http://localhost:8080`
 | 429 | `rate_limited` | 匿名超额 |
 | 500 | `char_db_loading` | 字库未就绪 |
 
+## 跨域 (CORS)
+
+默认放开（`Access-Control-Allow-Origin: *`）—— 本 API 是公开只读接口、不使用 Cookie 凭证，因此不下发 `Access-Control-Allow-Credentials`，通配符不会让第三方站点冒用用户身份。
+
+- **预检**：`OPTIONS` + `Access-Control-Request-Method` → `204` + `Allow-Methods: GET, OPTIONS`、`Allow-Headers: X-API-Key, Authorization, Content-Type`、`Max-Age: 86400`。预检**不经过认证与限流**（浏览器预检不带 key，若扣桶会在额度耗尽时让跨域调用整体失败）。
+- **简单请求**：带 `Origin` 时回 `Access-Control-Allow-Origin` 与 `Access-Control-Expose-Headers`，暴露 `X-RateLimit-Limit/Remaining/Reset`、`Retry-After`、`X-Authed-Authed` —— 不暴露则浏览器 JS 读不到限流状态，无法按 429 退避。
+- **收窄来源**：设 `CORS_ALLOWED_ORIGINS`（逗号分隔白名单，精确匹配 Origin）。白名单模式回显命中的 `Origin` 并声明 `Vary: Origin`；未命中的来源不下发 CORS 头，但请求本身照常处理（服务端到服务端调用不受影响）。
+
 ## 认证
 
 请求头二选一：
@@ -182,7 +219,8 @@ key 由运维 CLI 管理，见 [部署方案](../deploy/random-name-api.md)。
 - 容量 = `RATE_LIMIT_BURST`（默认 = RPM）
 - 速率 = `RATE_LIMIT_RPM / 60` tokens/sec
 - 仅 `authed=false` 扣桶；带有效 key 完全跳过
-- **所有** 匿名 `/api/*`（含 help/health）均扣桶
+- 扣桶范围：`/api/help`、`/api/random`、`/api/name/{fullName}`
+- **探针 `/api/health`、`/api/ready` 不扣桶**（部署期关键：探活不能被限流）
 
 超额：
 ```
@@ -204,3 +242,23 @@ X-Authed-Authed: false
 ```
 
 `message` 末尾固定附加 `。详见 GET /api/help`。
+
+## 并发上限
+
+业务端点（help / random / name）受 `MAX_INFLIGHT`（默认 16）保护：同时执行的请求数达到上限时**立即返回 503 而不排队**。
+动机是全源查询单请求约 260ms 纯 CPU，而匿名限流是 per-IP 的 —— 换 IP 即可绕过，没有在途上限时几十个并发就能打满 CPU，连探针一起拖垮。
+
+```
+HTTP/1.1 503 Service Unavailable
+Retry-After: 1
+Content-Type: application/json
+
+{"error":"server_busy","message":"服务繁忙, 请稍后重试。详见 GET /api/help"}
+```
+
+探针 `/api/health`、`/api/ready` 不受该上限约束。
+
+## 访问日志
+
+每个请求输出一行结构化 slog（stderr），字段：`method` `path` `status` `dur_ms` `ip`(XFF 末段) `authed` `bytes`。
+级别：`>=500` Error、`>=400` Warn、探针 Debug、其余 Info。容器化部署时由 stdout/stderr 收集，未引入 Prometheus 等额外依赖。

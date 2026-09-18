@@ -5,9 +5,11 @@
 ```
 +--------------------+      +-----------------------+
 | cmd/api (main)     | --> | internal/api          | HTTP 路由 + 中间件链
-| - 启动 http.Server |      | - router.go           |
+| - 启动 http.Server |      | - router.go: CORS -> RequestLog -> Recover -> 路由
 | - 优雅停机         |      | - middleware.go: Auth -> RateLimit -> Handler
-+--------------------+      | - handler_health/help/random/name
++--------------------+      | - middleware_cors.go / middleware_ops.go
+                            |   (预检短路 / 请求日志 / panic 兜底 / 在途上限)
+                            | - handler_health/help/random/name (+ ready 探针)
                             | - deps.go: 进程缓存 charDb / candidatesBySource / surnames
                             +-----+-------------------+
                                   |
@@ -74,7 +76,24 @@
 ### 自写 token bucket, 不引 `golang.org/x/time/rate`
 - `x/time/rate` 初 tokens=0, 冷启动第一次请求必被拒, 不符合"匿名 RPM 立即可用"语义.
 - 自写版本预填 burst, 仅 stdlib 依赖.
-- 全部匿名 `/api/*`（含 help/health）扣桶; 成功响应暂不回写 RateLimit 头（仅 429 带）.
+- 除探针外的匿名 `/api/*` 扣桶（`/api/health`、`/api/ready` 不过限流链）; 成功响应暂不回写 RateLimit 头（仅 429 带）.
+
+### 探活分层: /api/health = liveness, /api/ready = readiness
+- 原实现把 health 与业务端点挂在同一条链上, 探针消耗匿名额度; 且 health 不查 DB —— PG 挂了探针仍 200, 编排既不摘流量也不重启, 故障表现为持续的 5xx.
+- 现在: health 永远 200 且不查依赖(进程活着); ready 真实 Ping PG, 失败 503(是否接流量). 两者都不限流、不占在途名额 —— 探针失败会触发摘除或重启, 不能因为额度耗尽而失败.
+- 代价: `/api/ready` 成为廉价的 PG 连通性探测入口, 暴露公网时由反代限制来源网段.
+
+### 在途并发上限 (MAX_INFLIGHT, 默认 16)
+- 全源查询单请求约 260ms 纯 CPU, 而匿名限流是 per-IP 的 —— 换 IP 即可绕过; 没有在途上限时几十个并发就能打满 CPU, 连探针一起拖垮.
+- 名额满时立即 503 + Retry-After, 不排队: 排队会把尾延迟放大成雪崩, 立即失败让客户端按 Retry-After 退避.
+- 代价: 瞬时高峰下部分正常请求拿到 503; 上限必须按核数与压测结果调整, 默认 16 只是保守起点.
+
+### CORS 默认放开 + 访问日志
+- 公开只读 API、不使用 Cookie 凭证, 因此默认 `Access-Control-Allow-Origin: *` 不引入身份冒用风险; 需要收窄时用 `CORS_ALLOWED_ORIGINS` 白名单.
+- 预检在 CORS 层短路返回 204, 不进认证与限流: 浏览器预检按规范不带 X-API-Key, 若扣桶会在额度耗尽时让跨域调用整体失败.
+- 跨域下 JS 默认读不到自定义响应头, 因此显式 `Access-Control-Expose-Headers` 暴露 X-RateLimit-* / Retry-After / X-Authed-Authed.
+- 访问日志用 stdlib slog 一行一请求(方法/路径/状态/耗时/IP/authed/字节), 级别按状态码分层; 不引指标库, 错误率与限流速率由日志聚合得到.
+- 认证结果回写日志用请求级 `reqInfo` 指针(而非不可变 ctx 值)传递: 外层日志中间件要读内层认证中间件写入的字段.
 
 ### PG 多 key 表, key 管理 CLI 而非 HTTP 端点
 - YAGNI: 没人在生产 HTTP 上做 key 自助发放, 反引攻击面.
@@ -84,6 +103,11 @@
 
 ```
 匿名 GET /api/random  (无 surname / 无 source)
+  -> CORS (无 Origin: 直通; 有 Origin: 加 CORS 头; 预检: 204 短路)
+  -> RequestLog (装 reqInfo; 记录 status/dur/ip/authed/bytes)
+  -> RecoverMiddleware (panic -> 500 JSON)
+  -> InflightMiddleware 名额满 -> 503 server_busy + Retry-After
+                        有名额 -> 继续
   -> AuthMiddleware (ctx authed=false)
   -> RateLimitMiddleware.Allow(ip) not OK -> 429 + Retry-After + 限流头
                                  OK -> 继续
@@ -142,3 +166,5 @@
 | 同分内排序 | `localeCompare("zh-Hans-CN")` ICU | 主拼音 + Unicode 字节 tiebreak | 极少数同分同拼音不同字序差异; fixture 严格集对比覆盖. |
 | CharDb 缺失容差 | 过滤掉缺失候选 | 同 TS | 无. |
 | RateLimit 成功头 | (N/A, 原前端无) | 成功响应不带 X-RateLimit-* | 客户端只能在 429 看到桶状态. |
+| 探针限流 | 原实现 health 与业务共用限流桶 | health/ready 不过限流链 | 探针不再消耗匿名额度, 也不会被 429. |
+| 跨域来源 | (N/A) | 默认 `*`, 可白名单收窄 | 浏览器页面可直接调用; 需要来源隔离时配 CORS_ALLOWED_ORIGINS. |

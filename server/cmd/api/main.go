@@ -46,11 +46,14 @@ func main() {
 	limiter := ratelimit.New(cfg.RateLimitRPM, cfg.RateLimitBurst)
 	defer limiter.Close()
 
-	mux := api.BuildMux(deps, authn, limiter)
+	handler := api.BuildMux(deps, authn, limiter, api.Options{
+		AllowedOrigins: cfg.CORSAllowedOrigins,
+		MaxInflight:    cfg.MaxInflight,
+	})
 
 	srv := &http.Server{
 		Addr:              cfg.ListenAddr,
-		Handler:           mux,
+		Handler:           handler,
 		ReadHeaderTimeout: 5 * time.Second,
 		ReadTimeout:       10 * time.Second,
 		WriteTimeout:      30 * time.Second,
@@ -58,7 +61,11 @@ func main() {
 	}
 
 	go func() {
-		slog.Info("服务监听", "addr", cfg.ListenAddr, "rate_limit_rpm", cfg.RateLimitRPM)
+		slog.Info("服务监听",
+			"addr", cfg.ListenAddr,
+			"rate_limit_rpm", cfg.RateLimitRPM,
+			"cors_origins", cfg.CORSAllowedOrigins,
+			"max_inflight", cfg.MaxInflight)
 		if err := srv.ListenAndServe(); err != nil && err != http.ErrServerClosed {
 			slog.Error("ListenAndServe 失败", "err", err)
 			os.Exit(1)

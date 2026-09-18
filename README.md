@@ -99,6 +99,9 @@
 - 本地部署: [docs/deploy/random-name-api.md](./docs/deploy/random-name-api.md)
 - 库表: [docs/db/random-name-api.md](./docs/db/random-name-api.md)
 
+两个探针: `GET /api/health`(liveness, 永远 200) 与 `GET /api/ready`(readiness, 真实 Ping PG, 失败 503); 二者不计入匿名限流。
+浏览器可直接跨域调用(默认 `Access-Control-Allow-Origin: *`, 公开只读接口不使用 Cookie 凭证), 需要收窄时设 `CORS_ALLOWED_ORIGINS`。
+
 ```bash
 podman compose up -d postgres
 # 在 server/ 下执行；候选数据目录默认已指向仓库根的 api/database/candidate，无需额外设置

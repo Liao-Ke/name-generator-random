@@ -31,6 +31,10 @@ func AuthMiddleware(authn *auth.Auth) func(http.Handler) http.Handler {
 			if key != "" {
 				authed = authn.IsValidKey(r.Context(), key)
 			}
+			// 回写给访问日志: reqInfo 由 RequestLog 以指针形式安装, 未安装时静默跳过
+			if info := reqInfoFrom(r); info != nil {
+				info.authed = authed
+			}
 			ctx := context.WithValue(r.Context(), ctxKeyAuthed{}, authed)
 			next.ServeHTTP(w, r.WithContext(ctx))
 		})

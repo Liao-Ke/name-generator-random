@@ -29,6 +29,13 @@ POSTGRES_DSN="postgres://namegen:namegen@localhost:5433/namegen?sslmode=disable"
 
 在 `server/` 目录执行时把 `CANDIDATE_DATA_DIR` 指到仓库根下的 candidate 目录。
 
+**容器方式（不装 Go 工具链时用这条）**：compose 内置一次性 `importer` 服务，已挂载候选数据目录并指向容器内路径：
+
+```bash
+podman compose up -d postgres
+podman compose --profile import run --rm importer   # 幂等：重复执行按 source 覆盖写
+```
+
 预期日志含：`chars` / `sources` / 各源 `candidates` / `name_source_names` / `surnames` / `行数对照通过`。
 
 ### 2. 启动 API
@@ -52,7 +59,8 @@ go build -o ./bin/api ./cmd/api
 ### 3. 冒烟验证
 
 ```bash
-curl http://localhost:8080/api/health
+curl http://localhost:8080/api/health   # liveness: 永远 200, 不查 DB
+curl http://localhost:8080/api/ready    # readiness: Ping PG, DB 挂了返 503
 curl http://localhost:8080/api/help
 curl "http://localhost:8080/api/random?n=3"                    # 随机姓 + 全源 + uniform
 curl "http://localhost:8080/api/random?surname=姚&n=3&source=academic&strategy=weighted"
@@ -86,9 +94,11 @@ POSTGRES_DSN="..." go run ./cmd/keymgmt revoke --label "租户A"
 |-----|------|------|------|
 | `POSTGRES_DSN` | 是 | — | 如 `postgres://u:p@host:5432/db?sslmode=disable` |
 | `API_LISTEN_ADDR` | 否 | `:8080` | 监听地址 |
-| `CANDIDATE_DATA_DIR` | 否 | `api/database/candidate` | **仅 import** |
-| `RATE_LIMIT_RPM` | 否 | `30` | 匿名每分钟请求数 |
+| `CANDIDATE_DATA_DIR` | 否 | `../api/database/candidate`（容器内由 compose 指向 `/data/candidate`） | **仅 import** |
+| `RATE_LIMIT_RPM` | 否 | `30` | 匿名每分钟请求数（探针不计入） |
 | `RATE_LIMIT_BURST` | 否 | `=RPM` | 令牌桶容量 |
+| `CORS_ALLOWED_ORIGINS` | 否 | `*` | 浏览器跨域允许来源，逗号分隔白名单；默认放开（公开只读 API，不使用 Cookie 凭证） |
+| `MAX_INFLIGHT` | 否 | `16` | 业务端点并发上限，超出即 503（探针不受限）；按核数压测后调整 |
 
 ### 完整栈
 
@@ -141,8 +151,20 @@ podman compose up -d
 
 ## 监控 / 健康检查
 
-- `GET /api/health` 探活（**计入匿名限流**；高频探活请带 key 或调高 RPM）
-- 性能见 `docs/arch/random-name-api.md` §性能现状
+两个探针分工明确，都**不消耗匿名限流额度**、**不受并发上限约束**：
+
+| 探针 | 语义 | 行为 | 用途 |
+|------|------|------|------|
+| `GET /api/health` | liveness | 永远 200，不查依赖 | 进程是否需要重启（依赖挂了不该重启进程） |
+| `GET /api/ready` | readiness | 真实 Ping PG，失败 503 | 是否接流量（负载均衡摘挂） |
+
+建议编排配置：readiness 探 `/api/ready`（interval 10s / timeout 3s / 失败 3 次摘除）；liveness 只探 `/api/health`。
+compose 里的 api 服务已按此配置 healthcheck。
+
+**访问日志**：每请求一行结构化 slog（stderr），字段 `method/path/status/dur_ms/ip/authed/bytes`；
+级别为 `>=500` Error、`>=400` Warn、探针 Debug、其余 Info。接入日志收集即可得到错误率与限流速率，无需额外依赖。
+
+性能见 `docs/arch/random-name-api.md` §性能现状。
 
 ## 生产上线检查清单
 
@@ -151,7 +173,11 @@ podman compose up -d
   - 限流按 XFF 末段判客户端 IP（首段客户端可伪造）；追加模式下末段仍是客户端可控值，匿名限流会被绕过
   - 验证方式：分别发 `X-Forwarded-For: 1.1.1.1` 与 `X-Forwarded-For: 2.2.2.2` 的请求，应共用同一个限流桶（超过 rpm 后两者都被 429）
 - [ ] `RATE_LIMIT_RPM / BURST` 按流量调
-- [ ] 已 import（含 surnames）
+- [ ] `MAX_INFLIGHT` 按实际核数与压测结果调（默认 16；设为 0 等于关闭保护）
+- [ ] CORS：默认 `*`。若只给自有页面用，改成 `CORS_ALLOWED_ORIGINS` 白名单
+- [ ] 反代限制 `/api/ready` 来源网段（探针不限流，避免被当作廉价的 PG 探测入口）
+- [ ] 编排接入探针：liveness=`/api/health`，readiness=`/api/ready`
+- [ ] 已 import（含 surnames）；容器方式：`podman compose --profile import run --rm importer`
 - [ ] 至少一个有效 api_keys；验证 `X-Authed-Authed: true`
 - [ ] `.data/pg` 或外部卷持久化
-- [ ] slog stderr 接入日志收集
+- [ ] slog stderr 接入日志收集（含访问日志，字段见接口文档）

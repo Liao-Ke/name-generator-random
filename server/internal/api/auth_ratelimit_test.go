@@ -47,7 +47,7 @@ func newServer(t *testing.T, rpm, burst int) (*httptest.Server, *db.Pool) {
 	rl := ratelimit.New(rpm, burst)
 	t.Cleanup(func() { rl.Close() })
 
-	mux := api.BuildMux(deps, authn, rl)
+	mux := api.BuildMux(deps, authn, rl, api.Options{MaxInflight: 8})
 	srv := httptest.NewServer(mux)
 	t.Cleanup(func() { srv.Close() })
 	return srv, pool
@@ -66,8 +66,9 @@ func TestRateLimit_Anonymous429AfterBurst(t *testing.T) {
 	c := srv.Client()
 	var firstStatus int
 	passed, blocked := 0, 0
+	// 用 /api/help 而非 /api/health: 探针已移出限流链, 不再消耗匿名额度
 	for i := 0; i < 30; i++ {
-		resp, err := c.Get(srv.URL + "/api/health")
+		resp, err := c.Get(srv.URL + "/api/help")
 		if err != nil {
 			t.Fatalf("get: %v", err)
 		}
@@ -97,7 +98,7 @@ func TestRateLimit_AuthedSkipsLimit(t *testing.T) {
 	c := srv.Client()
 	passed := 0
 	for i := 0; i < 8; i++ {
-		req, _ := http.NewRequest("GET", srv.URL+"/api/health", nil)
+		req, _ := http.NewRequest("GET", srv.URL+"/api/help", nil)
 		req.Header.Set("X-API-Key", "test-rate-bypass-key")
 		resp, err := c.Do(req)
 		if err != nil {
@@ -164,5 +165,42 @@ func TestHealth_OkBody(t *testing.T) {
 	body, _ := io.ReadAll(resp.Body)
 	if !strings.Contains(string(body), "\"ok\":true") {
 		t.Errorf("health body missing ok:true: %s", string(body))
+	}
+}
+
+// TestProbes_NotRateLimited 守栏: 探针不消耗匿名额度 (burst=1 时连发多次仍应全 200).
+// 探针若被限流, 负载均衡会把健康实例摘掉或编排系统反复重启 —— 这是部署期最容易踩的坑.
+func TestProbes_NotRateLimited(t *testing.T) {
+	srv, _ := newServer(t, 30, 1)
+	c := srv.Client()
+	for _, p := range []string{"/api/health", "/api/ready"} {
+		for i := 0; i < 3; i++ {
+			resp, err := c.Get(srv.URL + p)
+			if err != nil {
+				t.Fatalf("get %s: %v", p, err)
+			}
+			io.Copy(io.Discard, resp.Body)
+			resp.Body.Close()
+			if resp.StatusCode != http.StatusOK {
+				t.Errorf("%s 第 %d 次应 200, got %d", p, i+1, resp.StatusCode)
+			}
+		}
+	}
+}
+
+// TestReady_PingsPostgres 就绪探针必须真实探测依赖: PG 可用时 200 + ok:true.
+func TestReady_PingsPostgres(t *testing.T) {
+	srv, _ := newServer(t, 30, 30)
+	resp, err := srv.Client().Get(srv.URL + "/api/ready")
+	if err != nil {
+		t.Fatalf("get: %v", err)
+	}
+	defer resp.Body.Close()
+	if resp.StatusCode != http.StatusOK {
+		t.Fatalf("ready 应 200, got %d", resp.StatusCode)
+	}
+	body, _ := io.ReadAll(resp.Body)
+	if !strings.Contains(string(body), "\"ok\":true") {
+		t.Errorf("ready 响应缺少 ok:true: %s", string(body))
 	}
 }

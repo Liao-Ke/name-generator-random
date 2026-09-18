@@ -1,6 +1,7 @@
 # 随机名字 API - 本地开发与部署
-# 用法: podman compose up -d
-# 停止: podman compose down
+# 用法: podman compose up -d               # postgres + api
+#       停止: podman compose down
+#       首次导入数据: podman compose --profile import run --rm importer
 # 数据卷持久化在 ./.data/pg (见 volumes)
 
 services:
@@ -37,7 +38,37 @@ services:
       # 限流: 匿名 30 req/min
       RATE_LIMIT_RPM: "30"
       RATE_LIMIT_BURST: "30"
-      # 可选: 加密密钥 / 其他配置后补
+      # 业务端点并发上限: 超过即 503, 保护 CPU (全源查询单请求约 260ms 纯 CPU)
+      MAX_INFLIGHT: "16"
+      # 浏览器跨域允许来源: 默认 * (公开只读 API, 不使用 Cookie 凭证).
+      # 需要收窄时改成逗号分隔白名单, 例如 https://name-generator.yaozeyuan.online
+      CORS_ALLOWED_ORIGINS: "*"
     ports:
       - "8080:8080"
+    # 就绪探针: 真实 Ping PG, DB 不可用时容器标记为 unhealthy (alpine 自带 busybox wget)
+    healthcheck:
+      test: ["CMD-SHELL", "wget -q -O- http://127.0.0.1:8080/api/ready >/dev/null || exit 1"]
+      interval: 10s
+      timeout: 3s
+      retries: 3
+      start_period: 15s
     restart: unless-stopped
+
+  # 一次性数据导入. 用 profile 隔离, 不会随 `up -d` 自动跑 (重复导入是幂等覆盖, 但没必要).
+  # 用法: podman compose --profile import run --rm importer
+  importer:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    profiles: ["import"]
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      POSTGRES_DSN: "postgres://namegen:namegen@postgres:5432/namegen?sslmode=disable"
+      # 绝对路径: 由下方 volumes 挂载点提供
+      CANDIDATE_DATA_DIR: "/data/candidate"
+    volumes:
+      - ./api/database/candidate:/data/candidate:Z
+    entrypoint: ["/app/import"]
+    restart: "no"

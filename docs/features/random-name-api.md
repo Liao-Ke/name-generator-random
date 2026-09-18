@@ -110,6 +110,30 @@
 1. 加权采样不是瓶颈（uniform 246 ms vs weighted 238 ms，噪声级差异）
 2. 切片扩容不是主因（单做完整预分配仅改善约 9%）；主因是重结构体被反复复制
 
+## 增量: 部署加固 —— CORS / 探活分层 / 访问日志 / 并发上限 (2026-09)
+
+上线前缺口清单的落地。原状态下服务能跑但不可直接对外: 浏览器跨域调用必失败, 探针与业务共用限流桶且不查依赖, 无访问日志, 热查询无并发保护。
+
+| 路径 | 改动 | 说明 |
+|------|------|------|
+| `internal/api/middleware_cors.go` | 新增 | 预检短路(204, 不进认证/限流) + 简单请求回 `Allow-Origin` 与 `Access-Control-Expose-Headers`(暴露限流头, 否则浏览器读不到); 白名单模式回显 Origin 并声明 `Vary: Origin` |
+| `internal/api/middleware_ops.go` | 新增 | 访问日志(状态/耗时/IP/authed/字节, 级别按状态码分层) + `RecoverMiddleware`(panic→500 JSON) + `InflightMiddleware`(在途上限, 满额立即 503 不排队) |
+| `internal/api/handler_health.go` | 改 | `HealthHandler` 保持 200 不查依赖(liveness); 新增 `ReadyHandler` 真实 `Ping` PG, 失败 503(readiness, 2s 超时) |
+| `internal/api/router.go` | 改 | 链改为 `CORS → RequestLog → Recover → 路由`; 探针只走认证(不限流/不占在途名额), 业务走 `Inflight → Auth → RateLimit`; `BuildMux` 增 `Options` 并返回 `http.Handler` |
+| `internal/api/middleware.go` | 改 | `AuthMiddleware` 把认证结果回写到请求级 `reqInfo` 指针, 供外层访问日志读取 |
+| `internal/config/config.go` | 改 | 新增 `CORS_ALLOWED_ORIGINS`(默认 `*`) 与 `MAX_INFLIGHT`(默认 16) |
+| `docker-compose.yml` | 改 | api 服务加健康检查(探 `/api/ready`)与两个新 env; 新增 `importer` 一次性服务(`--profile import`), 首次导入不再需要手工 `podman run` |
+| `.github/workflows/go.yml` | 改 | 新增「集成测试编译检查」(`go vet -tags=integration ./...`, 只编译不运行): 集成测试带 build tag, 默认不参与编译, 改了公开签名却漏改集成测试时 CI 会静默放过 |
+
+验证结果（本机，无 PG）:
+
+- 新增白盒测试: CORS 预检短路/暴露头/白名单与无 Origin 分支/白名单预检、在途上限拒绝与恢复、状态码捕获、日志记录 authed、panic→500
+- 新增装配级测试 `router_test.go`: 用真实 `BuildMux` 链路验证「预检在链最外层且不扣桶」「health 连发不限额、help 照常 429」「404 JSON」「匿名 X-Authed-Authed=false」
+- `gofmt -l` 无输出; `go vet ./...` 与 `go vet -tags=integration ./...` 通过; `go test -count=1 ./...` 全绿
+- 集成测试同步: 429 用例改用 `/api/help`(health 已移出限流链), 新增探针不限额与 `/api/ready` 200 用例
+
+未验证: PG 端到端(本机沙箱 podman 不可用、无 PG 二进制) —— 需在目标机执行 `go test -tags=integration ./...` 与 compose 冒烟。
+
 ## 已知限制
 
 1. **大源 / 全源 p95 不达标** — 单源 wealth/modern ~270–310ms；全源更重。见 arch §性能.
@@ -118,4 +142,6 @@
 4. **compose 不自动 import** — 起 PG 后需跑 `/app/import` 或本机 `go run ./cmd/import`.
 5. **单进程限流** — 多副本不共享桶.
 6. **成功响应无 RateLimit 头** — 仅 429 带 `X-RateLimit-*` / `Retry-After`.
-7. **help/health 计入匿名限流** — 与业务接口共用桶，探活频繁可能触发 429.
+7. **`/api/help` 计入匿名限流**（`/api/health`、`/api/ready` 已移出限流链，探活不再消耗额度）.
+8. **`MAX_INFLIGHT` 满额即 503** — 有意的快速失败，不做排队；上限需按核数压测调整.
+9. **`/api/ready` 不限流** — 需在反代层限制其来源网段，否则可被当作廉价的 PG 连通性探测入口.
