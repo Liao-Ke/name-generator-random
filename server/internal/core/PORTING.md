@@ -13,7 +13,7 @@
 | `phoneticRules.ts` | `phonetic.go` | ToneScoreMap / NormalizeStyle / EvaluatePhonetics / checkPair |
 | `nameRules.ts` | `rules.go` | Negative/Hard/NonName/Cliche 表 / EvaluateSemanticSafety / CheckAvoidRules / CheckMustRules |
 | `scoreName.ts` | `score.go` | scoreSource / scoreCharQuality / scoreRarity / scoreExplainability / ScoreCandidate |
-| `queryName.ts` | `query.go` | NormalizeQueryConfig / QueryNames / sortResults |
+| `queryName.ts` | `query.go` | NormalizeQueryConfig / QueryNames / nameSortKey / sortLight |
 | `candidateRuntime.ts` | `hydrate.go` | IsCandidateName / ToCandidateSource / HydrateCandidateDb |
 | `explainName.ts` | `explain.go` | ExplainCandidate / ToPublicResult |
 

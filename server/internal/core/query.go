@@ -46,7 +46,7 @@ func NormalizeQueryConfig(query QueryConfig) QueryConfig {
 type lightResult struct {
 	idx      int32  // 在 candidateDb 中的下标, 最终构造时直接取回候选, 避免再次查找
 	name     string // 2 字名
-	nameKey  string // 排序键: 逐字 "声母韵母(去调)+调号+原字符", 等价于 compareZhName
+	nameKey  string // 排序键, 语义见 nameSortKey (拼音主序 + 调号序 + 字符码点)
 	score    int
 	phonetic PhoneticResult
 	semantic SemanticResult
@@ -132,9 +132,9 @@ func QueryNames(candidateDb []CandidateName, charDb CharDb, query QueryConfig) (
 	return results, nil
 }
 
-// nameSortKey 构造与 compareZhName 等价的排序键:
-// 逐字拼接 "拼音(去调)" + "调号" + 原字符(同拼同调时按 unicode 码点 tiebreak).
-// 与 compareZhName 的逐字比较顺序一致, 因此两种比较结果相同.
+// nameSortKey 构造二字名的排序键: 逐字拼接 "拼音(去调)" + "调号" + 原字符.
+// 对该键做字节序比较, 等价于「拼音主序 → 调号数值序 → 字符 unicode 码点」的逐字比较,
+// 即复刻 Node localeCompare("zh-Hans-CN") 在二字名上的行为 (差异见 docs/arch 已知差异表).
 func nameSortKey(a, b CharInfo) string {
 	return a.PinyinNoTone + itoaTone(a.Tone) + a.Char +
 		b.PinyinNoTone + itoaTone(b.Tone) + b.Char
@@ -166,53 +166,4 @@ func sortLight(rs []lightResult) {
 func lightChars(charDb CharDb, name string) [2]CharInfo {
 	cs := SplitChars(name)
 	return [2]CharInfo{charDb[cs[0]], charDb[cs[1]]}
-}
-
-// sortResults 按 score 降序, 同分按 name 拼音字典序(node zh-Hans-CN 语义) 升序.
-// 算法: 主 key 拼音 (PinyinNoTone 字母序 + Tone 数值), tiebreak 用字符 unicode 码点.
-// 该实现刻意复刻 Node localeCompare("zh-Hans-CN") 行为; 未引入第三方 collate.
-// 保留本函数供对 ScoredCandidate 的既有调用方使用; QueryNames 内部走 sortLight.
-func sortResults(charDb CharDb, rs []ScoredCandidate) {
-	sort.SliceStable(rs, func(i, j int) bool {
-		if rs[i].Score != rs[j].Score {
-			return rs[i].Score > rs[j].Score
-		}
-		return compareZhName(charDb, rs[i].Name, rs[j].Name) < 0
-	})
-}
-
-// compareZhName 按拼音主序 + 字符 unicode 码点 tiebreak 比较 2 字名 a 和 b.
-// 返回 -1 / 0 / 1. 字符 charDb 缺失时该位置以字符零值 PinyinNoTone="" / Tone=0 参与比较,
-// 与 Node 行为不严格一致, 但 queryNames 已经过滤掉字库缺失候选, 实际不会触发.
-func compareZhName(charDb CharDb, a, b string) int {
-	ra := SplitChars(a)
-	rb := SplitChars(b)
-	n := len(ra)
-	if len(rb) < n {
-		n = len(rb)
-	}
-	for i := 0; i < n; i++ {
-		ca := charDb[ra[i]]
-		cb := charDb[rb[i]]
-		if ca.PinyinNoTone < cb.PinyinNoTone {
-			return -1
-		}
-		if ca.PinyinNoTone > cb.PinyinNoTone {
-			return 1
-		}
-		if ca.Tone < cb.Tone {
-			return -1
-		}
-		if ca.Tone > cb.Tone {
-			return 1
-		}
-		// 同拼同调: 用字符 unicode 字节序 tiebreak (与 Node localeCompare 一致)
-		if ra[i] < rb[i] {
-			return -1
-		}
-		if ra[i] > rb[i] {
-			return 1
-		}
-	}
-	return len(ra) - len(rb)
 }
