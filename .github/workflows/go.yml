@@ -5,6 +5,7 @@
 #
 # CI 不跑集成测试(-tags=integration): 那些用例需要 PostgreSQL 与真实数据导入,
 # 连不上时会静默 Skip, 放进 CI 只会给出虚假的绿色. 集成测试请按 docs/deploy 起容器后本地执行.
+# 但会编译检查它们(见下方 '集成测试编译检查'): 只编译不运行, 防止签名变更让集成测试悄悄编译不过.
 name: go
 
 on:
@@ -53,6 +54,12 @@ jobs:
 
       - name: go vet
         run: go vet ./...
+
+      # 集成测试文件带 //go:build integration, 默认构建不参与编译.
+      # 只编译不运行: 改了公开签名(如 api.BuildMux)却漏改集成测试时, 这里会立刻报错;
+      # 单靠 'go vet ./...' 发现不了 —— 那些文件那时根本没进编译单元.
+      - name: 集成测试编译检查
+        run: go vet -tags=integration ./...
 
       - name: 单元测试
         run: go test -count=1 ./...
